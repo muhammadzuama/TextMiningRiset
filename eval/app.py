@@ -12,7 +12,6 @@ Output:
 import json
 import logging
 import math
-import re
 from pathlib import Path
 from langchain.retrievers import EnsembleRetriever
 import numpy as np

@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>KUHP Legal AI — Asisten Hukum Pidana</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="/static/style.css"/>
+</head>
+<body>
+  <!-- Ambient background -->
+  <div class="bg-grid"></div>
+  <div class="bg-glow"></div>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-bracket">[</span>
+        <span class="logo-text">KUHP<span class="logo-ai">.AI</span></span>
+        <span class="logo-bracket">]</span>
+      </div>
+      <nav class="nav">
+        <button class="nav-btn active" data-tab="tanya">Tanya</button>
+        <button class="nav-btn" data-tab="riwayat">Riwayat</button>
+      </nav>
+      <a href="/download-csv" class="btn-export">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        Ekspor CSV
+      </a>
+    </div>
+  </header>
+
+  <!-- Main content -->
+  <main class="main">
+
+    <!-- TAB: TANYA -->
+    <section class="tab-panel active" id="tab-tanya">
+      <div class="split-layout">
+
+        <!-- Left: Input panel -->
+        <div class="panel panel-input">
+          <div class="panel-label">// KONFIGURASI</div>
+
+          <div class="field-group">
+            <label class="field-label">LLM Model (Ollama)</label>
+            <div class="llm-select-wrap">
+              <select id="llm-select" class="llm-select">
+                {% for m in llm_models %}
+                <option value="{{ m.name }}" {% if loop.first %}selected{% endif %}>
+                  {{ m.name }}{% if m.description %} — {{ m.description }}{% endif %}
+                </option>
+                {% endfor %}
+              </select>
+              <button id="refresh-llm" class="btn-refresh-llm" title="Refresh daftar model">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
+              </button>
+            </div>
+            <div class="llm-hint" id="llm-hint">Menampilkan model yang tersedia di Ollama lokal Anda.</div>
+          </div>
+
+          <div class="field-group">
+            <label class="field-label">Model Embedding</label>
+            <div class="model-cards">
+              {% for key, cfg in models.items() %}
+              <label class="model-card">
+                <input type="radio" name="model" value="{{ key }}" {% if loop.first %}checked{% endif %}/>
+                <div class="model-card-inner">
+                  <div class="model-card-name">{{ key }}</div>
+                  <div class="model-card-desc">{{ cfg.description }}</div>
+                  <div class="model-card-check">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg>
+                  </div>
+                </div>
+              </label>
+              {% endfor %}
+            </div>
+          </div>
+
+          <div class="field-group">
+            <label class="field-label" for="question-input">Pertanyaan / Kasus Hukum</label>
+            <textarea id="question-input" class="textarea" rows="6"
+              placeholder="Contoh: Berapa ancaman pidana jika seseorang melakukan penghinaan terhadap Presiden di media sosial?"></textarea>
+            <div class="char-count"><span id="char-count">0</span> karakter</div>
+          </div>
+
+          <button id="submit-btn" class="btn-submit">
+            <span class="btn-text">Analisis Hukum</span>
+            <span class="btn-icon">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+            </span>
+          </button>
+
+          <!-- Sample questions -->
+          <div class="samples">
+            <div class="samples-label">Contoh pertanyaan:</div>
+            <button class="sample-pill" data-q="Berapa denda maksimal kalau ketahuan main judi online?">Judi online</button>
+            <button class="sample-pill" data-q="Apa ancaman pidana untuk pelaku pencurian dengan kekerasan?">Pencurian kekerasan</button>
+            <button class="sample-pill" data-q="Kalau menghina Presiden di media sosial, ancamannya berapa?">Menghina Presiden</button>
+            <button class="sample-pill" data-q="Apa hukuman untuk pelaku korupsi dana negara?">Korupsi</button>
+          </div>
+        </div>
+
+        <!-- Right: Answer panel -->
+        <div class="panel panel-answer">
+          <div class="panel-label">// ANALISIS HUKUM</div>
+
+          <div id="answer-idle" class="answer-idle">
+            <div class="idle-icon">⚖</div>
+            <p>Masukkan pertanyaan hukum dan pilih model embedding untuk memulai analisis.</p>
+          </div>
+
+          <div id="answer-loading" class="answer-loading hidden">
+            <div class="loading-bar">
+              <div class="loading-bar-inner"></div>
+            </div>
+            <div class="loading-steps">
+              <div class="loading-step active" id="step-1">
+                <span class="step-dot"></span> Memuat model embedding...
+              </div>
+              <div class="loading-step" id="step-2">
+                <span class="step-dot"></span> Mencari dokumen relevan...
+              </div>
+              <div class="loading-step" id="step-3">
+                <span class="step-dot"></span> Menganalisis pasal KUHP...
+              </div>
+            </div>
+          </div>
+
+          <div id="answer-content" class="answer-content hidden">
+            <div class="answer-meta">
+              <span class="meta-badge meta-llm" id="meta-llm"></span>
+              <span class="meta-sep">+</span>
+              <span class="meta-badge meta-embed" id="meta-model"></span>
+              <span class="meta-time" id="meta-time"></span>
+            </div>
+            <div id="answer-text" class="answer-text"></div>
+            <div class="answer-actions">
+              <button class="btn-copy" id="copy-btn">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+                Salin
+              </button>
+            </div>
+          </div>
+
+          <div id="answer-error" class="answer-error hidden">
+            <span class="error-icon">!</span>
+            <span id="error-text"></span>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- TAB: RIWAYAT -->
+    <section class="tab-panel" id="tab-riwayat">
+      <div class="history-header">
+        <div class="panel-label">// RIWAYAT SESI</div>
+        <button id="refresh-history" class="btn-refresh">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
+          Refresh
+        </button>
+      </div>
+      <div id="history-container" class="history-container">
+        <div class="history-empty">
+          <p>Belum ada riwayat pertanyaan.</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <span>KUHP Legal AI &mdash; Sistem Retrieval Augmented Generation Hukum Pidana Indonesia</span>
+    <span class="footer-dot">·</span>
+    <span>Powered by LangChain + Ollama (Gemma3:4b)</span>
+  </footer>
+
+  <script src="/static/main.js"></script>
+</body>
+</html>

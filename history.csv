@@ -1,0 +1,1460 @@
+timestamp,model_embedding,model_llm,question,answer
+2026-03-29T19:23:19.351102,Indo Sentence BERT,gemma3:4b,Berapa denda maksimal kalau ketahuan main judi online?,"Berdasarkan konteks yang diberikan, pasal yang relevan untuk kasus main judi online adalah Pasal 427. Pasal ini mengatur tentang orang yang menggunakan kesempatan main judi yang diadakan tanpa izin. 
+
+Sanksi yang dikenakan adalah pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori III. 
+
+Meskipun konteks tidak secara spesifik menyebutkan judi online, prinsipnya sama. Denda maksimal yang bisa dijatuhkan adalah paling banyak kategori III. Kategori denda ini terkait dengan besaran nilai uang yang harus dibayar.
+
+**Ref: Pasal 427**
+"
+2026-03-29T19:23:49.963590,Indo Sentence BERT,ministral-3:3b,Berapa denda maksimal kalau ketahuan main judi online?,"Berdasarkan konteks yang diberikan dalam **KUHP**, **denda maksimal yang dapat dikenakan bagi seseorang yang terlibat dalam main judi online tanpa izin** adalah **kategori III**.
+
+Denda kategori III dalam KUHP Indonesia biasanya berupa jumlah uang yang lebih besar dibandingkan kategori lainnya. Namun, dalam konteks pasal-pasal yang diberikan, **Pasal 427** yang mengatur tindak pidana **menggunakan kesempatan main judi tanpa izin** hanya menyebutkan **denda paling banyak kategori III**, tanpa menentukan jumlah exactnya.
+
+Untuk **denda kategori III** dalam KUHP, minimumnya adalah **Rp50.000** (Pasal 78), tetapi tidak ada batasan maksimal yang spesifik dalam pasal-pasal yang diberikan.
+
+**Jika ditindaklanjuti oleh jaksa**, denda tersebut dapat ditetapkan sesuai kemampuan finansial terdakwa (Pasal 80), tetapi tidak ada batasan maksimal yang jelas dalam dokumen ini.
+
+**Referensi:**
+- Pasal 427 (denda kategori III)
+- Pasal 78 (minimum denda Rp50.000)
+- Pasal 80 (pertimbangan kemampuan finansial)
+
+**Catatan:** Untuk denda maksimal yang pasti, perlu diperiksa peraturan perundang-undangan terkini, termasuk peraturan daerah atau keputusan pengadilan terkait kasus judi online. Informasi ini hanya berdasarkan konteks KUHP yang diberikan."
+2026-03-29T19:27:44.408804,Indo Sentence BERT,gemma3:4b,"jika kita teriak ""HIDUP JOKOWI!"" apakah itu termasuk menghina presiden? jika iya, apa hukumannya?","Pertanyaan: jika kita teriak ""HIDUP JOKOWI!"" apakah itu termasuk menghina presiden? jika iya, apa hukumannya?
+
+Jawaban:
+
+Berdasarkan konteks yang diberikan, teriakkan “HIDUP JOKOWI!” secara umum belum dapat dikategorikan sebagai penghinaan terhadap Presiden sebagaimana diatur dalam Pasal 218 KUHP. Pasal 218 secara spesifik menyebutkan “penyerangan kehormatan atau harkat dan martabat diri Presiden dan/atau Wakil Presiden” yang dilakukan secara “Muka Umum”.  Trikot “HIDUP JOKOWI!” sendiri, meskipun menunjukkan dukungan, belum memenuhi unsur-unsur tersebut.
+
+Namun, perlu diperhatikan bahwa interpretasi hukum dapat berubah dan tergantung pada konteks dan niat di balik ucapan tersebut. Jika teriakkan tersebut dilakukan dengan cara yang sangat provokatif, menghasut, atau mengandung unsur penghinaan yang jelas, maka bisa saja menimbulkan masalah hukum.
+
+Saat ini, tidak ada pasal dalam dokumen yang secara langsung mengatur hukuman untuk ucapan seperti “HIDUP JOKOWI!”.  Hukumannya akan bergantung pada bagaimana perbuatan tersebut diklasifikasikan oleh penegak hukum pada saat itu.
+
+**Referensi:**
+
+*   Pasal 218 KUHP (Penyerangan kehormatan atau harkat dan martabat Presiden dan/atau Wakil Presiden)
+
+Informasi tidak ditemukan dalam dokumen."
+2026-03-29T19:28:53.377229,Indo Sentence BERT,gemma3:4b,apa hukuman jika seseorang secara terencana melakukan penyiraman air keras terhadap orang lain?,"Berdasarkan konteks yang diberikan, tidak ada pasal yang secara spesifik mengatur hukuman untuk penyiraman air keras terhadap orang lain. Konteks tersebut membahas tentang berbagai tindak pidana seperti kekerasan di laut, gangguan ketertiban umum akibat mabuk, pelanggaran penggunaan air, perbuatan cabul, penyelundupan manusia, dan menghalangi proses hukum. 
+
+Tidak ada pasal yang secara langsung membahas tentang penggunaan air keras sebagai senjata, sehingga tidak dapat ditentukan hukuman yang berlaku berdasarkan informasi yang tersedia.
+
+Informasi tidak ditemukan dalam dokumen.
+"
+2026-03-29T19:31:10.486666,BGE-M3,gemma3:4b,apa hukuman jika seseorang secara terencana melakukan penyiraman air keras terhadap orang lain?,"Sayangnya, konteks yang diberikan tidak secara spesifik membahas tentang penyiraman air keras terhadap orang lain. Konteks tersebut berfokus pada kasus-kasus seperti kebakaran, ledakan, banjir, perusakan kapal, dan penyelundupan manusia. 
+
+Oleh karena itu, berdasarkan informasi yang tersedia, saya tidak dapat memberikan hukuman yang spesifik untuk kasus penyiraman air keras. Informasi tidak ditemukan dalam dokumen.
+
+[Ref: Tidak ada pasal yang relevan dalam dokumen yang diberikan]
+"
+2026-03-29T19:40:40.817781,BGE-M3,gemma3:4b,"jika kita teriak ""HIDUP JOKOWI!"" apakah itu termasuk menghina presiden? jika iya, apa hukumannya?","Pertanyaan: jika kita teriak ""HIDUP JOKOWI!"" apakah itu termasuk menghina presiden? jika iya, apa hukumannya?
+
+Jawaban:
+
+Teriakan “HIDUP JOKOWI!” secara langsung tidak secara otomatis dianggap menghina presiden berdasarkan pasal-pasal yang diberikan. Namun, jika teriakan tersebut dilakukan dengan maksud untuk memuji atau mendukung Presiden secara berlebihan dan dengan cara yang merendahkan atau menghina pihak lain, atau jika disertai dengan tindakan lain yang bersifat menghina, maka bisa menimbulkan masalah hukum.
+
+Pasal yang paling relevan dalam kasus ini adalah:
+
+*   **Pasal 240 (1)**: Setiap Orang yang Di Muka Umum dengan lisan atau tulisan menghina pemerintah atau lembaga negara, dipidana dengan pidana penjara paling lama 1 (satu) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori II.
+
+Meskipun hanya teriak “HIDUP JOKOWI!” saja, belum tentu memenuhi unsur “menghina” sebagaimana diatur dalam pasal ini. Namun, jika teriakan tersebut dilakukan dengan tujuan untuk merendahkan atau menghina pihak lain, atau jika disertai dengan tindakan lain yang bersifat menghina, maka bisa memenuhi unsur pidana.
+
+Hukumannya, jika terbukti memenuhi unsur pasal 240 (1), adalah pidana penjara paling lama 1 tahun 6 bulan atau pidana denda paling banyak kategori II.
+
+**Ref: Pasal 240 (1)**
+"
+2026-03-29T19:49:03.992077,Multilingual E5 Small,gemma3:4b,"jika kita teriak ""HIDUP JOKOWI!"" apakah itu termasuk menghina presiden? jika iya, apa hukumannya?","Pertanyaan: jika kita teriak ""HIDUP JOKOWI!"" apakah itu termasuk menghina presiden? jika iya, apa hukumannya?
+
+Jawaban:
+
+Ucapan “HIDUP JOKOWI!” secara umum, tidak secara otomatis dianggap sebagai penghinaan terhadap Presiden sebagaimana diatur dalam Pasal 218 KUHP. Namun, apakah ucapan tersebut memenuhi unsur tindak pidana penghinaan tergantung pada konteks dan niat di balik ucapan tersebut.
+
+Pasal 218 (1) mengatur tentang serangan terhadap kehormatan atau harkat dan martabat Presiden dan/atau Wakil Presiden. Untuk memenuhi unsur ini, ucapan harus bersifat merendahkan atau menghina.
+
+Pasal 218 (2) memberikan pengecualian, yaitu jika perbuatan dilakukan untuk kepentingan umum atau pembelaan diri, maka tidak dianggap sebagai penyerangan kehormatan atau harkat dan martabat.  Ucapan “HIDUP JOKOWI!” bisa dianggap sebagai bentuk dukungan atau loyalitas, yang secara inheren tidak bersifat menghina.
+
+Jika ucapan “HIDUP JOKOWI!” diucapkan dengan maksud yang jelas untuk merendahkan atau menghina Presiden, dan terbukti secara sah dan meyakinkan, maka dapat dikenakan sanksi pidana sesuai dengan Pasal 218 (1) KUHP. Hukuman yang berlaku adalah pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori IV.
+
+[Ref: Pasal 218 KUHP]
+
+**Catatan Penting:** Penentuan apakah ucapan tersebut memenuhi unsur tindak pidana penghinaan akan bergantung pada fakta-fakta dan bukti yang ada dalam persidangan.
+"
+2026-03-29T19:53:33.347239,Multilingual All Mini LM,gemma3:4b,"jika kita teriak ""HIDUP JOKOWI!"" apakah itu termasuk menghina presiden? jika iya, apa hukumannya?","Pertanyaan: jika kita teriak ""HIDUP JOKOWI!"" apakah itu termasuk menghina presiden? jika iya, apa hukumannya?
+
+Jawaban:
+
+Dengan melihat konteks pasal yang diberikan, teriakkan “HIDUP JOKOWI!” secara umum tidak secara otomatis dianggap sebagai penghinaan terhadap Presiden. Namun, hal ini bisa menjadi dasar untuk dipidana jika memenuhi unsur-unsur tertentu yang diatur dalam hukum.
+
+Pasal 218 (1) mengatur tentang penghinaan terhadap Presiden dan Wakil Presiden. Untuk dapat dipidana berdasarkan pasal ini, perbuatan harus memenuhi unsur-unsur berikut:
+
+1.  **Menyerang kehormatan atau harkat dan martabat:** Teriakkan “HIDUP JOKOWI!” bisa dianggap sebagai serangan terhadap kehormatan atau harkat dan martabat Presiden, terutama jika dilakukan dengan cara yang bersifat menghina, merendahkan, atau menyinggung.
+2.  **Perbuatan dilakukan secara terbuka:** Pasal 218 (1) berfokus pada perbuatan yang dilakukan di muka umum.
+
+Namun, terdapat pengecualian yang diatur dalam Pasal 218 (2) yaitu jika perbuatan dilakukan untuk kepentingan umum atau pembelaan diri. Jika teriakkan “HIDUP JOKOWI!” dilakukan dengan maksud untuk mendukung kebijakan Presiden atau membela Presiden dari kritik, maka kemungkinan besar tidak akan dianggap sebagai penghinaan.
+
+**Hukuman:** Jika teriakkan “HIDUP JOKOWI!” memenuhi unsur-unsur penghinaan sebagaimana diatur dalam Pasal 218 (1), maka hukumannya adalah pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori IV.
+
+**Referensi:** Pasal 218
+
+Semoga penjelasan ini membantu!
+"
+2026-03-29T19:53:45.676247,Indo Sentence BERT,gemma3:4b,apakah bisa dikenakan hukuman jika mengedit muka bahlil menjadi berbagai karakter dan upload di sosial media?,"Pertanyaan: apakah bisa dikenakan hukuman jika mengedit muka bahlil menjadi berbagai karakter dan upload di sosial media?
+
+Jawaban: Ya, tindakan mengedit muka bahlil menjadi berbagai karakter dan mengunggahnya di media sosial berpotensi dikenakan hukuman berdasarkan beberapa pasal dalam KUHP.
+
+Pasal 243 ayat (2) mengatur tentang penyebaran pernyataan permusuhan melalui sarana teknologi informasi yang berakibat menimbulkan kekerasan atau merendahkan harkat dan martabat seseorang. Meskipun tidak secara spesifik menyebutkan pengeditan muka, tindakan mengunggah gambar yang bersifat menghina dan merendahkan, terutama jika ditujukan kepada individu tertentu (bahlil), dapat memenuhi unsur-unsur tindak pidana tersebut.  Pasal ini mengatur pidana penjara paling lama 4 tahun atau denda paling banyak kategori IV.
+
+Selain itu, jika pengeditan muka tersebut dilakukan oleh seseorang yang menjalankan profesi (misalnya, sebagai influencer atau content creator), dan terjadi dalam waktu 2 tahun setelah putusan pemidanaan yang telah memperoleh kekuatan hukum tetap karena tindak pidana yang sama, maka dapat dikenakan pidana tambahan berupa pencabutan hak sebagaimana dimaksud dalam Pasal 86 huruf f.
+
+Oleh karena itu, berdasarkan konteks yang diberikan, tindakan mengedit muka bahlil dan mengunggahnya di media sosial dapat dikategorikan sebagai tindak pidana yang dapat dikenakan hukuman sesuai dengan Pasal 243 ayat (2) KUHP. [Ref: Pasal 243 ayat (2)]
+"
+2026-03-29T19:56:19.214495,Indo Sentence BERT,gemma3:4b,Seseorang dengan sengaja mengambil HP milik temannya tanpa izin dan tidak dikembalikan. Kena pasal apa dan hukumannya berapa lama?,"Seseorang yang dengan sengaja mengambil HP milik temannya tanpa izin dan tidak dikembalikan, dapat dikenakan pasal pencurian.
+
+Pasal yang relevan adalah **Pasal 476** yang berbunyi: “Setiap Orang yang mengambil suatu Barang yang sebagian atau seluruhnya milik orang lain, dengan maksud untuk dimiliki secara melawan hukum, dipidana karena pencurian, dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak kategori V.”
+
+Hukumannya adalah **pidana penjara paling lama 5 (lima) tahun** atau **pidana denda paling banyak kategori V**.
+
+[Ref: Pasal 476]
+"
+2026-03-29T19:59:36.528218,BGE-M3,gemma3:4b,apakah bisa dikenakan hukuman jika mengedit muka bahlil menjadi berbagai karakter dan upload di sosial media?,"Pertanyaan: apakah bisa dikenakan hukuman jika mengedit muka bahlil menjadi berbagai karakter dan upload di sosial media?
+
+Jawaban: Berdasarkan konteks KUHP yang diberikan, tindakan mengedit muka seseorang menjadi berbagai karakter dan mengunggahnya di media sosial berpotensi menimbulkan pelanggaran hukum, meskipun tidak ada pasal yang secara spesifik mengatur hal tersebut. Namun, beberapa pasal relevan dapat diterapkan:
+
+*   **Pasal 228 (1):** Pasal ini mengatur tentang penyerangan kehormatan atau harkat dan martabat terhadap kepala negara, wakil negara sahabat, atau tokoh penting lainnya melalui media teknologi informasi. Jika pengeditan muka tersebut dilakukan dengan maksud untuk menyerang kehormatan atau martabat seseorang, maka pasal ini dapat diterapkan.
+*   **Pasal 433 (2):** Pasal ini mengatur tentang pencemaran nama baik melalui tulisan atau gambar yang disiarkan di tempat umum. Pengunggahan gambar yang mengedit muka seseorang dapat memenuhi unsur pencemaran nama baik jika dilakukan dengan maksud agar hal tersebut diketahui umum.
+*   **Pasal 243 (1):** Pasal ini mengatur tentang penyebaran pernyataan permusuhan terhadap suatu golongan atau kelompok penduduk Indonesia yang berakibat timbulnya kekerasan. Jika pengeditan muka tersebut dilakukan dengan tujuan untuk memprovokasi atau menimbulkan permusuhan terhadap kelompok tertentu, pasal ini juga dapat diterapkan.
+
+Perlu dicatat bahwa penerapan pasal-pasal tersebut akan bergantung pada fakta dan bukti yang ada dalam kasus tersebut. Hakim akan mempertimbangkan maksud dan tujuan dari pengeditan muka tersebut, serta dampaknya terhadap korban.
+
+[Ref: Pasal 228, Pasal 433, Pasal 243]"
+2026-03-29T20:01:21.999592,Multilingual E5 Small,gemma3:4b,apakah bisa dikenakan hukuman jika mengedit muka bahlil menjadi berbagai karakter dan upload di sosial media?,"Pertanyaan: apakah bisa dikenakan hukuman jika mengedit muka bahlil menjadi berbagai karakter dan upload di sosial media?
+
+Jawaban: Berdasarkan konteks yang diberikan, tidak ada pasal yang secara spesifik mengatur tentang tindakan mengedit muka seseorang menjadi berbagai karakter dan mengunggahnya di media sosial. Namun, tindakan tersebut berpotensi menimbulkan pelanggaran terhadap beberapa pasal yang relevan.
+
+Pertama, tindakan tersebut dapat dikategorikan sebagai **penghinaan** sebagaimana diatur dalam **Pasal 436**. Jika pengeditan dan unggahan tersebut dilakukan di muka umum dan merendahkan atau menghina seseorang, maka dapat dikenakan pidana penjara paling lama 6 (enam) bulan atau denda paling banyak kategori II.
+
+Kedua, jika pengeditan dan unggahan tersebut mengandung unsur **diskriminasi** atau **hasutan** berdasarkan agama, kepercayaan, atau golongan, maka dapat dikenakan sanksi sesuai dengan **Pasal 300**.
+
+Ketiga, jika pengeditan dan unggahan tersebut bersifat **cabul** (terutama jika melibatkan penggambaran yang bersifat seksual dan merendahkan), maka dapat dikenakan sanksi sesuai dengan **Pasal 414**.
+
+Selain itu, tindakan mengunggah konten di media sosial juga dapat terkait dengan **Pasal 250** yang mengatur tentang penyebaran informasi melalui sarana teknologi informasi yang dapat memicu tindak pidana.
+
+Namun, perlu diingat bahwa penerapan pasal-pasal tersebut akan sangat bergantung pada fakta dan bukti yang ada, serta interpretasi hakim.
+
+[Ref: Pasal 436, Pasal 300, Pasal 414, Pasal 250]
+"
+2026-03-29T20:03:51.037008,Multilingual All Mini LM,gemma3:4b,apakah bisa dikenakan hukuman jika mengedit muka bahlil menjadi berbagai karakter dan upload di sosial media?,"Pertanyaan: Apakah bisa dikenakan hukuman jika mengedit muka bahlil menjadi berbagai karakter dan upload di sosial media?
+
+Jawaban: Berdasarkan konteks hukum yang diberikan, kasus mengedit muka bahbil menjadi berbagai karakter dan mengunggahnya di media sosial dapat dikategorikan sebagai pencemaran nama baik, terutama jika dilakukan dengan maksud agar hal tersebut diketahui umum.
+
+Pasal 433 (1) menyebutkan bahwa setiap orang yang dengan lisan menyerang kehormatan atau nama baik orang lain dengan cara menuduhkan suatu hal, dengan maksud supaya hal tersebut diketahui umum, dipidana karena pencemaran, dengan pidana penjara paling lama 9 (sembilan) Bulan atau pidana denda paling banyak kategori II.
+
+Pasal 433 (2) juga relevan, karena jika perbuatan tersebut dilakukan dengan tulisan atau gambar yang disiarkan, dipidana karena pencemaran tertulis, dengan pidana penjara paling lama 1 (satu) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori III. Mengunggah gambar yang telah diedit memenuhi kategori ini.
+
+Meskipun tidak ada pasal yang secara spesifik menyebutkan tentang pengeditan gambar di media sosial, prinsip pencemaran nama baik tetap berlaku.  Tindakan mengunggah gambar yang telah diedit dengan maksud agar diketahui umum dapat memenuhi unsur-unsur pidana pencemaran nama baik.
+
+[Ref: Pasal 433]
+"
+2026-03-29T20:20:12.734509,Indo Sentence BERT,gemma3:4b,Apa ancaman pidana untuk pelaku pencurian dengan kekerasan?,"Ancaman pidana untuk pelaku pencurian dengan kekerasan, berdasarkan Pasal 479 ayat (1) dan (2), adalah sebagai berikut:
+
+*   **Jika hanya pencurian dengan kekerasan:** Pidana penjara paling lama 9 (sembilan) tahun.
+*   **Jika pencurian dengan kekerasan disertai cara tertentu:** Pidana penjara paling lama 12 (dua belas) tahun.
+*   **Jika pencurian dengan kekerasan mengakibatkan kematian:** Pidana penjara paling lama 15 (lima belas) tahun.
+*   **Jika pencurian dengan kekerasan mengakibatkan kematian dan dilakukan secara bersama-sama dengan cara tertentu:** Pidana mati atau penjara seumur hidup atau pidana penjara paling lama 20 (dua puluh) tahun.
+
+[Ref: Pasal 479]
+"
+2026-03-29T20:24:43.995506,Indo Sentence BERT,gemma3:4b,"Eh, misal ada temenku kerja jadi admin di koperasi nih. Terus dia diam-diam pakai KTP warga buat ngajuin pinjaman fiktif dan nyairin duit koperasi miliaran rupiah buat dipakai sendiri sama komplotan teman kerjanya. Dia dan teman-temannya bakal kena hukuman apa?","Berdasarkan konteks yang diberikan, temanmu yang bekerja sebagai admin di koperasi dan melakukan tindakan pengajuan pinjaman fiktif serta penye Pian dana koperasi miliaran rupiah untuk dipakai sendiri bersama komplotannya, dapat dikenakan hukuman berdasarkan beberapa pasal KUHP.
+
+Pertama, tindakannya terkait penipuan dapat dijerat berdasarkan **Pasal 492** KUHP. Pasal ini mengatur tentang setiap orang yang dengan maksud menguntungkan diri sendiri atau orang lain secara melawan hukum dengan memakai nama palsu atau kedudukan palsu, menggunakan tipu muslihat atau rangkaian kata bohong untuk menggerakkan orang menyerahkan barang, memberi utang, atau menghapus piutang. Dalam kasus ini, temanmu menggunakan kedudukan palsunya sebagai admin koperasi untuk melakukan penipuan.
+
+Kedua, tindakan pengajuan pinjaman fiktif dan penye Pian dana tersebut juga dapat dikategorikan sebagai tindakan yang merugikan koperasi, yang dapat dijerat berdasarkan **Pasal 499** KUHP. Pasal ini mengatur tentang setiap orang yang dengan maksud menguntungkan diri sendiri atau orang lain secara melawan hukum merugikan penanggung asuransi atau orang yang dengan sah memegang Surat penanggungan. Meskipun pasal ini secara spesifik membahas kasus kebakaran, prinsipnya dapat diterapkan pada kasus penye Pian dana yang merugikan koperasi.
+
+Selain itu, tindakan temanmu dan komplotannya dapat dikategorikan sebagai tindak pidana yang dapat dikenakan pidana kerja sosial sesuai dengan **Pasal 85** KUHP. Namun, hakim akan mempertimbangkan berbagai faktor seperti pengakuan terdakwa, kemampuan kerja, persetujuan terdakwa, riwayat sosial, dan lain-lain.
+
+Terakhir, tindakan yang dilakukan temanmu dapat juga dikategorikan sebagai tindak pidana yang dapat dikenakan hukuman berdasarkan **Pasal 515** KUHP, terkait dengan pengurangan hak kreditur secara curang.
+
+**Referensi:**
+
+*   Pasal 492 KUHP
+*   Pasal 499 KUHP
+*   Pasal 85 KUHP
+*   Pasal 515 KUHP
+*   Pasal 134 KUHP (untuk menghindari tuntutan kembali jika sudah ada putusan pengadilan yang telah memperoleh kekuatan hukum tetap)
+*   Pasal 383 KUHP (jika ada indikasi pemalsuan dokumen terkait pinjaman)
+*   Pasal 418 KUHP (jika terdapat unsur perselingkuhan atau perbuatan asusila lainnya)
+*   Pasal 604 KUHP (jika terdapat indikasi penyalahgunaan wewenang yang merugikan keuangan negara)
+
+Semoga penjelasan ini membantu!
+"
+2026-03-29T20:28:18.352381,BGE-M3,gemma3:4b,"Eh, misal ada temenku kerja jadi admin di koperasi nih. Terus dia diam-diam pakai KTP warga buat ngajuin pinjaman fiktif dan nyairin duit koperasi miliaran rupiah buat dipakai sendiri sama komplotan teman kerjanya. Dia dan teman-temannya bakal kena hukuman apa?","Berdasarkan konteks yang diberikan, temanmu yang bertindak sebagai admin di koperasi dan terlibat dalam pengajuan pinjaman fiktif serta peniruan dana koperasi miliaran rupiah untuk kepentingan pribadi bersama komplotannya, dapat dikenakan beberapa pasal KUHP. Berikut rinciannya:
+
+1.  **Pasal 604** – Ini adalah pasal yang paling relevan dalam kasus ini. Pasal ini menjerat setiap orang yang menyalahgunakan kewenangan, kesempatan, atau sarana yang ada padanya karena jabatan atau kedudukan yang merugikan keuangan negara atau perekonomian negara. Tindakan temanmu, sebagai admin koperasi, memanfaatkan posisinya untuk melakukan peniruan dana, jelas merupakan penyalahgunaan kewenangan yang merugikan keuangan koperasi. Hukuman yang dijatuhkan bisa berupa pidana penjara seumur hidup atau penjara minimal 2 tahun dan maksimal 20 tahun, serta denda minimal kategori II dan maksimal kategori VI.
+
+2.  **Pasal 392** – Jika pengajuan pinjaman fiktif tersebut dilakukan dengan memalsukan surat-surat penting (misalnya akta otentik atau surat utang), temanmu dan rekan-rekannya dapat dikenakan pasal ini. Pasal ini mengatur tentang pemalsuan surat yang menimbulkan kerugian. Ancaman hukumannya adalah pidana penjara paling lama 8 tahun.
+
+3.  **Pasal 560** – Meskipun konteks tidak secara eksplisit menyebutkan tentang pinjaman, namun jika tindakan temanmu terkait dengan penyewaan, pemuatan, atau pengasuransian kapal yang kemudian digunakan untuk tujuan yang merugikan (seperti peniruan dana), pasal ini juga bisa diterapkan. Hukuman maksimalnya adalah pidana penjara 10 tahun.
+
+4.  **Pasal 134** – Pasal ini mengatur tentang prinsip *ne bis in idem* (seseorang tidak dapat dituntut dua kali dalam perkara yang sama). Jika sudah ada putusan pengadilan yang telah memperoleh kekuatan hukum tetap terkait kasus ini, temanmu tidak dapat dituntut lagi untuk perkara yang sama.
+
+**Referensi:**
+
+*   Pasal 604 Dipidana dengan pidana penjara seumur hidup atau penjara paling singkat 2 (dua) tahun dan paling lama 20 (dua puluh) tahun dan pidana denda paling sedikit kategori II dan paling banyak kategori VI.
+*   Pasal 392 Dipidana dengan pidana penjara paling lama 8 (delapan) tahun, Setiap Orang yang melakukan pemalsuan Surat terhadap: ...
+*   Pasal 560 Setiap Orang yang atas biaya sendiri atau atas biaya orang lain secara langsung atau tidak langsung turut melaksanakan penyewaan, pemuatan, atau pengasuransian Kapal, padahal diketahui bahwa Kapal tersebut akan digunakan atau diperuntukkan untuk digunakan untuk maksud sebagaimana dimaksud dalam Pasal 542 dan Pasal 543, dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun.
+*   Pasal 134 Seseorang tidak dapat dituntut untuk kedua kalinya dalam 1 (satu) perkara yang sama jika untuk perkara tersebut telah ada putusan pengadilan yang telah memperoleh kekuatan hukum tetap.
+"
+2026-03-29T20:31:57.029408,Multilingual E5 Small,gemma3:4b,"Eh, misal ada temenku kerja jadi admin di koperasi nih. Terus dia diam-diam pakai KTP warga buat ngajuin pinjaman fiktif dan nyairin duit koperasi miliaran rupiah buat dipakai sendiri sama komplotan teman kerjanya. Dia dan teman-temannya bakal kena hukuman apa?","Berdasarkan pasal-pasal yang diberikan, temanmu, sebagai admin koperasi yang melakukan penginjeksian dana fiktif dan peniruan pinjaman miliaran rupiah, beserta teman-temannya, berpotensi menghadapi beberapa tuntutan pidana. Berikut rinciannya:
+
+1.  **Pasal 499:** Tindakan temanmu yang merugikan koperasi dengan membakar atau merusak aset (kendaraan atau kapal yang diasuransikan) untuk menguntungkan diri sendiri atau orang lain secara melawan hukum, dapat dikenakan pidana penjara maksimal 6 tahun atau denda maksimal kategori V. Meskipun kasus temanmu adalah penginjeksian dana, prinsip kerugian yang timbul akibat tindakan melawan hukum dapat diterapkan.
+
+2.  **Pasal 495:** Jika tindakan temanmu melibatkan pengakuan palsu atau tidak memberitahukan keadaan yang sebenarnya untuk mengakibatkan kerugian ekonomi pada koperasi, ia dapat dipidana dengan pidana penjara maksimal 1 tahun atau denda maksimal kategori II. Ini relevan karena penginjeksian dana fiktif jelas merupakan tindakan curang yang menyebabkan kerugian.
+
+3.  **Pasal 478 (dengan catatan):**  Meskipun kasus temanmu tidak melibatkan pencurian barang secara langsung, prinsipnya relevan jika ada indikasi penyalahgunaan aset koperasi yang dianggap sebagai ""barang"" yang dicuri.  Pasal ini umumnya berlaku untuk pencurian ringan dengan nilai di bawah Rp500.000.  Namun, dalam kasus penginjeksian dana, fokusnya adalah pada penyalahgunaan kepercayaan dan jabatan.
+
+4.  **Pasal 604:** Jika temanmu dan komplotannya menyalahgunakan kekuasaan, kesempatan, atau sarana yang ada di koperasi untuk merugikan keuangan negara atau perekonomian negara, mereka dapat dipidana dengan pidana penjara seumur hidup atau minimal 2 tahun maksimal 20 tahun, serta denda minimal kategori II dan maksimal kategori VI. Ini sangat mungkin terjadi jika tindakan mereka menyebabkan kerugian finansial yang signifikan bagi negara.
+
+5.  **Pasal 383:**  Meskipun pasal ini lebih fokus pada manipulasi meterai, prinsipnya relevan jika ada indikasi upaya untuk menutupi atau memalsukan dokumen terkait pinjaman fiktif.
+
+6.  **Pasal 36 (1):**  Tindakan temanmu akan dipidana jika dilakukan dengan sengaja atau karena kealpaan. Karena penginjeksian dana dan peniruan pinjaman dilakukan dengan niat, maka akan dipidana dengan sengaja.
+
+**Catatan Penting:**  Penentuan hukuman yang tepat akan bergantung pada bukti-bukti yang ada, termasuk bukti kejiwaan, motif, dan tingkat kerugian yang diderita koperasi.
+
+**Referensi:**
+
+*   Pasal 499 Dipidana dengan pidana penjara paling lama 6 (enam) tahun atau pidana denda paling banyak kategori V,
+*   Pasal 495 Setiap Orang yang melakukan perbuatan dengan cara curang yang mengakibatkan orang lain menderita kerugian ekonomi, melalui pengakuan palsu atau dengan tidak memberitahukan keadaan yang sebenarnya, dipidana dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak kategori II.
+*   Pasal 478 Jika Tindak Pidana sebagaimana dimaksud dalam Pasal 476 dan Pasal 477 ayat (1) huruf f dan huruf g dilakukan tidak dalam sebuah rumah atau pekarangan tertutup yang ada rumahnya, dan harga Barang yang dicurinya tidak lebih dari Rp500.000,00 (lima ratus ribu rupiah), dipidana karena pencurian ringan, dengan pidana denda paling banyak kategori II.
+*   Pasal 451 Setiap Orang yang dengan tujuan menguntungkan diri sendiri, orang lain, atau Korporasi menyalahgunakan kewenangan, kesempatan, atau sarana yang ada padanya karena jabatan atau kedudukan yang merugikan keuangan negara atau perekonomian negara, dipidana dengan pidana penjara seumur hidup atau pidana penjara paling singkat 2 (dua) tahun dan paling lama 20 (dua puluh) tahun dan pidana denda paling sedikit kategori II dan paling banyak kategori VI.
+*   Pasal 383 Dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori IV, Setiap Orang yang: a. menghilangkan tanda yang gunanya untuk menunjukkan suatu meterai tidak dapat dipakai lagi pada meterai Pemerintah Republik Indonesia yang telah dipakai dengan maksud untuk memakai atau meminta orang lain memakainya seolah-olah meterai tersebut belum dipakai; b. dengan maksud yang sama sebagaimana dimaksud dalam huruf a, menghilangkan tanda tangan, ciri, atau tanda saat dipakainya meterai Pemerintah Republik Indonesia yang telah dipakai sesuai dengan ketentuan peraturan perundang-undangan harus dibubuhkan di atas atau pada meterai tersebut; atau c. memakai, menjual, menawarkan, menyerahkan, mempunyai persediaan untuk dijual, atau memasukkan ke wilayah Negara Kesatuan Republik Indonesia meterai yang tandanya, tanda tangannya, ciri, atau tanggal dipakainya dihilangkan, seolah-olah meterai tersebut belum dipakai.
+"
+2026-03-29T20:33:14.971134,Multilingual All Mini LM,gemma3:4b,"Eh, misal ada temenku kerja jadi admin di koperasi nih. Terus dia diam-diam pakai KTP warga buat ngajuin pinjaman fiktif dan nyairin duit koperasi miliaran rupiah buat dipakai sendiri sama komplotan teman kerjanya. Dia dan teman-temannya bakal kena hukuman apa?","Berdasarkan pasal-pasal yang diberikan, temanmu, sebagai admin koperasi yang melakukan tindakan penipuan, berpotensi dikenakan beberapa tuntutan pidana. Berikut penjelasannya:
+
+1.  **Pasal 499:** Tindakan temanmu, yaitu menggunakan KTP warga untuk mengajuin pinjaman fiktif dan menyuap uang koperasi miliaran rupiah untuk dipakai sendiri, memenuhi unsur-unsur penipuan terhadap penanggung asuransi (dalam hal ini, koperasi).  Dengan membakar atau merusak aset koperasi (kendaraan atau kapal) untuk mendapatkan keuntungan secara melawan hukum, dia terjerat pasal ini.  Ancamannya adalah pidana penjara paling lama 6 tahun atau denda paling banyak kategori V.
+
+2.  **Pasal 21 (1) & (3):**  Temanmu kemungkinan besar akan dianggap sebagai pembantu tindak pidana.  Dia memberikan kesempatan, sarana (KTP dan akses ke koperasi), dan keterangan (rencana pinjaman fiktif) untuk melakukan tindak pidana.  Ancamannya maksimal 2/3 dari ancaman pidana pokok untuk tindak pidana yang dilakukan oleh orang lain.
+
+3.  **Pasal 494:** Jika nilai keuntungan yang diperoleh dari pinjaman fiktif tersebut tidak melebihi Rp1.000.000,00, temanmu dapat dikenakan hukuman berdasarkan Pasal 494, yaitu penipuan ringan dengan ancaman pidana denda paling banyak kategori II.
+
+4.  **Pasal 383:**  Tindakan temanmu yang menghilangkan tanda meterai pada meterai koperasi juga dapat dikategorikan sebagai penipuan dan dapat dikenakan hukuman penjara paling lama 3 tahun atau denda paling banyak kategori IV.
+
+5.  **Pasal 483:**  Jika temanmu menggunakan ancaman untuk memaksa koperasi memberikan pinjaman, dia juga dapat dikenakan hukuman berdasarkan pasal ini.
+
+6.  **Pasal 511:**  Karena temanmu menggunakan uang koperasi secara boros dan dengan tujuan menunda kepailitan, dia dapat dikenakan hukuman penjara paling lama 1 tahun 6 bulan atau denda paling banyak kategori III.
+
+**Kesimpulan:**
+
+Temanmu dan teman-temannya berpotensi menghadapi tuntutan pidana berdasarkan beberapa pasal di atas, terutama Pasal 499, Pasal 21, dan Pasal 494.  Ancamannya akan bergantung pada jumlah kerugian yang ditimbulkan, bukti yang ada, dan putusan hakim.
+
+[Ref: Pasal 499, 21, 494, 383, 483, 511]
+"
+2026-03-29T20:41:05.768614,Indo Sentence BERT,gemma3:4b,"Seorang nahkoda kapal feri karena tidak hati-hati dalam mengemudikan kapal sehingga kapal tersebut menabrak karang dan tenggelam. Tidak ada korban jiwa, tapi beberapa penumpang mengalami luka berat. Pasal apa yang dikenakan dan berapa ancaman hukumannya?","Berdasarkan konteks yang diberikan, nahkoda kapal feri yang tidak hati-hati mengemudikan kapal hingga menabrak karang dan tenggelam, menyebabkan penumpang mengalami luka berat, dapat dikenakan Pasal 563.
+
+Pasal 563 berbunyi: “Nakhoda Kapal Indonesia yang tidak dalam keadaan terpaksa tidak memberi sesuatu yang wajib diberikan kepada Penumpang Kapalnya, dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori IV.”
+
+Meskipun tidak secara langsung mengatur tentang kecelakaan kapal, pasal ini relevan karena kewajiban nahkoda memberikan hal-hal yang wajib kepada penumpang merupakan bagian dari tanggung jawabnya dalam mengoperasikan kapal.  Kehati-hatian dalam mengemudi kapal secara implisit mencakup memenuhi kebutuhan dan keselamatan penumpang.
+
+**Referensi:** Pasal 563
+"
+2026-03-29T20:41:46.381894,Indo Sentence BERT,gemma3:4b,Apakah kendaraan (mobil & motor) pengiring ambulans yang berisikan keluarga pasien boleh dan berhak ikut menerobos lampu merah dengan ambulans?,"Pertanyaan: Apakah kendaraan (mobil & motor) pengiring ambulans yang berisikan keluarga pasien boleh dan berhak ikut menerobos lampu merah dengan ambulans?
+
+Jawaban: Berdasarkan konteks yang diberikan, tidak ada pasal yang secara spesifik mengatur mengenai kendaraan pengiring ambulans yang menerobos lampu merah. Pasal 358 KUHP mengatur tentang penolakan memberikan pertolongan yang diminta oleh pejabat berwenang saat ada bahaya bagi keamanan umum. Namun, dalam konteks ini, ambulans yang membawa pasien adalah pejabat berwenang yang meminta pertolongan. Oleh karena itu, menerobos lampu merah oleh kendaraan pengiring ambulans akan melanggar kewajiban memberikan pertolongan dan berpotensi menimbulkan bahaya bagi keamanan umum. Meskipun tidak ada pasal yang secara langsung menyatakan hal ini, tindakan tersebut dapat dianggap sebagai pelanggaran hukum dan berpotensi dikenakan sanksi pidana denda sesuai Pasal 358 KUHP.
+
+[Ref: Pasal 358]
+"
+2026-03-29T20:43:09.190032,BGE-M3,gemma3:4b,Apakah kendaraan (mobil & motor) pengiring ambulans yang berisikan keluarga pasien boleh dan berhak ikut menerobos lampu merah dengan ambulans?,"Pertanyaan: Apakah kendaraan (mobil & motor) pengiring ambulans yang berisikan keluarga pasien boleh dan berhak ikut menerobos lampu merah dengan ambulans?
+
+Jawaban: Berdasarkan konteks yang diberikan, tidak ada pasal yang secara spesifik mengatur mengenai kendaraan pengiring ambulans yang menerobos lampu merah. Namun, terdapat beberapa pasal yang relevan yang perlu dipertimbangkan.
+
+Pasal 26 (1) dan (2) mengatur mengenai siapa yang berhak mengadu jika korban tindak pidana berada di bawah pengampuan. Pasal ini tidak relevan dalam kasus ini.
+
+Pasal 288 mengatur mengenai kewajiban menghadap di pengadilan jika dipanggil sebagai keluarga sedarah atau semenda, suami/istri, wali, atau pengampu. Meskipun ambulans membawa keluarga pasien, pasal ini tidak secara langsung mengatur mengenai tindakan menerobos lampu merah.
+
+Pasal 358 mengatur mengenai kewajiban memberikan pertolongan jika ada bahaya bagi keamanan umum. Tindakan menerobos lampu merah dapat menimbulkan bahaya bagi keamanan umum, namun pasal ini juga memiliki pengecualian, yaitu jika dilakukan untuk menghindari penuntutan karena hendak menghindarkan diri dari bahaya.  Namun, konteks ambulans yang membawa pasien dalam keadaan darurat tidak memenuhi syarat pengecualian tersebut.
+
+Pasal 351 mengatur mengenai pengabaian perintah pejabat yang berwenang untuk mencegah kecelakaan dan kemacetan lalu lintas, terutama saat ada keramaian. Menerobos lampu merah jelas merupakan pelanggaran terhadap perintah tersebut.
+
+Dengan demikian, secara umum, menerobos lampu merah dengan kendaraan apapun, termasuk ambulans, adalah tindakan yang melanggar hukum dan dapat dikenakan sanksi pidana sesuai dengan pasal yang relevan, terutama Pasal 351.
+
+[Ref: Pasal 351]
+"
+2026-03-29T20:43:39.963011,Indo Sentence BERT,gemma3:4b,"Aku baru saja mulai jualan buah pakai timbangan kodok yang aku beli bekas di loakan. Eh, pas aku pakai jualan sebulan, ada pembeli yang komplain katanya timbangannya nggak pas. Pas aku cek ke tukang servis, katanya timbangan itu sudah diakali isinya biar beratnya nambah sendiri padahal ada segel resminya. Kalau aku tetap nekat pakai buat jualan karena nggak ada modal beli baru, apa aku bisa dipolisikan?","Berdasarkan informasi yang ada, Anda berpotensi dipolisikan. Hal ini berkaitan dengan **Pasal 344** Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 344 mengatur tentang penjualan atau pendistribusian makanan atau minuman palsu atau busuk. Meskipun timbangan Anda tidak secara langsung merupakan makanan atau minuman, fakta bahwa timbangan tersebut telah diakali untuk memberikan berat yang tidak akurat, sehingga menyebabkan kerugian bagi pembeli, dapat dikategorikan sebagai tindakan yang merugikan kesehatan dan kepercayaan konsumen. Tindakan ini dapat dianggap sebagai penjualan barang yang tidak memenuhi standar kualitas dan menyebabkan kerugian, yang merupakan pelanggaran terhadap ketentuan yang diatur dalam pasal tersebut.
+
+Dengan kata lain, menjual barang yang beratnya tidak akurat karena telah dimodifikasi, dapat dianggap sebagai tindakan yang merugikan konsumen dan berpotensi menimbulkan tuntutan hukum.
+
+**Referensi:** Pasal 344 KUHP
+"
+2026-03-29T20:43:54.686948,Multilingual E5 Small,gemma3:4b,Apakah kendaraan (mobil & motor) pengiring ambulans yang berisikan keluarga pasien boleh dan berhak ikut menerobos lampu merah dengan ambulans?,"Pertanyaan: Apakah kendaraan (mobil & motor) pengiring ambulans yang berisikan keluarga pasien boleh dan berhak ikut menerobos lampu merah dengan ambulans?
+
+Jawaban: Berdasarkan konteks yang diberikan, tidak ada pasal yang secara spesifik mengatur mengenai kendaraan pengiring ambulans yang menerobos lampu merah. Pasal 499 KUHP mengatur tentang merugikan penanggung asuransi atau pemilik barang yang diasuransikan, khususnya terkait dengan tindakan seperti membakar atau merusak kendaraan yang diasuransikan. Tindakan menerobos lampu merah, meskipun berpotensi merugikan orang lain, tidak tercakup dalam definisi pelanggaran yang diatur dalam pasal tersebut.
+
+Selain itu, pasal-pasal lain seperti 572 (tentang penggunaan tanda pengenal) dan 413 (tentang persetubuhan) juga tidak relevan dengan skenario ini.
+
+Oleh karena itu, berdasarkan informasi yang tersedia, tidak ada dasar hukum yang dapat membenarkan tindakan menerobos lampu merah oleh kendaraan pengiring ambulans. Tindakan tersebut dapat dianggap sebagai pelanggaran lalu lintas dan berpotensi menimbulkan sanksi pidana.
+
+[Ref: Pasal 499]
+"
+2026-03-29T20:44:23.881374,Multilingual All Mini LM,gemma3:4b,Apakah kendaraan (mobil & motor) pengiring ambulans yang berisikan keluarga pasien boleh dan berhak ikut menerobos lampu merah dengan ambulans?,"Pertanyaan: Apakah kendaraan (mobil & motor) pengiring ambulans yang berisikan keluarga pasien boleh dan berhak ikut menerobos lampu merah dengan ambulans?
+
+Jawaban: Berdasarkan konteks KUHP yang diberikan, tidak ada pasal yang secara spesifik mengatur mengenai kendaraan pengiring ambulans yang menerobos lampu merah. Namun, kita dapat melihat beberapa pasal yang relevan untuk menganalisis situasi ini.
+
+Pasal 174 mengatur definisi “kapal” yang mencakup kendaraan air dengan berbagai jenis. Meskipun ambulans bukanlah kapal, prinsip dasar mengenai kendaraan yang digerakkan dengan tenaga mekanik atau angin dapat diterapkan.  Namun, menerobos lampu merah merupakan pelanggaran lalu lintas yang diatur dalam undang-undang lain, bukan KUHP.
+
+Pasal 358 mengatur tentang kewajiban memberikan pertolongan.  Kasus ini tidak relevan karena menerobos lampu merah bukanlah menolak pertolongan yang diminta.
+
+Pasal 26 mengatur tentang hak aduan korban tindak pidana.  Ini juga tidak relevan karena menerobos lampu merah bukanlah tindak pidana yang dilakukan oleh korban.
+
+Pasal 499 mengatur tentang kerusakan kendaraan yang diasuransikan.  Ini tidak relevan karena menerobos lampu merah tidak berkaitan dengan kerusakan kendaraan yang diasuransikan.
+
+Pasal 413 mengatur tentang persetubuhan terhadap anggota keluarga. Ini juga tidak relevan karena tidak ada hubungannya dengan menerobos lampu merah.
+
+Pasal 288 mengatur tentang kewajiban menghadap di pengadilan.  Menerobos lampu merah tidak termasuk dalam kewajiban menghadap di pengadilan.
+
+Dengan demikian, meskipun secara prinsip kendaraan dapat bergerak, menerobos lampu merah merupakan pelanggaran hukum yang terpisah dari KUHP.  Tidak ada pasal dalam dokumen yang memberikan izin atau hak kepada kendaraan pengiring ambulans untuk menerobos lampu merah.
+
+**Informasi tidak ditemukan dalam dokumen.**
+"
+2026-03-29T20:46:40.451942,BGE-M3,gemma3:4b,"Aku baru saja mulai jualan buah pakai timbangan kodok yang aku beli bekas di loakan. Eh, pas aku pakai jualan sebulan, ada pembeli yang komplain katanya timbangannya nggak pas. Pas aku cek ke tukang servis, katanya timbangan itu sudah diakali isinya biar beratnya nambah sendiri padahal ada segel resminya. Kalau aku tetap nekat pakai buat jualan karena nggak ada modal beli baru, apa aku bisa dipolisikan?","Berdasarkan konteks yang Anda berikan, Anda berpotensi dipolisikan karena menggunakan timbangan yang sudah diakali untuk dijual buah. Mari kita telaah pasal-pasal yang relevan:
+
+Pasal 386 (1) mengatur tentang pemalsuan alat ukur. Dalam pasal ini, setiap orang yang memalsukan ukuran, takaran, anak timbangan, atau timbangan setelah dibubuhi tanda tera, dengan maksud untuk memakai atau meminta orang lain memakai seolah-olah asli atau tidak dipalsu, dipidana dengan pidana penjara paling lama 3 tahun 6 bulan atau pidana denda paling banyak kategori IV.  Anda menggunakan timbangan kodok bekas yang terbukti diakali untuk menambah berat, yang jelas merupakan pemalsuan alat ukur.
+
+Meskipun timbangan tersebut memiliki segel resmi, hal ini tidak menghilangkan fakta bahwa timbangan tersebut telah dimodifikasi secara ilegal.
+
+Mengenai kemungkinan Anda dipolisikan, polisi dapat menindak Anda berdasarkan Pasal 386 (1) KUHP.  Ancamannya adalah pidana penjara paling lama 3 tahun 6 bulan atau pidana denda paling banyak kategori IV.
+
+Selain itu, jika tindakan Anda menyebabkan kerugian bagi pembeli (karena timbangan tidak akurat), polisi juga dapat menjerat Anda dengan pasal terkait penipuan atau penggelapan. Namun, pasal-pasal tersebut tidak terdapat dalam dokumen yang Anda berikan.
+
+**Referensi:**
+
+*   Pasal 386 KUHP
+
+Informasi tidak ditemukan dalam dokumen.
+"
+2026-03-29T20:47:30.071950,BGE-M3,gemma3:4b,"Seorang nahkoda kapal feri karena tidak hati-hati dalam mengemudikan kapal sehingga kapal tersebut menabrak karang dan tenggelam. Tidak ada korban jiwa, tapi beberapa penumpang mengalami luka berat. Pasal apa yang dikenakan dan berapa ancaman hukumannya?","Berdasarkan konteks yang diberikan, nahkoda kapal feri yang tidak hati-hati mengemudikan kapal hingga menabrak karang dan tenggelam, menyebabkan penumpang mengalami luka berat, dapat dikenakan Pasal 562 Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 562 (1) mengatur bahwa Nakhoda Kapal Indonesia yang tidak dalam keadaan terpaksa dan tanpa sepengetahuan pemilik atau Pengusaha Kapal, melakukan atau membiarkan dilakukan perbuatan yang diketahuinya akan menimbulkan kemungkinan bagi Kapal atau Barang muatannya untuk ditarik, dihentikan, atau ditahan, dipidana dengan pidana penjara paling lama 1 (satu) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori III.
+
+Dalam kasus ini, tindakan nahkoda yang tidak hati-hati dalam mengemudikan kapal memenuhi unsur-unsur dalam Pasal 562, yaitu melakukan perbuatan yang diketahui akan menimbulkan bahaya bagi kapal dan muatannya.  Meskipun tidak ada korban jiwa, luka berat yang dialami penumpang merupakan akibat dari kelalaian tersebut.
+
+Ancaman hukumannya adalah pidana penjara paling lama 1 tahun 6 bulan atau pidana denda paling banyak kategori III.
+
+[Ref: Pasal 562 KUHP]
+"
+2026-03-29T20:49:16.224103,Multilingual E5 Small,gemma3:4b,"Aku baru saja mulai jualan buah pakai timbangan kodok yang aku beli bekas di loakan. Eh, pas aku pakai jualan sebulan, ada pembeli yang komplain katanya timbangannya nggak pas. Pas aku cek ke tukang servis, katanya timbangan itu sudah diakali isinya biar beratnya nambah sendiri padahal ada segel resminya. Kalau aku tetap nekat pakai buat jualan karena nggak ada modal beli baru, apa aku bisa dipolisikan?","Berdasarkan konteks yang diberikan, Anda berpotensi dipolisikan. Mari kita telaah pasal-pasal yang relevan:
+
+Anda menjual buah menggunakan timbangan kodok bekas yang ternyata sudah diakali untuk memanipulasi berat. Ini terkait dengan **Pasal 386 (1)** yang mengatur tentang pemalsuan alat ukur. Pasal ini menyatakan: “Setiap Orang yang menjual, menawarkan, atau mendistribusikan suatu bahan yang membahayakan nyawa atau kesehatan, padahal diketahui bahwa bahan tersebut dan sifat bahaya bahan tersebut tidak diberitahukan kepada pembeli atau yang memperolehnya, dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori IV.”  Meskipun pasal ini secara spesifik membahas alat ukur, prinsip dasarnya adalah bahwa Anda menjual barang dengan alat yang tidak akurat dan menyesatkan konsumen. Hal ini dapat dianggap sebagai tindakan yang merugikan konsumen dan berpotensi menimbulkan sanksi pidana.
+
+Selain itu, tindakan Anda juga bisa terkait dengan **Pasal 434** yang mengatur tentang penjualan makanan atau minuman palsu. Meskipun pasal ini secara spesifik membahas makanan dan minuman, prinsipnya adalah menjual barang yang tidak sesuai dengan standar kualitas dan informasi yang seharusnya diketahui oleh konsumen.
+
+Meskipun tidak ada pasal yang secara langsung mengatur tentang timbangan kodok bekas, fakta bahwa timbangan tersebut diakali untuk memanipulasi berat merupakan pelanggaran terhadap ketentuan tentang alat ukur dan standar kualitas.
+
+**Kesimpulan:**  Karena Anda menjual barang dengan alat ukur yang tidak akurat dan menyesatkan konsumen, Anda berpotensi dipolisikan. Polisi dapat menjerat Anda berdasarkan **Pasal 386 (1)** dan pasal-pasal lain yang relevan terkait dengan penjualan barang yang tidak memenuhi standar kualitas.
+
+[Ref: Pasal 386 (1), Pasal 434]
+"
+2026-03-29T20:51:31.498392,Multilingual E5 Small,gemma3:4b,"Seorang nahkoda kapal feri karena tidak hati-hati dalam mengemudikan kapal sehingga kapal tersebut menabrak karang dan tenggelam. Tidak ada korban jiwa, tapi beberapa penumpang mengalami luka berat. Pasal apa yang dikenakan dan berapa ancaman hukumannya?","Berdasarkan konteks yang diberikan, nahkoda kapal feri tersebut dapat dikenakan Pasal 329 Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 329 (1) a mengatur bahwa setiap orang yang secara melawan hukum mendampangkan, merusak, menenggelamkan, menghancurkan, atau membuat tidak dapat dipakai suatu kapal, dipidana dengan pidana penjara paling lama 9 tahun, jika perbuatan tersebut menimbulkan bahaya umum bagi orang atau barang. Dalam kasus ini, nahkoda kapal melakukan perbuatan merusak dan menenggelamkan kapal, yang secara otomatis menimbulkan bahaya umum bagi penumpang.
+
+Karena mengakibatkan luka berat pada beberapa penumpang, ancaman hukumannya akan diperberat. Pasal 329 (1) b mengatur bahwa jika perbuatan tersebut mengakibatkan luka berat, dipidana dengan pidana penjara paling lama 12 tahun.
+
+[Ref: Pasal 329 KUHP]
+"
+2026-03-29T20:53:18.615387,Multilingual All Mini LM,gemma3:4b,"Seorang nahkoda kapal feri karena tidak hati-hati dalam mengemudikan kapal sehingga kapal tersebut menabrak karang dan tenggelam. Tidak ada korban jiwa, tapi beberapa penumpang mengalami luka berat. Pasal apa yang dikenakan dan berapa ancaman hukumannya?","Berdasarkan konteks yang diberikan, nahkoda kapal feri tersebut dapat dikenakan Pasal 330 Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 330 mengatur tentang seseorang yang karena kelalaian mengakibatkan kapal tenggelam, rusak, atau tidak dapat dipakai. Dalam kasus ini, nahkoda kapal feri menabrak karang sehingga kapal tenggelam. Meskipun tidak ada korban jiwa, beberapa penumpang mengalami luka berat.
+
+Ancaman hukumannya adalah sebagai berikut:
+
+*   Pidana penjara paling lama 5 (lima) tahun atau
+*   Pidana denda paling banyak kategori V.
+
+Pilihan antara pidana penjara atau denda akan ditentukan oleh hakim berdasarkan pertimbangan yang ada.
+
+**Referensi:** Pasal 330 KUHP.
+"
+2026-03-29T20:54:56.932229,Multilingual All Mini LM,gemma3:4b,"Aku baru saja mulai jualan buah pakai timbangan kodok yang aku beli bekas di loakan. Eh, pas aku pakai jualan sebulan, ada pembeli yang komplain katanya timbangannya nggak pas. Pas aku cek ke tukang servis, katanya timbangan itu sudah diakali isinya biar beratnya nambah sendiri padahal ada segel resminya. Kalau aku tetap nekat pakai buat jualan karena nggak ada modal beli baru, apa aku bisa dipolisikan?","Pertanyaan Anda mengenai penggunaan timbangan kodok yang telah diakali untuk menipu pembeli sangat menarik untuk dianalisis dari sudut pandang hukum. Berdasarkan pasal-pasal yang Anda berikan, ada beberapa poin yang relevan untuk dipertimbangkan.
+
+Secara umum, tindakan Anda dalam menggunakan timbangan yang telah diakali untuk menipu pembeli berpotensi menimbulkan tindak pidana. Meskipun tidak ada pasal yang secara spesifik mengatur tentang penggunaan timbangan yang diakali, terdapat beberapa pasal yang dapat diterapkan.
+
+**Potensi Tindak Pidana:**
+
+*   **Pasal 402 (1):** Anda dapat dikenakan pasal ini jika Anda melangsungkan perkawinan (dalam hal ini, penjualan buah) padahal mengetahui bahwa perkawinan tersebut (penjualan) menjadi halangan yang sah untuk dilakukan. Dalam kasus ini, “perkawinan” diartikan sebagai penjualan, dan “halangan yang sah” adalah timbangan yang tidak akurat dan telah diakali.
+*   **Pasal 15 (1) & (2):**  Pasal ini mengatur tentang persiapan melakukan tindak pidana.  Dalam kasus Anda, tindakan Anda mempersiapkan dan menggunakan timbangan yang diakali untuk menipu pembeli dapat dikategorikan sebagai persiapan melakukan tindak pidana penipuan.  Pasal 15 (2) menyatakan bahwa persiapan melakukan tindak pidana dipidana jika ditentukan secara tegas dalam undang-undang, dan penggunaan timbangan yang diakali untuk tujuan menipu memenuhi syarat tersebut.
+*   **Pasal 439 (1) & (2):** Jika Anda melakukan pencemaran nama baik (meskipun dalam konteks ini lebih ke arah penipuan) terhadap pembeli yang komplain, Anda dapat dikenakan pasal ini, terutama jika Anda menyembunyikan informasi tentang ketidakakuratan timbangan tersebut.
+
+**Sanksi yang Mungkin Diberikan:**
+
+*   **Pidana Penjara:**  Pasal 402 (1) dan Pasal 15 (1) & (2) dapat dikenakan pidana penjara.  Besaran pidana akan bergantung pada pertimbangan hakim, termasuk tingkat kesengajaan dan kerugian yang ditimbulkan.
+*   **Pidana Denda:**  Selain pidana penjara, Anda juga dapat dikenakan pidana denda sesuai dengan ketentuan yang berlaku.
+
+**Perampasan Barang:**
+
+*   **Pasal 92 (1) & (2):**  Jika polisi berhasil menyita timbangan yang diakali tersebut, mereka berhak untuk merampas barang tersebut dan meminta Anda menggantinya dengan sejumlah uang sesuai dengan harga pasar.
+
+**Penting untuk diingat:**
+
+*   **Bukti:**  Keberhasilan penegakan hukum akan sangat bergantung pada bukti yang ada, seperti laporan komplain pembeli, hasil pemeriksaan oleh tukang servis, dan bukti-bukti lain yang menunjukkan bahwa timbangan tersebut telah diakali.
+*   **Penuntutan:** Keputusan untuk menuntut Anda akan diambil oleh Jaksa Penuntut Umum setelah mempertimbangkan bukti dan pasal-pasal yang relevan.
+
+**Referensi:** [Pasal 402, Pasal 15, Pasal 439, Pasal 92]
+
+**Disclaimer:** Jawaban ini bersifat informatif dan bukan merupakan nasihat hukum. Untuk mendapatkan nasihat hukum yang spesifik dan sesuai dengan situasi Anda, sebaiknya Anda berkonsultasi dengan pengacara.
+"
+2026-03-29T20:56:56.775837,Indo Sentence BERT,gemma3:4b,"Kalau ada dukun di kampung yang terang-terangan ngaku bisa nyantet orang sampai celaka atau mati, apakah dia bisa dilaporin ke polisi pakai KUHP baru?","Pertanyaan: Kalau ada dukun di kampung yang terang-terangan ngaku bisa nyantet orang sampai celaka atau mati, apakah dia bisa dilaporin ke polisi pakai KUHP baru?
+
+Jawaban:
+
+Potensi laporan dukun yang mengaku bisa nyantet orang ke polisi memang bisa dipertimbangkan berdasarkan KUHP. Meskipun tidak ada pasal yang secara spesifik menyebutkan “nyantet” atau “dukun”, pernyataan dukun tersebut dapat dikategorikan sebagai **penipuan** atau **mengganggu ketertiban umum**.
+
+Pasal 439 (1) mengatur tentang pencemaran atau pencemaran tertulis terhadap orang yang sudah mati. Namun, jika dukun tersebut secara terbuka mengklaim bisa menyebabkan kematian, ini bisa dianggap sebagai bentuk pencemaran yang merugikan, meskipun belum ada korban.
+
+Selain itu, pernyataan dukun yang berpotensi menimbulkan kepanikan dan ketidakpercayaan terhadap institusi medis atau hukum dapat dikategorikan sebagai **mengganggu ketertiban umum** (Pasal 169 KUHP).
+
+Meskipun demikian, untuk dapat dilanjutkan proses hukum, polisi perlu mengumpulkan bukti yang cukup. Bukti tersebut bisa berupa rekaman pernyataan dukun, laporan warga yang merasa khawatir, atau bukti lain yang menunjukkan bahwa klaim dukun tersebut dapat menimbulkan kerugian atau ketidaknyamanan.
+
+Penting untuk diingat bahwa pembuktian terletak pada jaksa penuntut umum.
+
+[Ref: Pasal 439, Pasal 169]
+"
+2026-03-29T20:57:19.445647,Indo Sentence BERT,gemma3:4b,Sekelompok remaja bermain lempar-lemparan batu di pinggir jalan raya yang ramai sehingga membuat pejalan kaki merasa terancam. Apakah perbuatan ini bisa dijerat pidana?,"Ya, perbuatan kelompok remaja yang bermain lempar-lemparan batu di pinggir jalan raya yang ramai sehingga membuat pejalan kaki merasa terancam berpotensi dijerat pidana. Hal ini berkaitan dengan beberapa pasal dalam KUHP:
+
+*   **Pasal 256**: Perbuatan ini dapat dikategorikan sebagai “menimbulkan keonaran, atau huru-hara dalam masyarakat” karena adanya potensi bahaya bagi pejalan kaki dan ketertiban umum. Pasal ini mengatur tentang gangguan keamanan dan ketertiban umum akibat pawai, unjuk rasa, atau demonstrasi yang menimbulkan dampak negatif.
+
+*   **Pasal 339**:  Bagian f dari pasal ini menyebutkan tentang “tanpa izin Pejabat yang berwenang menghalang-halangi jalan umum di darat atau di air atau merintangi lalu lintas di tempat tersebut atau menimbulkan halangan atau rintangan karena penggunaan kendaraan di tempat tersebut”. Lemparan batu di jalan raya jelas merupakan penghalang dan rintangan bagi lalu lintas.
+
+*   **Pasal 331**: Meskipun tidak secara eksplisit menyebutkan lemparan batu, perbuatan ini dapat dikategorikan sebagai “kenakalan terhadap orang atau Barang yang dapat menimbulkan bahaya, kerugian, atau kesusahan” karena adanya potensi cedera fisik bagi pejalan kaki.
+
+**Ref: Pasal 256, Pasal 339, Pasal 331**
+
+**Catatan:** Penentuan apakah perbuatan tersebut memenuhi unsur pidana akan bergantung pada bukti dan pertimbangan hakim.
+"
+2026-03-29T20:58:03.128840,BGE-M3,gemma3:4b,"Kalau ada dukun di kampung yang terang-terangan ngaku bisa nyantet orang sampai celaka atau mati, apakah dia bisa dilaporin ke polisi pakai KUHP baru?","Ya, dukun yang terang-terangan mengaku bisa nyantet orang sampai celaka atau mati bisa dilaporin ke polisi berdasarkan KUHP. Hal ini terkait dengan Pasal 252.
+
+Pasal 252 (1) mengatur bahwa setiap orang yang menyatakan dirinya mempunyai kekuatan gaib, memberitahukan, memberikan harapan, menawarkan, atau memberikan bantuan jasa kepada orang lain bahwa karena perbuatannya dapat menimbulkan penyakit, kematian, atau penderitaan mental atau fisik seseorang, dipidana dengan pidana penjara paling lama 1 (satu) tahun 6 (enam) Bulan atau pidana denda paling banyak kategori IV.
+
+Jika dukun tersebut melakukan perbuatan tersebut untuk mencari keuntungan atau menjadikan sebagai mata pencaharian atau kebiasaan, pidananya dapat ditambah 1/3 (satu per tiga).
+
+[Ref: Pasal 252]
+"
+2026-03-29T20:58:43.457007,Indo Sentence BERT,gemma3:4b,Sekelompok remaja bermain lempar-lemparan batu di pinggir jalan raya yang ramai sehingga membuat pejalan kaki merasa terancam. Apakah perbuatan ini bisa dijerat pidana?,"Ya, perbuatan kelompok remaja yang bermain lempar-lemparan batu di pinggir jalan raya yang ramai sehingga membuat pejalan kaki merasa terancam berpotensi dijerat pidana. Hal ini berkaitan dengan beberapa pasal dalam KUHP:
+
+*   **Pasal 256**: Perbuatan ini dapat dikategorikan sebagai menimbulkan keonaran atau huru-hara dalam masyarakat karena adanya tindakan yang mengganggu ketertiban umum dan menimbulkan rasa takut pada pejalan kaki. Sanksi yang berlaku adalah pidana penjara paling lama 6 (enam) Bulan atau pidana denda paling banyak kategori II.
+
+*   **Pasal 339**:  Meskipun pasal ini lebih fokus pada pelanggaran terkait jalan umum, tindakan melempar batu di jalan raya yang ramai dapat memenuhi unsur-unsur pelanggaran terkait merintangi lalu lintas dan menimbulkan bahaya bagi pengguna jalan.
+
+*   **Pasal 331**:  Tindakan melempar batu yang menyebabkan ketakutan dan terancam pada pejalan kaki dapat dikategorikan sebagai kenakalan yang menimbulkan bahaya, kerugian, atau kesusahan. Sanksi yang berlaku adalah pidana denda paling banyak kategori II.
+
+Perlu diingat bahwa penentuan apakah perbuatan tersebut memenuhi unsur pidana akan bergantung pada bukti dan pertimbangan hakim.
+
+[Ref: Pasal 256, Pasal 339, Pasal 331]"
+2026-03-29T21:00:24.211220,Indo Sentence BERT,gemma3:4b,Sekelompok remaja bermain lempar-lemparan batu di pinggir jalan raya yang ramai sehingga membuat pejalan kaki paruh baya merasa terancam. Apakah perbuatan ini bisa dijerat pidana?,"Ya, perbuatan kelompok remaja yang bermain lempar-lemparan batu di pinggir jalan raya yang ramai sehingga membuat pejalan kaki paruh baya merasa terancam berpotensi dijerat pidana. Hal ini berkaitan dengan beberapa pasal dalam KUHP:
+
+*   **Pasal 256**: Perbuatan ini dapat dikategorikan sebagai “menimbulkan keonaran, atau huru-hara dalam masyarakat” karena adanya tindakan yang mengganggu ketertiban umum dan menimbulkan rasa takut pada pejalan kaki. Meskipun pasal ini tidak secara spesifik menyebutkan lempar-lemparan batu, prinsip dasarnya adalah setiap tindakan yang menyebabkan gangguan ketertiban umum dapat dikenakan sanksi.
+
+*   **Pasal 321**: Jika lemparan batu tersebut mengakibatkan kerusakan pada kendaraan atau properti, atau bahkan menyebabkan luka berat pada seseorang, maka pasal ini juga dapat diterapkan.  Pasal ini mengatur tentang merusak bangunan untuk lalu lintas umum.
+
+*   **Pasal 331**: Jika tindakan lempar-lemparan batu tersebut dilakukan dengan maksud untuk menimbulkan bahaya, kerugian, atau kesusahan bagi orang lain, maka pasal ini juga relevan.
+
+**Ref: Pasal 256, Pasal 321, Pasal 331**
+
+**Catatan Penting:** Penerapan pasal-pasal ini akan bergantung pada bukti-bukti yang ada, seperti saksi mata, rekaman CCTV, dan tingkat kerusakan yang terjadi.
+"
+2026-03-29T21:00:34.769364,Multilingual E5 Small,gemma3:4b,"Kalau ada dukun di kampung yang terang-terangan ngaku bisa nyantet orang sampai celaka atau mati, apakah dia bisa dilaporin ke polisi pakai KUHP baru?","Pertanyaan: Kalau ada dukun di kampung yang terang-terangan ngaku bisa nyantet orang sampai celaka atau mati, apakah dia bisa dilaporin ke polisi pakai KUHP baru?
+
+Jawaban:
+
+Meskipun konteks yang diberikan tidak secara spesifik membahas kasus dukun yang mengaku bisa nyantet, terdapat beberapa pasal yang relevan dalam KUHP yang bisa digunakan untuk melaporkan dugaan tindakan tersebut ke polisi.
+
+Pasal 432 mengatur tentang kewajiban memberikan pertolongan ketika seseorang dalam bahaya maut. Jika dukun tersebut dengan ucapannya secara terang-terangan menimbulkan ancaman yang berpotensi menyebabkan kematian, dan seseorang meninggal dunia akibat ancaman tersebut, dukun tersebut dapat dilaporkan dan dipidana dengan pidana penjara paling lama 6 bulan.
+
+Selain itu, Pasal 195 KUHP mengatur tentang bantuan materiil yang diberikan kepada pihak yang berupaya menggulingkan pemerintah. Jika dukun tersebut menerima bantuan atau dukungan dari pihak lain untuk melakukan nyantet dengan tujuan mengganggu ketertiban umum, dia dapat dikenakan pasal ini.
+
+Namun, perlu diingat bahwa pembuktian bahwa ucapan dukun tersebut menyebabkan seseorang celaka atau mati akan menjadi tantangan tersendiri. Polisi perlu mengumpulkan bukti yang kuat untuk menunjukkan adanya hubungan sebab akibat antara ucapan dukun dan kejadian yang merugikan.
+
+[Ref: Pasal 432, Pasal 195]
+"
+2026-03-29T21:01:09.037850,Multilingual All Mini LM,gemma3:4b,"Kalau ada dukun di kampung yang terang-terangan ngaku bisa nyantet orang sampai celaka atau mati, apakah dia bisa dilaporin ke polisi pakai KUHP baru?","Pertanyaan: Kalau ada dukun di kampung yang terang-terangan ngaku bisa nyantet orang sampai celaka atau mati, apakah dia bisa dilaporin ke polisi pakai KUHP baru?
+
+Jawaban:
+
+Meskipun tidak ada pasal KUHP yang secara spesifik mengatur tentang dukun yang mengaku bisa nyantet, ada beberapa pasal yang bisa digunakan untuk melaporkan dugaan tindak pidana terkait pernyataan tersebut.
+
+Pertama, Pasal 195 ayat (1) huruf b bisa relevan jika dukun tersebut memberikan informasi atau bantuan yang dapat memfasilitasi seseorang untuk melakukan tindakan yang berpotensi membahayakan atau mengganggu keamanan negara, misalnya dengan memberikan informasi tentang target yang akan disantet.
+
+Kedua, Pasal 439 terkait pencemaran nama baik, meskipun targetnya adalah orang yang sudah meninggal, bisa diinterpretasikan secara luas untuk mencakup pernyataan dukun yang dianggap merugikan nama baik seseorang dengan klaim yang tidak berdasar dan berpotensi menimbulkan ketakutan atau kecemasan.
+
+Ketiga, jika pernyataan dukun tersebut dianggap sebagai bentuk penipuan atau pengelabuan, pasal terkait penipuan seperti Pasal 378 KUHP bisa diterapkan.
+
+Namun, penting untuk diingat bahwa pembuktian bahwa pernyataan dukun tersebut menyebabkan kerugian atau bahaya adalah kunci dalam proses hukum. Polisi perlu mengumpulkan bukti yang cukup untuk menunjukkan adanya hubungan sebab akibat antara pernyataan dukun dan kejadian yang merugikan.
+
+[Ref: Pasal 195 ayat (1) huruf b, Pasal 439, Pasal 378]
+"
+2026-03-29T21:03:16.982317,BGE-M3,gemma3:4b,Sekelompok remaja bermain lempar-lemparan batu di pinggir jalan raya yang ramai sehingga membuat pejalan kaki paruh baya merasa terancam. Apakah perbuatan ini bisa dijerat pidana?,"Ya, perbuatan kelompok remaja yang bermain lempar-lemparan batu di pinggir jalan raya yang ramai sehingga membuat pejalan kaki paruh baya merasa terancam berpotensi dijerat pidana. Perbuatan ini dapat dikategorikan sebagai pelanggaran terhadap Pasal 321 Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 321 mengatur tentang merusak atau menghambat lalu lintas umum. Lemparan batu di jalan raya yang ramai jelas-jelas dapat menyebabkan bahaya bagi keamanan lalu lintas, karena dapat membahayakan keselamatan pengendara maupun pejalan kaki. Jika perbuatan ini mengakibatkan luka berat atau bahkan kematian, maka ancaman pidananya akan semakin berat sesuai dengan ketentuan dalam pasal tersebut.
+
+[Ref: Pasal 321 KUHP]
+
+**Catatan:** Penentuan apakah perbuatan tersebut memenuhi unsur-unsur tindak pidana dan beratnya hukuman akan bergantung pada bukti-bukti yang ada dan pertimbangan hakim.
+"
+2026-03-29T21:05:31.716183,Multilingual E5 Small,gemma3:4b,Sekelompok remaja bermain lempar-lemparan batu di pinggir jalan raya yang ramai sehingga membuat pejalan kaki paruh baya merasa terancam. Apakah perbuatan ini bisa dijerat pidana?,"Ya, perbuatan kelompok remaja yang bermain lempar-lemparan batu di pinggir jalan raya yang ramai sehingga membuat pejalan kaki paruh baya merasa terancam berpotensi dijerat pidana. Perbuatan ini dapat dikategorikan sebagai pelanggaran terhadap Pasal 321 Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 321 mengatur tentang merusak atau menghambat lalu lintas umum. Lemparan batu yang dilakukan di jalan raya yang ramai dapat dianggap sebagai tindakan yang secara melawan hukum merusak atau menghambat lalu lintas umum, terutama jika menyebabkan ketakutan atau bahaya bagi pejalan kaki.
+
+Besaran ancaman pidana dalam Pasal 321 bervariasi tergantung pada akibatnya:
+
+*   Jika perbuatan tersebut mengakibatkan bahaya bagi keamanan lalu lintas, ancamannya adalah pidana penjara paling lama 7 tahun.
+*   Jika mengakibatkan Luka Berat, ancamannya adalah pidana penjara paling lama 9 tahun.
+*   Jika mengakibatkan matinya orang, ancamannya adalah pidana penjara paling lama 12 tahun.
+
+Dalam kasus ini, meskipun tidak ada luka berat atau kematian, tindakan lemparan batu sudah cukup untuk memenuhi unsur-unsur pelanggaran Pasal 321, terutama karena menimbulkan ketakutan dan bahaya bagi pejalan kaki.
+
+[Ref: Pasal 321 KUHP]
+"
+2026-03-29T21:08:09.907984,Multilingual All Mini LM,gemma3:4b,Sekelompok remaja bermain lempar-lemparan batu di pinggir jalan raya yang ramai sehingga membuat pejalan kaki paruh baya merasa terancam. Apakah perbuatan ini bisa dijerat pidana?,"Kemungkinan besar, perbuatan kelompok remaja yang bermain lempar-lemparan batu di pinggir jalan raya yang ramai sehingga membuat pejalan kaki paruh baya merasa terancam dapat dijerat pidana. Hal ini berkaitan dengan beberapa pasal dalam KUHP, terutama Pasal 339 dan Pasal 321.
+
+Pasal 339 mengatur tentang kewajiban memberikan tanda peringatan dan menjaga keamanan di jalan umum. Lemparan batu yang dilakukan oleh remaja dapat dianggap sebagai tindakan yang tidak memberikan peringatan dan berpotensi menimbulkan bahaya bagi pejalan kaki, sehingga memenuhi unsur pelanggaran Pasal 339.
+
+Selain itu, jika lemparan batu tersebut menyebabkan kerugian atau membahayakan keselamatan pejalan kaki, perbuatan tersebut juga dapat dijerat berdasarkan Pasal 321. Pasal ini mengatur tentang merusak atau menghalangi jalan umum.
+
+Pasal 15 KUHP juga relevan dalam konteks ini, karena mengatur tentang persiapan melakukan Tindak Pidana. Jika remaja tersebut sudah merencanakan atau mempersiapkan tindakan lempar batu tersebut, maka mereka dapat dipidana berdasarkan Pasal 15.
+
+Meskipun demikian, penentuan hukum tetap bergantung pada bukti dan pertimbangan hakim.
+
+[Ref: Pasal 339, Pasal 321, Pasal 15]
+"
+2026-03-29T21:09:28.359181,Indo Sentence BERT,gemma3:4b,Tetangga sebelah sering banget karaokean dan setel musik kenceng-kenceng jam 1 pagi sampai saya sekeluarga nggak bisa tidur. Ada nggak sih aturan hukumnya buat kasus receh begini?,"Pertanyaan: Tetangga sebelah sering banget karaokean dan setel musik kenceng-kenceng jam 1 pagi sampai saya sekeluarga nggak bisa tidur. Ada nggak sih aturan hukumnya buat kasus receh begini?
+
+Jawaban: Ya, ada beberapa pasal dalam KUHP yang bisa relevan dalam kasus seperti ini, meskipun kasusnya tergolong “receh”.  Kasus kebisingan ini bisa dikategorikan sebagai gangguan ketenteraman umum.
+
+Pasal 303 ayat (1) mengatur tentang “Setiap Orang yang membuat gaduh di dekat tempat untuk menjalankan ibadah pada waktu ibadah sedang berlangsung, dipidana dengan pidana denda paling banyak kategori I.”  Meskipun tidak ada yang menyebutkan “tempat untuk menjalankan ibadah”, prinsip gangguan ketenteraman umum tetap berlaku. Karaokean di jam-jam tertentu, terutama di malam hari, dapat mengganggu ketentraman warga.
+
+Selain itu, Pasal 412 ayat (1) mengatur tentang “Setiap Orang yang melakukan hidup bersama sebagai suami istri di luar perkawinan dipidana dengan pidana penjara paling lama 6 (enam) Bulan atau pidana denda paling banyak kategori II.”  Meskipun tidak secara langsung berkaitan dengan karaokean, jika kegiatan karaokean tersebut dilakukan secara berlebihan dan mengganggu ketentraman warga, hal ini bisa dianggap sebagai pelanggaran terhadap hak warga lain untuk menikmati ketentraman dan ketenangan hidup.
+
+Meskipun ancaman pidananya relatif ringan (denda kategori I atau penjara 6 bulan),  tetap ada dasar hukum untuk meminta pihak terkait (tetangga yang karaokean) untuk menghentikan kegiatan tersebut.  Selain itu,  pihak tetangga dapat mengajukan laporan ke polisi jika gangguan kebisingan terus berlanjut.
+
+[Ref: Pasal 303 ayat (1), Pasal 412 ayat (1)]
+"
+2026-03-29T21:10:30.142709,BGE-M3,gemma3:4b,Tetangga sebelah sering banget karaokean dan setel musik kenceng-kenceng jam 1 pagi sampai saya sekeluarga nggak bisa tidur. Ada nggak sih aturan hukumnya buat kasus receh begini?,"Pertanyaan: Tetangga sebelah sering banget karaokean dan setel musik kenceng-kenceng jam 1 pagi sampai saya sekeluarga nggak bisa tidur. Ada nggak sih aturan hukumnya buat kasus receh begini?
+
+Jawaban: Ya, ada kok aturan hukumnya untuk kasus seperti ini. Berdasarkan pasal yang Anda berikan, kejadian tetangga karaokean hingga mengganggu ketenteraman lingkungan pada malam hari bisa diatur oleh **Pasal 265 Kitab Undang-Undang Hukum Pidana (KUHP)**.
+
+Pasal 265 menyebutkan bahwa setiap orang yang mengganggu ketenteraman lingkungan dengan membuat hingar-bingar atau berisik pada malam hari, dipidana dengan pidana denda paling banyak kategori I.  Meskipun kasusnya “receh”, gangguan ketenteraman lingkungan adalah pelanggaran hukum yang dapat dikenakan sanksi pidana.
+
+Selain itu, jika tindakan karaokean tersebut dilakukan secara berulang-ulang, hal ini bisa diperhitungkan dalam perbarengan sesuai **Pasal 125 KUHP** yang mengatur tentang penjatuhan satu pidana untuk beberapa perbuatan yang memenuhi ketentuan pidana yang sama.
+
+Untuk penegakan hukum, polisi atau jaksa akan mempertimbangkan bukti-bukti seperti laporan warga, rekaman suara, dan bukti lainnya untuk membuktikan bahwa kegiatan karaoke tersebut benar-benar mengganggu ketenteraman lingkungan.
+
+[Ref: Pasal 265 KUHP]
+"
+2026-03-29T21:10:47.980388,Indo Sentence BERT,gemma3:4b,Seorang hacker berhasil masuk ke sistem komputer perusahaan swasta dengan cara membobol sistem keamanannya untuk mencuri data pelanggan. Pasal apa yang paling tepat dikenakan?,"Berdasarkan konteks yang diberikan, Pasal 332 (1) dan (2) Undang-Undang Kitab Hukum Pidana (KUHP) adalah yang paling tepat dikenakan dalam kasus ini.
+
+**Penjelasan:**
+
+Pasal 332 (1) menyatakan bahwa setiap orang yang dengan sengaja dan tanpa hak atau melawan hukum mengakses Komputer dan/atau sistem elektronik milik orang lain dengan cara apa pun, dipidana dengan pidana penjara paling lama 6 (enam) tahun atau pidana denda paling banyak kategori V.
+
+Pasal 332 (2) menambahkan bahwa jika akses tersebut dilakukan dengan tujuan untuk memperoleh Informasi Elektronik dan/atau dokumen elektronik, maka ancamannya menjadi pidana penjara paling lama 7 (tujuh) tahun atau pidana denda paling banyak kategori V.
+
+Dalam kasus hacker yang berhasil masuk ke sistem perusahaan swasta dan mencuri data pelanggan, tindakan tersebut memenuhi unsur-unsur yang diatur dalam Pasal 332 (1) dan (2).  Ia mengakses sistem komputer secara ilegal dengan tujuan memperoleh informasi (data pelanggan), yang merupakan pelanggaran hukum.
+
+**Referensi:** Pasal 332 (1) dan (2) Dipidana dengan pidana penjara paling lama 6 (enam) tahun atau pidana denda paling banyak kategori V.
+"
+2026-03-29T21:10:59.206553,Multilingual E5 Small,gemma3:4b,Tetangga sebelah sering banget karaokean dan setel musik kenceng-kenceng jam 1 pagi sampai saya sekeluarga nggak bisa tidur. Ada nggak sih aturan hukumnya buat kasus receh begini?,"Pertanyaan: Tetangga sebelah sering banget karaokean dan setel musik kenceng-kenceng jam 1 pagi sampai saya sekeluarga nggak bisa tidur. Ada nggak sih aturan hukumnya buat kasus receh begini?
+
+Jawaban: Ya, ada kok aturan hukumnya untuk kasus seperti ini. Meskipun terlihat “receh”, gangguan ketenteraman lingkungan yang dilakukan dengan cara membuat hingar-bingar atau berisik pada malam hari, seperti yang diatur dalam **Pasal 265** KUHP, dapat dikenakan pidana.
+
+Pasal 265 menyebutkan bahwa setiap orang yang mengganggu ketenteraman lingkungan dengan membuat hingar-bingar atau berisik pada malam hari dapat dipidana dengan pidana denda.  Meskipun ancamannya denda, pengadilan dapat mempertimbangkan hal-hal lain seperti dampak gangguan yang Anda dan keluarga alami. Selain itu,  **Pasal 85** KUHP juga mengatur tentang pidana kerja sosial yang dapat dijatuhkan jika terdakwa melakukan tindak pidana yang diancam dengan pidana penjara kurang dari 5 tahun, dan hakim menjatuhkan pidana penjara paling lama 6 bulan atau pidana denda paling banyak kategori II.  Dalam hal ini, pidana kerja sosial bisa menjadi alternatif hukuman selain denda.
+
+[Ref: Pasal 265, Pasal 85]
+"
+2026-03-29T21:11:51.678431,Multilingual All Mini LM,gemma3:4b,Tetangga sebelah sering banget karaokean dan setel musik kenceng-kenceng jam 1 pagi sampai saya sekeluarga nggak bisa tidur. Ada nggak sih aturan hukumnya buat kasus receh begini?,"Pertanyaan: Tetangga sebelah sering banget karaokean dan setel musik kenceng-kenceng jam 1 pagi sampai saya sekeluarga nggak bisa tidur. Ada nggak sih aturan hukumnya buat kasus receh begini?
+
+Jawaban: Ya, ada beberapa pasal dalam KUHP yang bisa relevan dalam kasus seperti ini, meskipun kasusnya tergolong “receh”. Kasus ini bisa dikategorikan sebagai pelanggaran terhadap ketertiban umum.
+
+Pasal 288 adalah pasal yang paling relevan. Pasal ini mengatur tentang orang yang tanpa alasan yang sah tidak menghadap atau meminta wakilnya menghadap saat dipanggil di muka pengadilan. Dalam konteks ini, meskipun tidak ada panggilan pengadilan secara formal, tindakan karaokean berisik pada dini hari dapat dianggap sebagai gangguan ketertiban umum yang mengganggu ketentraman warga.  Pelanggaran terhadap pasal ini dapat dikenakan pidana denda paling banyak kategori II.
+
+Selain itu, Pasal 15 juga relevan. Pasal ini mengatur tentang persiapan melakukan Tindak Pidana.  Dalam kasus ini, tindakan karaokean berisik pada dini hari bisa dianggap sebagai persiapan untuk menciptakan kondisi yang mengganggu ketentraman warga.  Meskipun ancaman pidananya tidak terlalu berat (satu per dua dari ancaman pokok), persiapan ini tetap dapat dipidana.
+
+Meskipun kasusnya “receh”, pelanggaran terhadap ketertiban umum tetap merupakan pelanggaran hukum.  Pihak tetangga dapat melaporkan kejadian ini ke pihak berwajib. [Ref: Pasal 288, Pasal 15]
+"
+2026-03-29T21:12:00.355953,BGE-M3,gemma3:4b,Seorang hacker berhasil masuk ke sistem komputer perusahaan swasta dengan cara membobol sistem keamanannya untuk mencuri data pelanggan. Pasal apa yang paling tepat dikenakan?,"Berdasarkan konteks yang diberikan, Pasal 332 ayat (2) KUHP adalah yang paling tepat dikenakan dalam kasus ini.
+
+**Penjelasan:**
+
+Pasal 332 ayat (2) menyatakan bahwa “Setiap Orang dengan sengaja dan tanpa hak atau melawan hukum mengakses Komputer dan/atau sistem elektronik dengan cara apa pun, dengan tujuan untuk memperoleh Informasi Elektronik dan/atau dokumen elektronik, dipidana dengan pidana penjara paling lama 7 (tujuh) tahun atau pidana denda paling banyak kategori V.”
+
+Kasus hacker yang berhasil masuk ke sistem komputer perusahaan dan mencuri data pelanggan memenuhi unsur-unsur dalam pasal ini:
+
+*   **Sengaja dan tanpa hak:** Hacker melakukan akses secara sengaja dan tanpa izin.
+*   **Mengakses Komputer dan/atau sistem elektronik:** Hacker berhasil masuk ke sistem komputer perusahaan.
+*   **Dengan tujuan memperoleh Informasi Elektronik dan/atau dokumen elektronik:** Tujuan hacker adalah mencuri data pelanggan, yang merupakan informasi elektronik dan dokumen elektronik.
+
+**Referensi:** Pasal 332 ayat (2) KUHP.
+"
+2026-03-29T21:14:02.062291,Multilingual E5 Small,gemma3:4b,Seorang hacker berhasil masuk ke sistem komputer perusahaan swasta dengan cara membobol sistem keamanannya untuk mencuri data pelanggan. Pasal apa yang paling tepat dikenakan?,"Berdasarkan konteks yang diberikan, Pasal 332 (1) adalah yang paling tepat dikenakan dalam kasus ini.
+
+Pasal 332 (1) menyatakan: “Setiap Orang dengan sengaja dan tanpa hak atau melawan hukum mengakses Komputer dan/atau sistem elektronik milik Orang lain dengan cara apa pun, dipidana dengan pidana penjara paling lama 6 (enam) tahun atau pidana denda paling banyak kategori V.”
+
+Dalam kasus ini, hacker berhasil masuk ke sistem komputer perusahaan swasta dengan cara membobol sistem keamanannya, yang jelas merupakan tindakan mengakses komputer dan sistem elektronik milik orang lain tanpa hak dan melawan hukum. Tindakan ini memenuhi unsur-unsur yang diatur dalam Pasal 332 (1).
+
+[Ref: Pasal 332 (1)]
+"
+2026-03-29T21:17:02.226487,Multilingual All Mini LM,gemma3:4b,Seorang hacker berhasil masuk ke sistem komputer perusahaan swasta dengan cara membobol sistem keamanannya untuk mencuri data pelanggan. Pasal apa yang paling tepat dikenakan?,"Berdasarkan konteks yang diberikan, beberapa pasal yang paling relevan dalam kasus ini adalah:
+
+Pasal 332 (1) dan (2) Dipididana karena mengakses komputer dan/atau sistem elektronik tanpa hak dengan tujuan memperoleh Informasi Elektronik dan/atau dokumen elektronik. Pasal ini menyebutkan bahwa seseorang yang dengan sengaja dan tanpa hak mengakses komputer dan/atau sistem elektronik dengan tujuan memperoleh Informasi Elektronik dan/atau dokumen elektronik dipidana penjara paling lama 7 tahun atau denda paling banyak kategori V.
+
+Selain itu, Pasal 334 juga relevan karena hacker tersebut memiliki maksud untuk memperoleh keuntungan (data pelanggan). Pasal ini menyatakan bahwa setiap orang yang tanpa hak atau melampaui wewenangnya menggunakan atau mengakses Komputer atau sistem elektronik dengan maksud memperoleh keuntungan, dipidana dengan pidana penjara paling lama 10 tahun atau denda paling banyak kategori VII.
+
+Meskipun tidak secara eksplisit disebutkan, tindakan membobol sistem keamanan perusahaan juga dapat dikategorikan sebagai tindakan yang melanggar keamanan sistem informasi, yang dapat menimbulkan konsekuensi hukum lebih lanjut.
+
+**Referensi:** Pasal 332 (1), Pasal 332 (2), Pasal 334.
+"
+2026-03-29T21:20:08.265904,Indo Sentence BERT,gemma3:4b,Seseorang tanpa izin mengakses komputer milik instansi pemerintah daerah dan berhasil mengubah data anggaran keuangan daerah. Apakah ini berbeda dengan hacking ke komputer swasta biasa?,"Ya, mengakses komputer milik instansi pemerintah daerah dan mengubah data anggaran keuangan daerah berbeda dengan hacking ke komputer swasta biasa. Hal ini karena tindakan tersebut melibatkan akses ke sistem yang dilindungi negara dan memiliki dampak yang lebih serius.
+
+Pasal 333 KUHP mengatur tentang tindak pidana yang berkaitan dengan akses dan penggunaan komputer atau sistem elektronik yang dilindungi negara. Dalam pasal tersebut, seseorang yang tanpa hak menggunakan atau mengakses Komputer atau sistem elektronik dengan maksud memperoleh, mengubah, merusak, atau menghilangkan informasi pertahanan nasional atau hubungan internasional yang dapat menyebabkan gangguan atau bahaya terhadap negara, akan dipidana dengan pidana penjara paling lama 7 tahun.  Perubahan data anggaran keuangan daerah jelas termasuk dalam kategori gangguan atau bahaya terhadap negara.
+
+Selain itu, Pasal 332 (1) dan (2) KUHP juga relevan, yang mengatur tentang akses ilegal ke komputer dan sistem elektronik, meskipun tidak secara spesifik menyebutkan targetnya adalah instansi pemerintah. Namun, tindakan mengakses dan mengubah data keuangan daerah tetap merupakan pelanggaran serius.
+
+Perbedaan utama terletak pada *objek* yang diakses dan *tujuan* dari akses tersebut.  Hacking ke komputer swasta biasanya bertujuan untuk keuntungan pribadi atau tindakan kriminal umum. Sementara itu, mengakses dan mengubah data anggaran keuangan daerah memiliki tujuan yang secara langsung merugikan negara dan dapat mengganggu stabilitas keuangan daerah.
+
+[Ref: Pasal 332, 333]
+"
+2026-03-29T21:21:13.966992,Indo Sentence BERT,gemma3:4b,"Kalau ada pasangan pacaran yang belum nikah tapi tinggal serumah (kumpul kebo), boleh nggak sih Pak RT, warga, atau ormas main gerebek dan laporin mereka ke polisi?","Berdasarkan pasal-pasal yang diberikan, secara umum, pasangan pacaran yang tinggal serumah (kumpul kebo) **tidak boleh** digerebek dan dilaporkan ke polisi oleh Pak RT, warga, atau ormas. Berikut penjelasannya:
+
+Pasal 412 ayat (1) mengatur bahwa “Setiap Orang yang melakukan hidup bersama sebagai suami istri di luar perkawinan dipidana dengan pidana penjara paling lama 6 (enam) Bulan atau pidana denda paling banyak kategori II.”  Artinya, tindakan tinggal bersama tanpa ikatan pernikahan adalah pelanggaran hukum.
+
+Namun, gerebekan dan pelaporan oleh pihak luar (Pak RT, warga, ormas) **tidak diperbolehkan** karena:
+
+*   **Perlu Pengaduan:** Pelaporan hanya dapat dilakukan atas pengaduan dari suami atau istri (jika sudah menikah), atau Orang Tua atau anaknya (jika belum menikah). Pasal 412 ayat (2) secara tegas menyatakan hal ini.
+*   **Tidak Berhak Melaporkan:** Pak RT, warga, atau ormas tidak memiliki hak untuk melaporkan tindakan tersebut ke polisi.
+
+Dengan kata lain, proses hukum terkait kumpul kebo harus melalui mekanisme pengaduan dari pihak yang berhak, bukan melalui tindakan spontan oleh pihak luar.
+
+**Referensi:** Pasal 412 ayat (1) dan (2)
+
+"
+2026-03-29T21:21:52.648815,BGE-M3,gemma3:4b,"Kalau ada pasangan pacaran yang belum nikah tapi tinggal serumah (kumpul kebo), boleh nggak sih Pak RT, warga, atau ormas main gerebek dan laporin mereka ke polisi?","Pertanyaan: Kalau ada pasangan pacaran yang belum nikah tapi tinggal serumah (kumpul kebo), boleh nggak sih Pak RT, warga, atau ormas main gerebek dan laporin mereka ke polisi?
+
+Jawaban: Secara hukum, tindakan Pak RT, warga, atau ormas untuk melakukan ""gerebek"" dan melaporkan pasangan yang tinggal serumah (kumpul kebo) ke polisi adalah hal yang kompleks dan memiliki beberapa pertimbangan.
+
+Pasal 412 ayat (1) menyebutkan bahwa setiap orang yang melakukan hidup bersama sebagai suami istri di luar perkawinan dipidana dengan pidana penjara paling lama 6 bulan atau denda paling banyak kategori II.  Namun, penting untuk dicatat bahwa pengaduan untuk kasus ini harus dilakukan oleh suami atau istri *bagi orang yang terikat perkawinan* atau oleh Orang Tua atau anaknya bagi orang yang tidak terikat perkawinan.
+
+Jadi, Pak RT, warga, atau ormas tidak berhak untuk melakukan pengaduan. Mereka tidak memenuhi syarat sebagai pihak yang berhak mengadukan karena bukan suami, istri, orang tua, atau anak dari pasangan tersebut.  Jika mereka melakukan tindakan ini, bisa dianggap sebagai tindakan yang melanggar hukum, terutama jika dilakukan dengan cara yang merugikan atau mengganggu.
+
+Meskipun demikian, jika pasangan tersebut melakukan kegiatan perjudian yang melanggar hukum (seperti yang diatur dalam Pasal 426), maka pihak lain (termasuk Pak RT, warga, atau ormas) berhak untuk melaporkannya ke polisi.
+
+Dengan kata lain, tindakan mereka hanya sah jika terbukti melakukan pelanggaran hukum yang diatur dalam KUHP, bukan hanya karena status hubungan mereka.
+
+[Ref: Pasal 412 ayat (1), Pasal 426 ayat (1)]
+"
+2026-03-29T21:22:48.024213,Multilingual E5 Small,gemma3:4b,"Kalau ada pasangan pacaran yang belum nikah tapi tinggal serumah (kumpul kebo), boleh nggak sih Pak RT, warga, atau ormas main gerebek dan laporin mereka ke polisi?","Pertanyaan: Kalau ada pasangan pacaran yang belum nikah tapi tinggal serumah (kumpul kebo), boleh nggak sih Pak RT, warga, atau ormas main gerebek dan laporin mereka ke polisi?
+
+Jawaban: Secara hukum, tindakan gerebek dan melapor pasangan pacaran yang tinggal serumah (kumpul kebo) ke polisi, meskipun dilakukan oleh Pak RT, warga, atau ormas, memiliki beberapa pertimbangan.
+
+Pasal 426 ayat (1) huruf a menyebutkan bahwa “menawarkan atau memberi kesempatan untuk main judi dan menjadikan sebagai mata pencaharian atau turut serta dalam perusahaan perjudian” merupakan pelanggaran hukum. Namun, konteks pertanyaan ini adalah tentang hubungan pacaran yang tidak resmi. Pasal ini tidak relevan dalam kasus ini.
+
+Pasal 425 ayat (1) mengatur tentang penyerahan anak di bawah umur kepada orang lain untuk dimanfaatkan melakukan perbuatan berbahaya. Jika pasangan tersebut memiliki anak di bawah umur, hal ini bisa menjadi perhatian dan berpotensi menimbulkan pelanggaran hukum. Namun, gerebekan dan pelaporan hanya bisa dilakukan jika ada indikasi pelanggaran pasal tersebut.
+
+Pasal 403 mengatur tentang perkawinan yang tidak memberitahukan penghalang yang sah.  Namun, kasus kumpul kebo tidak secara langsung berkaitan dengan pasal ini.
+
+Secara umum, tindakan gerebekan dan pelaporan oleh pihak swasta (Pak RT, warga, ormas) ke polisi **tidak sah** dan dapat menimbulkan masalah hukum bagi pelapor.  Polisi berwenang melakukan penelusuran dan penindakan berdasarkan bukti yang kuat dan sesuai dengan hukum yang berlaku.  Melakukan tindakan sendiri tanpa bukti yang jelas dapat dianggap sebagai tindakan yang melanggar hukum, seperti pembungkaman penyidikan.
+
+Untuk melakukan penindakan yang sah, polisi harus memiliki bukti bahwa pasangan tersebut melakukan tindak pidana, misalnya, melakukan tindakan asusila yang melanggar hukum, atau melakukan tindakan yang merugikan pihak lain.
+
+**Penting:**  Perbuatan yang dilakukan oleh pasangan tersebut harus memenuhi unsur-unsur tindak pidana yang diatur dalam KUHP.
+
+[Ref: Pasal 426, Pasal 425, Pasal 403]
+"
+2026-03-29T21:23:08.698254,BGE-M3,gemma3:4b,Seseorang tanpa izin mengakses komputer milik instansi pemerintah daerah dan berhasil mengubah data anggaran keuangan daerah. Apakah ini berbeda dengan hacking ke komputer swasta biasa?,"Ya, mengakses komputer milik instansi pemerintah daerah dan mengubah data anggaran keuangan daerah berbeda dengan hacking ke komputer swasta biasa. Hal ini karena tindakan tersebut melibatkan akses ke sistem yang dilindungi negara dan memiliki dampak yang lebih serius.
+
+Pasal 333 ayat (a) KUHP mengatur tentang tanpa hak menggunakan atau mengakses Komputer atau sistem elektronik dengan maksud memperoleh, mengubah, merusak, atau menghilangkan informasi pertahanan nasional atau hubungan internasional yang dapat menyebabkan gangguan atau bahaya terhadap negara.  Meskipun dalam kasus ini, yang diubah adalah data anggaran keuangan daerah, tindakan ini tetap merupakan pelanggaran karena melibatkan akses tidak sah ke sistem yang memiliki kepentingan strategis bagi negara.  Selain itu, Pasal 332 (2) KUHP juga relevan, yang menyatakan bahwa mengakses Komputer dan/atau sistem elektronik dengan tujuan memperoleh Informasi Elektronik dan/atau dokumen elektronik, dipidana dengan pidana penjara paling lama 7 tahun.
+
+Perbedaan utama terletak pada *objek* yang diakses dan *tujuan* dari akses tersebut. Hacking ke komputer swasta umumnya berfokus pada keuntungan pribadi atau pencurian data pribadi. Namun, mengakses komputer instansi pemerintah daerah dengan tujuan mengubah data anggaran keuangan daerah memiliki potensi dampak yang jauh lebih besar terhadap stabilitas keuangan negara dan dapat dianggap sebagai tindakan sabotase atau pengkhianatan terhadap negara.
+
+[Ref: Pasal 332, Pasal 333]
+"
+2026-03-29T21:23:24.538958,Indo Sentence BERT,gemma3:4b,Anak tetangga saya yang masih kelas 4 SD (umur 10 tahun) kedapatan mencuri HP di toko. Pemilik toko mau melaporkannya ke polisi agar dipenjara. Apakah secara hukum anak ini bisa dijatuhi pidana?,"Ya, anak tetangga Anda secara hukum bisa dijatuhi pidana berdasarkan beberapa pasal yang relevan.
+
+Pasal 453 (1) mengatur tentang menyembunyikan atau menarik anak dari pengawasan orang yang berwenang. Meskipun kasus ini melibatkan pencurian, prinsipnya sama, yaitu anak tersebut berada dalam situasi yang tidak seharusnya melakukan tindakan kriminal. Karena anak tersebut masih di bawah umur 12 tahun, maka pasal ini dapat diterapkan dengan hukuman penjara paling lama 7 tahun.
+
+Selain itu, Pasal 497 juga relevan. Pasal ini mengatur tentang menjadikan mata pencaharian atau kebiasaan membeli barang dengan maksud menguasainya tanpa membayar.  Meskipun kasus ini lebih condong ke pencurian, tindakan mencuri HP untuk dijadikan mata pencaharian (walaupun belum tentu demikian) dapat dianggap sebagai pelanggaran hukum.
+
+Namun, perlu diperhatikan bahwa penentuan hukuman akan sangat bergantung pada pertimbangan hakim, termasuk faktor-faktor seperti:
+
+*   **Motif:** Mengapa anak tersebut melakukan pencurian?
+*   **Jumlah Barang yang Dicuri:** HP merupakan barang yang bernilai.
+*   **Perilaku Anak:** Apakah anak tersebut memiliki riwayat pelanggaran sebelumnya?
+
+Penting untuk diingat bahwa anak di bawah umur memiliki perlindungan hukum khusus.  Polisi dan jaksa penuntut umum harus mempertimbangkan hal ini dalam proses penuntutan.
+
+**Referensi:**
+
+*   Pasal 453 (1)
+*   Pasal 497
+"
+2026-03-29T21:23:34.876573,Multilingual E5 Small,gemma3:4b,Seseorang tanpa izin mengakses komputer milik instansi pemerintah daerah dan berhasil mengubah data anggaran keuangan daerah. Apakah ini berbeda dengan hacking ke komputer swasta biasa?,"Ya, mengakses komputer milik instansi pemerintah daerah dan berhasil mengubah data anggaran keuangan daerah berbeda dengan hacking ke komputer swasta biasa. Hal ini karena tindakan tersebut melibatkan akses ke sistem yang dilindungi negara dan memiliki dampak yang lebih serius.
+
+Pasal 334 KUHP mengatur tentang akses ilegal ke komputer atau sistem elektronik yang dilindungi, khususnya yang terkait dengan bank sentral, lembaga perbankan, atau lembaga keuangan. Tindakan mengubah data anggaran keuangan daerah merupakan pelanggaran terhadap keamanan negara dan dapat merugikan keuangan publik.  Selain itu, tindakan ini juga termasuk dalam kategori penyalahgunaan data yang berpotensi menimbulkan gangguan terhadap sistem keuangan dan perniagaan di dalam dan luar negeri.
+
+Sementara itu, Pasal 332 KUHP lebih fokus pada akses ilegal ke komputer milik orang lain secara umum, tanpa menyebutkan perlindungan terhadap data negara.  Perbedaan utama terletak pada *objek* yang diakses dan *tujuan* dari akses tersebut.  Dalam kasus ini, pelaku tidak hanya mengakses komputer, tetapi juga mengubah data yang memiliki nilai strategis bagi negara.
+
+Oleh karena itu, tindakan ini akan dikenakan pasal yang lebih berat yang berkaitan dengan akses ilegal ke sistem yang dilindungi negara dan penyalahgunaan data yang berpotensi merugikan kepentingan negara. [Ref: Pasal 334, Pasal 332]
+"
+2026-03-29T21:23:56.378293,Multilingual All Mini LM,gemma3:4b,Seseorang tanpa izin mengakses komputer milik instansi pemerintah daerah dan berhasil mengubah data anggaran keuangan daerah. Apakah ini berbeda dengan hacking ke komputer swasta biasa?,"Ya, mengakses komputer milik instansi pemerintah daerah dengan mengubah data anggaran keuangan daerah berbeda dengan hacking ke komputer swasta biasa. Hal ini karena dalam kasus ini, pelaku memiliki *maksud* yang spesifik, yaitu memperoleh keuntungan atau mengubah data keuangan yang terkait dengan kepentingan publik.
+
+Pasal 334 KUHP mengatur tentang tindak pidana mengakses komputer atau sistem elektronik dengan maksud memperoleh keuntungan atau informasi keuangan dari lembaga-lembaga tertentu (bank sentral, lembaga perbankan, dll.) atau menyalahgunakan sistem elektronik bank sentral, lembaga perbankan, atau lembaga keuangan.  Perubahan data anggaran keuangan daerah jelas merupakan penyalahgunaan yang merugikan kepentingan publik, sehingga memenuhi unsur-unsur tindak pidana yang diatur dalam pasal tersebut.
+
+Sementara itu, hacking ke komputer swasta biasanya hanya berfokus pada memperoleh informasi atau melakukan kerusakan, tanpa adanya unsur niat untuk merugikan pihak tertentu atau kepentingan publik.  Pasal 332 KUHP mengatur tentang akses ilegal ke komputer, tetapi fokusnya adalah pada akses *dengan tujuan* memperoleh informasi elektronik atau dokumen elektronik, yang tidak secara otomatis mengimplikasikan perubahan data keuangan yang berdampak pada kepentingan publik.
+
+Dengan demikian, tindakan mengakses komputer pemerintah daerah dan mengubah data anggaran keuangan daerah merupakan tindak pidana yang lebih serius karena melibatkan unsur-unsur yang berkaitan dengan penyalahgunaan kekuasaan dan kerugian yang ditimbulkan bagi negara. [Ref: Pasal 334 KUHP]
+"
+2026-03-29T21:24:10.102835,Multilingual All Mini LM,gemma3:4b,"Kalau ada pasangan pacaran yang belum nikah tapi tinggal serumah (kumpul kebo), boleh nggak sih Pak RT, warga, atau ormas main gerebek dan laporin mereka ke polisi?","Berdasarkan pasal-pasal yang diberikan, secara umum, tindakan gerebek dan melapor pasangan pacaran yang tinggal serumah ke polisi tidak serta merta sah. Berikut penjelasannya:
+
+Pasal 426 (1) mengatur tentang kegiatan perjudian. Meskipun pasangan pacaran tinggal serumah, pasal ini tidak relevan dengan situasi tersebut.
+
+Pasal 425 (1) mengatur tentang penyerahan anak di bawah umur kepada orang yang akan memanfaatkannya untuk melakukan perbuatan berbahaya. Pasal ini juga tidak relevan karena pertanyaan berfokus pada pasangan pacaran yang belum menikah.
+
+Pasal 208 mengatur tentang pelanggaran terhadap rahasia negara.  Pasal ini tidak relevan dengan situasi pasangan pacaran.
+
+Pasal 481 mengatur tentang penuntutan pidana dalam kasus kekerasan dalam rumah tangga. Namun, pasal ini mensyaratkan bahwa pasangan harus tinggal bersama dengan cara yang *tidak terpisah meja dan tempat tidur atau tidak terpisah Harta Kekayaan*.  Jika pasangan pacar tersebut masih terpisah meja dan tempat tidur atau terpisah harta kekayaan, maka penuntutan berdasarkan pasal ini tidak dapat dilakukan.
+
+Dengan demikian, jika pasangan pacar tersebut masih terpisah meja dan tempat tidur atau terpisah harta kekayaan, maka tindakan gerebek dan melapor oleh Pak RT, warga, atau ormas ke polisi tidak akan berdasar pada hukum yang berlaku. Penuntutan hanya dapat dilakukan atas pengaduan Korban jika pelaku merupakan suami atau istri Korban Tindak Pidana yang terpisah meja dan tempat tidur atau terpisah Harta Kekayaan, atau merupakan keluarga sedarah atau semenda baik dalam garis lurus maupun dalam garis menyamping sampai derajat kedua. [Ref: Pasal 481]
+
+Informasi tidak ditemukan dalam dokumen.
+"
+2026-03-29T21:28:23.756231,BGE-M3,gemma3:4b,Anak tetangga saya yang masih kelas 4 SD (umur 10 tahun) kedapatan mencuri HP di toko. Pemilik toko mau melaporkannya ke polisi agar dipenjara. Apakah secara hukum anak ini bisa dijatuhi pidana?,"Pertanyaan: Apakah secara hukum anak tetangga saya yang masih kelas 4 SD (umur 10 tahun) kedapatan mencuri HP di toko bisa dijatuhi pidana?
+
+Jawaban: Ya, secara hukum anak tetangga Anda bisa dijatuhi pidana berdasarkan beberapa pasal dalam KUHP. Meskipun usianya masih anak-anak, tindak pencurian tetap merupakan pelanggaran hukum.
+
+Pasal 476 mengatur tentang pencurian. Pasal ini menyatakan bahwa setiap orang yang mengambil barang milik orang lain dengan maksud untuk dimiliki secara melawan hukum, dipidana karena pencurian dengan pidana penjara paling lama 5 tahun atau denda paling banyak kategori V. Karena anak tetangga Anda mengambil HP milik toko dengan maksud untuk dimiliki secara melawan hukum, maka ia memenuhi unsur-unsur pencurian sesuai pasal ini.
+
+Selain itu, Pasal 453 juga relevan. Pasal ini mengatur tentang menyembunyikan anak yang ditarik atau menarik sendiri dari kekuasaan. Meskipun konteks kasus ini adalah pencurian, prinsip dasar pasal ini terkait dengan pengabaian terhadap anak yang berada dalam kekuasaan, yang bisa relevan jika ada indikasi lain seperti pengawasan yang tidak memadai. Namun, pasal ini tidak secara langsung mengatur tentang pencurian, tetapi lebih ke arah pengabaian terhadap anak yang berada dalam kekuasaan.
+
+Mengingat usianya masih anak-anak, kemungkinan hukuman yang dijatuhkan akan lebih ringan dibandingkan orang dewasa. Namun, tetap saja ia dapat dikenakan pidana sesuai dengan Pasal 476.
+
+[Ref: Pasal 476]
+"
+2026-03-29T21:30:45.823040,Multilingual E5 Small,gemma3:4b,Anak tetangga saya yang masih kelas 4 SD (umur 10 tahun) kedapatan mencuri HP di toko. Pemilik toko mau melaporkannya ke polisi agar dipenjara. Apakah secara hukum anak ini bisa dijatuhi pidana?,"Ya, anak tetangga Anda berpotensi dikenakan pidana berdasarkan hukum yang berlaku.
+
+Pasal 453 (1) mengatur tentang penyembunyian atau menarik anak dari kekuasaan yang seharusnya. Meskipun anak tersebut masih di bawah umur 12 tahun, perbuatan mencuri HP yang melibatkan tindakan melawan hukum tetap dapat dikenakan pidana.  Pasal ini menyatakan bahwa jika perbuatan tersebut dilakukan terhadap anak di bawah umur 12 tahun, dipidana dengan pidana penjara paling lama 7 tahun.
+
+Selain itu, Pasal 40 KUHP menyatakan bahwa anak yang belum berumur 12 tahun tidak dapat dipidana. Namun, dalam kasus ini, anak tersebut berusia 10 tahun (kelas 4 SD), yang masih di bawah 12 tahun.  Meskipun demikian, karena anak tersebut melakukan tindakan yang melawan hukum (mencuri), ia tetap dapat dikenakan pidana sesuai dengan ketentuan Pasal 453 (1) KUHP.
+
+Oleh karena itu, pemilik toko dapat melaporkan kejadian tersebut ke polisi dan anak tersebut berpotensi dipenjara.
+
+[Ref: Pasal 453 ayat (1) dan (2), Pasal 40]
+"
+2026-03-29T21:31:37.865040,Indo Sentence BERT,gemma3:4b,Seseorang tanpa izin mengakses sistem elektronik sebuah bank untuk mendapatkan data kartu kredit nasabah lalu menggunakannya untuk transaksi online demi keuntungan pribadi. Apa jerat hukumnya?,"Seseorang yang mengakses sistem elektronik bank tanpa izin untuk mendapatkan data kartu kredit nasabah dan menggunakannya untuk transaksi online demi keuntungan pribadi dapat dikenakan jeratan pada beberapa pasal dalam KUHP.
+
+Pasal 334 ayat (a) merupakan pasal yang paling relevan. Pasal ini mengatur tentang akses ilegal ke sistem komputer atau sistem elektronik dengan maksud memperoleh keuntungan atau informasi keuangan dari lembaga keuangan seperti bank sentral, lembaga perbankan, atau lembaga keuangan lainnya. Tindakan mengakses data kartu kredit nasabah untuk transaksi online jelas memenuhi unsur-unsur dalam pasal ini.
+
+Selain itu, tindakan tersebut juga dapat dikategorikan sebagai pelanggaran terhadap Pasal 332 ayat (2) dan (3) yang mengatur tentang akses ilegal ke komputer dan sistem elektronik dengan tujuan memperoleh informasi elektronik dan/atau dokumen elektronik, serta dengan melanggar sistem pengamanan.  Pasal 332 ayat (2) mengatur hukuman maksimal 7 tahun penjara atau denda kategori V, sedangkan pasal 332 ayat (3) mengatur hukuman maksimal 8 tahun penjara atau denda kategori VI.
+
+Dengan demikian, pelaku dapat dijerat dengan Pasal 334 KUHP dan/atau Pasal 332 KUHP.
+
+[Ref: Pasal 334, Pasal 332]
+"
+2026-03-29T21:33:21.412861,BGE-M3,gemma3:4b,Seseorang tanpa izin mengakses sistem elektronik sebuah bank untuk mendapatkan data kartu kredit nasabah lalu menggunakannya untuk transaksi online demi keuntungan pribadi. Apa jerat hukumnya?,"Seseorang yang tanpa izin mengakses sistem elektronik sebuah bank untuk mendapatkan data kartu kredit nasabah dan menggunakannya untuk transaksi online demi keuntungan pribadi akan dikenakan jeratan hukum pada Pasal 334 ayat (a) dan (d) Kitab Undang-Undang Hukum Pidana (KUHP).
+
+**Penjelasan:**
+
+*   **Pasal 334 ayat (a):**  Pasal ini mengatur tentang akses ilegal ke sistem komputer atau elektronik dengan maksud memperoleh keuntungan atau informasi keuangan dari lembaga keuangan seperti bank sentral, lembaga perbankan, atau lembaga keuangan lainnya. Tindakan mengakses data kartu kredit nasabah untuk transaksi online jelas termasuk dalam definisi ini.
+*   **Pasal 334 ayat (d):**  Pasal ini juga mencakup penyebaran, perdagangan, atau pemanfaatan kode akses atau informasi serupa yang dapat digunakan untuk menerobos sistem elektronik bank atau lembaga keuangan dengan maksud menyalahgunakan akibatnya. Penggunaan data kartu kredit nasabah untuk transaksi ilegal termasuk dalam kategori ini.
+
+**Referensi:** Pasal 334 ayat (a) dan (d) KUHP.
+"
+2026-03-29T21:33:57.021214,Multilingual E5 Small,gemma3:4b,Seseorang tanpa izin mengakses sistem elektronik sebuah bank untuk mendapatkan data kartu kredit nasabah lalu menggunakannya untuk transaksi online demi keuntungan pribadi. Apa jerat hukumnya?,"Seseorang yang tanpa izin mengakses sistem elektronik sebuah bank untuk mendapatkan data kartu kredit nasabah dan menggunakannya untuk transaksi online demi keuntungan pribadi akan dikenakan jerat dalam Pasal 334 Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 334 KUHP mengatur tentang tindak pidana mengakses Komputer atau sistem elektronik tanpa hak dengan maksud memperoleh keuntungan atau informasi keuangan dari lembaga keuangan seperti bank sentral, lembaga perbankan, atau lembaga keuangan lainnya. Tindakan mengakses data kartu kredit nasabah dan menggunakannya untuk transaksi online jelas memenuhi unsur-unsur tersebut.  Perbuatan ini merupakan tindakan yang dilakukan tanpa hak dan dengan maksud memperoleh keuntungan, yang merupakan unsur yang diatur dalam pasal tersebut.
+
+Sanksi yang berlaku untuk pelanggaran pasal ini adalah pidana penjara paling lama 10 (sepuluh) tahun atau pidana denda paling banyak kategori VII.
+
+[Ref: Pasal 334 KUHP]
+"
+2026-03-29T21:34:48.634015,Multilingual All Mini LM,gemma3:4b,Seseorang tanpa izin mengakses sistem elektronik sebuah bank untuk mendapatkan data kartu kredit nasabah lalu menggunakannya untuk transaksi online demi keuntungan pribadi. Apa jerat hukumnya?,"Seseorang yang tanpa izin mengakses sistem elektronik sebuah bank untuk mendapatkan data kartu kredit nasabah dan menggunakannya untuk transaksi online demi keuntungan pribadi dapat dikenakan jeratan hukum berdasarkan beberapa pasal dalam KUHP.
+
+Pasal 334 KUHP merupakan pasal yang paling relevan dalam kasus ini. Pasal ini mengatur tentang akses ilegal ke sistem komputer atau sistem elektronik dengan maksud memperoleh keuntungan atau informasi keuangan. Tindakan mengakses sistem bank untuk mendapatkan data kartu kredit nasabah dan menggunakannya untuk transaksi online jelas memenuhi unsur-unsur dalam pasal ini. Ancaman pidananya adalah pidana penjara paling lama 10 tahun atau denda paling banyak kategori VII.
+
+Selain itu, tindakan ini juga dapat dikategorikan sebagai tindak pidana yang terkait dengan penyalahgunaan data, meskipun tidak secara eksplisit disebutkan dalam pasal 334.
+
+**Referensi:** Pasal 334 KUHP
+"
+2026-03-29T21:38:38.421676,Multilingual All Mini LM,gemma3:4b,Anak tetangga saya yang masih kelas 4 SD (umur 10 tahun) kedapatan mencuri HP di toko. Pemilik toko mau melaporkannya ke polisi agar dipenjara. Apakah secara hukum anak ini bisa dijatuhi pidana?,"Ya, anak tetangga Anda bisa dijatuhi pidana berdasarkan beberapa pasal dalam KUHP.
+
+Pasal 425 (1) menyebutkan bahwa setiap orang yang memberikan atau menyerahkan kepada orang lain anak yang ada di bawah kekuasaannya yang sah dan belum berumur 12 tahun, padahal diketahui bahwa anak tersebut akan dimanfaatkan untuk melakukan perbuatan meminta minta atau melakukan pekerjaan yang berbahaya, dipidana dengan pidana penjara paling lama 4 tahun atau denda paling banyak kategori IV.  Karena anak tersebut kedapatan mencuri HP (perbuatan meminta minta) dan masih di bawah umur 12 tahun, pasal ini sangat relevan.
+
+Selain itu, meskipun anak tersebut masih di bawah 12 tahun, tindak pencurian tetap merupakan tindak pidana.  Meskipun tidak ada pasal yang secara spesifik mengatur anak di bawah 12 tahun yang melakukan pencurian, hukum tetap berlaku.  Pihak berwenang dapat menafsirkan kasus ini berdasarkan prinsip umum hukum pidana dan mempertimbangkan usia anak tersebut.  Meskipun hukuman maksimal untuk pasal 425 (1) adalah 4 tahun, hakim dapat mempertimbangkan faktor usia anak dan memberikan hukuman yang lebih ringan, namun tetap sesuai dengan beratnya tindak pidana yang dilakukan.
+
+[Ref: Pasal 425 (1)]
+"
+2026-03-29T21:38:52.620826,Indo Sentence BERT,gemma3:4b,Ayam peliharaan tetangga sering banget dilepasliarkan sampai masuk ke halaman rumah saya dan ngerusak pot-pot bunga yang baru saya tanam. Bisa saya tuntut ganti rugi atau pidana nggak tuh yang punya?,"Pertanyaan: Ayam peliharaan tetangga sering banget dilepasliarkan sampai masuk ke halaman rumah saya dan ngerusak pot-pot bunga yang baru saya tanam. Bisa saya tuntut ganti rugi atau pidana nggak tuh yang punya?
+
+Jawaban: Ya, Anda berpotensi untuk menuntut ganti rugi atau bahkan tindakan pidana terhadap pemilik ayam tersebut. Berikut penjelasannya berdasarkan pasal-pasal yang relevan:
+
+Pertama, terkait ganti rugi, Pasal 94 (1) memungkinkan penetapan kewajiban terpidana untuk membayar ganti rugi kepada korban atau ahli waris sebagai pidana tambahan. Kerusakan pot-pot bunga Anda akibat ayam yang dilepasliarkan memenuhi syarat sebagai kerugian yang bisa dituntut ganti ruginya.
+
+Kedua, terkait tindakan pidana, meskipun tidak ada pasal yang secara spesifik menyebutkan tentang ayam, tindakan melepaskan hewan (dalam hal ini ayam) yang merusak properti orang lain dapat dikategorikan sebagai pelanggaran.  Pasal 336 menyebutkan tentang mengusik hewan yang membahayakan orang, dan meskipun tidak secara eksplisit menyebutkan ayam, tindakan ayam yang dilepasliarkan dan merusak properti bisa dianggap sebagai mengusik hewan yang membahayakan (dalam hal ini, properti Anda).  Namun, untuk bisa menuntut pidana, bukti kerusakan harus cukup kuat.
+
+Ketiga, terkait kemungkinan tuntutan pidana, Pasal 70 (1) huruf e menyebutkan kewajiban melaporkan hewan buas yang berbahaya. Meskipun ayam bukan hewan buas, prinsip kewajiban menjaga hewan yang berpotensi membahayakan tetap relevan.
+
+Mengingat hal tersebut, Anda dapat mengajukan tuntutan ganti rugi berdasarkan Pasal 94 (1) dan berpotensi menuntut pidana berdasarkan Pasal 336 jika bukti kerusakan cukup kuat.
+
+[Ref: Pasal 94, Pasal 336, Pasal 70]
+"
+2026-03-29T21:40:01.895331,BGE-M3,gemma3:4b,Ayam peliharaan tetangga sering banget dilepasliarkan sampai masuk ke halaman rumah saya dan ngerusak pot-pot bunga yang baru saya tanam. Bisa saya tuntut ganti rugi atau pidana nggak tuh yang punya?,"Ya, Anda bisa menuntut ganti rugi atau bahkan pidana terhadap orang yang memiliki ayam peliharaannya sering dilepasliarkan dan merusak pot-pot bunga Anda. Berikut penjelasannya berdasarkan pasal yang relevan:
+
+Pasal 505 mengatur tentang kerusakan barang milik orang lain secara melawan hukum. Dalam kasus ini, ayam peliharaan yang dilepasliarkan tersebut merusak pot-pot bunga Anda, yang memenuhi unsur-unsur dalam pasal tersebut. Seseorang yang melakukan perbuatan tersebut dapat dipidana dengan pidana penjara paling lama 3 tahun atau pidana denda paling banyak kategori IV.
+
+Selain itu, Anda juga bisa mengajukan tuntutan ganti rugi berdasarkan Pasal 94 ayat (1) yang mengatur tentang kewajiban terpidana untuk membayar ganti rugi kepada korban. Jika terpidana tidak memenuhi kewajiban ganti rugi tersebut, maka akan diterapkan ketentuan tentang pelaksanaan pidana denda sebagaimana dimaksud dalam Pasal 81 sampai dengan Pasal 83.
+
+Meskipun tidak ada pasal yang secara spesifik mengatur tentang ayam yang merusak tanaman, prinsip umum dalam hukum pidana, yaitu setiap perbuatan yang merugikan orang lain dapat dikenakan pidana, berlaku dalam kasus ini.
+
+[Ref: Pasal 505]
+"
+2026-03-29T21:40:31.662383,Multilingual E5 Small,gemma3:4b,Ayam peliharaan tetangga sering banget dilepasliarkan sampai masuk ke halaman rumah saya dan ngerusak pot-pot bunga yang baru saya tanam. Bisa saya tuntut ganti rugi atau pidana nggak tuh yang punya?,"Berdasarkan pasal-pasal yang Anda berikan, Anda berpotensi mengajukan tuntutan ganti rugi atau bahkan menuntut pelaku kejahatan tersebut dengan beberapa pertimbangan.
+
+Pertama, mengenai ganti rugi, Pasal 94 (1) memungkinkan penetapan kewajiban terpidana untuk melaksanakan pembayaran ganti rugi kepada korban atau ahli waris sebagai pidana tambahan. Dalam kasus ini, ayam yang dilepasliarkan tetangga yang merusak pot bunga Anda dapat dianggap sebagai tindakan yang menyebabkan kerugian. Namun, untuk menerapkan pasal ini, perlu dibuktikan adanya unsur kesalahan atau kelalaian yang menyebabkan kerugian tersebut.
+
+Kedua, jika pelaku tidak melaksanakan kewajiban pembayaran ganti rugi, Pasal 96 mengatur ketentuan tentang pelaksanaan pidana denda secara mutatis mutandis. Jika ganti rugi tidak dibayar, denda dapat diterapkan.
+
+Mengenai pidana yang mungkin dikenakan, berikut beberapa pertimbangan:
+
+*   **Pasal 478:** Jika harga pot bunga yang rusak tidak lebih dari Rp500.000,00, pelaku dapat dipidana karena pencurian ringan.
+*   **Pasal 265:** Jika tindakan melepaskan ayam secara terus-menerus mengganggu ketenteraman lingkungan, pelaku dapat dipidana dengan pidana denda.
+
+Namun, perlu diperhatikan bahwa Pasal 440 menyatakan bahwa tindak pidana hanya dapat dituntut jika ada pengaduan dari korban. Jadi, Anda harus mengajukan laporan polisi sebagai langkah awal.
+
+Selain itu, Pasal 70 memberikan keringanan pidana jika terdakwa adalah anak, baru pertama kali melakukan tindak pidana, atau kerugian tidak terlalu besar.
+
+**Kesimpulan:** Anda berhak untuk menuntut ganti rugi atas kerusakan pot bunga Anda. Selain itu, jika ada unsur kesengajaan atau kelalaian yang terbukti, pelaku dapat dikenakan pidana sesuai dengan Pasal 478 atau Pasal 265.
+
+**Referensi:** Pasal 94, Pasal 96, Pasal 478, Pasal 265.
+"
+2026-03-29T21:40:59.130930,Indo Sentence BERT,gemma3:4b,Seorang remaja usia 13 tahun melakukan tawuran dan melukai orang. Orang tuanya bilang dia masih anak-anak jadi tidak bisa dihukum penjara. Benarkah demikian?,"Berdasarkan konteks yang diberikan, seorang remaja yang masih di bawah umur 12 tahun tidak dapat dihukum penjara. Hal ini diatur dalam **Pasal 40** KUHP yang secara eksplisit menyatakan bahwa “Orang yang melakukan Tindak Pidana yang diancam dengan pidana penjara karena keadaan pribadi, perbuatannya dapat dijatuhi pidana tutupan. (2) Pidana tutupan sebagaimana dimaksud pada ayat (1) dapat dijatuhkan kepada terdakwa yang melakukan Tindak Pidana karena terdorong oleh maksud yang patut dihormati.”
+
+Dalam kasus remaja usia 13 tahun, meskipun melakukan tindakan yang melukai orang, ia masih tergolong anak-anak dan tidak memenuhi syarat untuk dijatuhi pidana penjara berdasarkan pasal yang relevan.
+
+[Ref: Pasal 40]
+"
+2026-03-29T21:41:19.972886,Multilingual All Mini LM,gemma3:4b,Ayam peliharaan tetangga sering banget dilepasliarkan sampai masuk ke halaman rumah saya dan ngerusak pot-pot bunga yang baru saya tanam. Bisa saya tuntut ganti rugi atau pidana nggak tuh yang punya?,"Pertanyaan: Ayam peliharaan tetangga sering banget dilepasliarkan sampai masuk ke halaman rumah saya dan ngerusak pot-pot bunga yang baru saya tanam. Bisa saya tuntut ganti rugi atau pidana nggak tuh yang punya?
+
+Jawaban: Ya, Anda berpotensi untuk menuntut ganti rugi atau bahkan pidana terhadap pemilik ayam tersebut. Berikut penjelasannya berdasarkan pasal-pasal yang ada:
+
+Pertama, berdasarkan **Pasal 94 ayat (1)**, Anda dapat menuntut ganti rugi kepada pemilik ayam jika terjadi kerugian (dalam hal ini kerugian akibat kerusakan pot-pot bunga). Pasal ini memungkinkan penetapan kewajiban terpidana untuk membayar ganti rugi kepada korban atau ahli waris sebagai pidana tambahan.
+
+Kedua, jika tindakan melepaskan ayam tersebut memenuhi unsur **Pasal 21 ayat (1) huruf a** (memberi kesempatan, sarana, atau keterangan untuk melakukan Tindak Pidana), Anda bisa mengajukan tuntutan pidana.  Dalam kasus ini, melepaskan ayam secara terus-menerus bisa dianggap sebagai memberikan sarana (ayam) untuk melakukan perbuatan merusak (pot-pot bunga).  Pidana untuk pembantuan melakukan Tindak Pidana paling banyak 213 (dua per tiga) dari maksimum ancaman pidana pokok untuk Tindak Pidana yang bersangkutan.
+
+Ketiga, meskipun tidak secara langsung, tindakan pemilik ayam tersebut dapat dikategorikan sebagai tindakan yang menyebabkan kerugian.  Anda dapat mengajukan tuntutan berdasarkan prinsip hukum perbuatan melawan hukum yang menyebabkan kerugian.
+
+Penting untuk diingat bahwa pembuktian atas tindakan pemilik ayam tersebut (terutama unsur kesengajaan) menjadi tanggung jawab Anda.
+
+**Referensi:** Pasal 94 ayat (1), Pasal 21 ayat (1) huruf a.
+"
+2026-03-29T21:43:24.532104,BGE-M3,gemma3:4b,Seorang remaja usia 13 tahun melakukan tawuran dan melukai orang. Orang tuanya bilang dia masih anak-anak jadi tidak bisa dihukum penjara. Benarkah demikian?,"Benarkah remaja usia 13 tahun tidak bisa dihukum penjara?
+
+Menurut konteks KUHP yang diberikan, jawaban yang paling tepat adalah **ya, secara umum dia tidak bisa dihukum penjara**.
+
+Alasannya adalah karena Pasal 40 KUHP mengatur tentang pertanggungjawaban pidana anak. Pasal ini menyatakan bahwa setiap orang yang melakukan Tindak Pidana tidak dapat dikenakan pidana jika pada waktu melakukan Tindak Pidana tersebut belum berumur 12 (dua belas) tahun. Karena remaja yang melakukan tawuran dan melukai orang tersebut berumur 13 tahun, maka dia termasuk kategori anak yang tidak dapat dipidana dengan pidana penjara. Dia bisa dikenakan pidana denda paling banyak kategori IV sesuai dengan Pasal 573. [Ref: Pasal 40, Pasal 573]
+
+Namun, perlu diingat bahwa meskipun tidak dijatuhi pidana penjara, pihak berwajib tetap dapat mengambil tindakan lain terhadap anak tersebut, seperti pembinaan atau penahanan sementara.
+"
+2026-03-29T21:45:01.290635,Indo Sentence BERT,gemma3:4b,Seorang mantan pegawai kementerian menggunakan akun lamanya yang belum dinonaktifkan untuk mengakses dan mengunduh dokumen rahasia negara terkait kebijakan pertahanan. Pasal apa yang dikenakan?,"Berdasarkan konteks yang diberikan, seorang mantan pegawai kementerian yang menggunakan akun lamanya untuk mengakses dan mengunduh dokumen rahasia negara terkait kebijakan pertahanan dapat dikenakan Pasal 333.
+
+Pasal 333 mengatur tentang tindak pidana mengakses dan memperoleh informasi pertahanan nasional tanpa hak. Secara spesifik, pasal ini menyebutkan bahwa seseorang yang tanpa hak menggunakan atau mengakses Komputer atau sistem elektronik dengan maksud memperoleh, mengubah, merusak, atau menghilangkan informasi pertahanan nasional (dalam hal ini, dokumen rahasia negara terkait kebijakan pertahanan) dapat dipidana dengan pidana penjara paling lama 7 (tujuh) tahun atau pidana denda paling banyak kategori VI.
+
+[Ref: Pasal 333]
+"
+2026-03-29T21:45:43.567339,Multilingual E5 Small,gemma3:4b,Seorang remaja usia 13 tahun melakukan tawuran dan melukai orang. Orang tuanya bilang dia masih anak-anak jadi tidak bisa dihukum penjara. Benarkah demikian?,"Benar, pernyataan orang tua tersebut memiliki dasar hukum. Berdasarkan Pasal 40 KUHP, pertanggungjawaban pidana tidak dapat dikenakan terhadap anak yang pada waktu melakukan tindak pidana belum berumur 12 (dua belas) tahun. Karena remaja tersebut berusia 13 tahun, maka ia tidak dapat dipidana dengan hukuman penjara. Namun, perlu diperhatikan bahwa meskipun tidak dipidana penjara, anak tersebut tetap dapat dikenakan sanksi lain seperti wajib restitusi atau tindakan rehabilitasi sesuai dengan ketentuan yang berlaku.
+
+[Ref: Pasal 40]
+"
+2026-03-29T21:47:16.622332,BGE-M3,gemma3:4b,Seorang mantan pegawai kementerian menggunakan akun lamanya yang belum dinonaktifkan untuk mengakses dan mengunduh dokumen rahasia negara terkait kebijakan pertahanan. Pasal apa yang dikenakan?,"Berdasarkan konteks yang diberikan, seorang mantan pegawai kementerian yang menggunakan akun lamanya yang belum dinonaktifkan untuk mengakses dan mengunduh dokumen rahasia negara terkait kebijakan pertahanan dapat dikenakan Pasal 333 ayat (a) dan (i) dari KUHP.
+
+Pasal 333 ayat (a) mengatur tentang akses tidak sah ke komputer atau sistem elektronik dengan maksud memperoleh informasi pertahanan nasional atau hubungan internasional yang dapat menyebabkan gangguan atau bahaya terhadap negara. Penggunaan akun yang belum dinonaktifkan dan akses ke dokumen rahasia negara memenuhi unsur ini.
+
+Pasal 333 ayat (i) mengatur tentang tindakan yang dilakukan dalam rangka hubungan internasional dengan maksud merusak Komputer atau sistem elektronik yang dilindungi negara dan berada di wilayah yurisdiksi Indonesia. Mengunduh dokumen rahasia negara yang berkaitan dengan pertahanan juga memenuhi unsur ini.
+
+Selain itu, meskipun tidak secara eksplisit disebutkan, tindakan ini juga dapat diperburuk dengan mempertimbangkan Pasal 335 yang mengatur tentang akses tidak sah ke komputer atau sistem elektronik milik pemerintah yang melindungi informasi rahasia, dengan ancaman pidana penjara paling lama 12 tahun.
+
+[Ref: Pasal 333 ayat (a) dan (i), Pasal 335]
+"
+2026-03-29T21:47:44.753366,Multilingual E5 Small,gemma3:4b,Seorang mantan pegawai kementerian menggunakan akun lamanya yang belum dinonaktifkan untuk mengakses dan mengunduh dokumen rahasia negara terkait kebijakan pertahanan. Pasal apa yang dikenakan?,"Berdasarkan konteks yang diberikan, seorang mantan pegawai kementerian yang menggunakan akun lamanya yang belum dinonaktifkan untuk mengakses dan mengunduh dokumen rahasia negara terkait kebijakan pertahanan dapat dikenakan Pasal 335.
+
+Pasal 335 menyatakan: “Setiap Orang yang tanpa hak menggunakan atau mengakses Komputer atau sistem elektronik dengan cara apa pun, dengan maksud memperoleh, mengubah, merusak, atau menghilangkan informasi milik pemerintah yang karena statusnya harus dirahasiakan atau dilindungi, dipidana dengan pidana penjara paling lama 12 (dua belas) tahun atau pidana denda paling banyak kategori VII.”
+
+Kejadian ini memenuhi unsur-unsur dalam Pasal 335 karena melibatkan penggunaan komputer atau sistem elektronik tanpa hak untuk memperoleh informasi yang bersifat rahasia milik pemerintah (dokumen rahasia negara terkait kebijakan pertahanan).
+
+[Ref: Pasal 335]
+"
+2026-03-29T21:48:12.523674,Multilingual All Mini LM,gemma3:4b,Seorang mantan pegawai kementerian menggunakan akun lamanya yang belum dinonaktifkan untuk mengakses dan mengunduh dokumen rahasia negara terkait kebijakan pertahanan. Pasal apa yang dikenakan?,"Berdasarkan konteks yang diberikan, seorang mantan pegawai kementerian yang menggunakan akun lamanya untuk mengakses dan mengunduh dokumen rahasia negara terkait kebijakan pertahanan dapat dikenakan Pasal 333.
+
+Pasal 333 mengatur tentang tindakan mengakses atau memperoleh informasi pertahanan nasional atau hubungan internasional yang dapat menyebabkan gangguan atau bahaya terhadap negara. Penggunaan akun yang belum dinonaktifkan dan akses ke dokumen rahasia negara memenuhi unsur-unsur yang diatur dalam pasal ini, yaitu:
+
+*   Tanpa hak menggunakan atau mengakses Komputer atau sistem elektronik dengan maksud memperoleh informasi pertahanan nasional.
+*   Informasi tersebut terkait kebijakan pertahanan, yang merupakan informasi pertahanan nasional.
+
+Pasal 205 yang mengatur tentang pengumuman atau penyebaran informasi rahasia negara tidak relevan dalam kasus ini karena fokusnya adalah pada akses dan pengunduhan informasi oleh seseorang yang tidak berhak, bukan pada penyebaran informasi tersebut.
+
+[Ref: Pasal 333]
+"
+2026-03-29T21:49:18.644649,Multilingual All Mini LM,gemma3:4b,Seorang remaja usia 13 tahun melakukan tawuran dan melukai orang. Orang tuanya bilang dia masih anak-anak jadi tidak bisa dihukum penjara. Benarkah demikian?,"Tidak benar bahwa seorang remaja usia 13 tahun tidak bisa dihukum penjara karena masih anak-anak. Meskipun demikian, kasus ini melibatkan beberapa pasal yang perlu dipertimbangkan.
+
+Pasal 425 (1) dan (2) mengatur tentang penahanan anak di bawah 12 tahun yang dimanfaatkan untuk melakukan perbuatan berbahaya. Meskipun korban dalam kasus ini berusia 13 tahun, jika terbukti bahwa remaja tersebut dimanfaatkan untuk melakukan tindakan melukai orang, ia tetap dapat dipidana sesuai dengan pasal tersebut. Pidana yang dikenakan adalah penjara paling lama 4 tahun.
+
+Selain itu, Pasal 419 juga relevan. Jika tindakan tawuran dan melukai orang tersebut tergolong tindakan cabul atau bersetubuh dengan anak yang diketahui atau patut diduga, remaja tersebut dapat dikenakan pasal ini dengan ancaman pidana penjara paling lama 7 tahun, atau 9 tahun jika korban adalah anak kandung, anak tiri, anak angkat, atau anak di bawah pengawasannya yang dipercayakan padanya untuk diasuh.
+
+Perlu diingat bahwa hak untuk mengadukan korban yang belum berumur 16 tahun diatur dalam Pasal 25, namun hal ini tidak menghilangkan kemungkinan penahanan dan tuntutan hukum terhadap remaja tersebut.
+
+[Ref: Pasal 425, Pasal 419, Pasal 25]
+"
+2026-03-29T21:52:36.893249,Indo Sentence BERT,gemma3:4b,Anak-anak ABG sering banget corat-coret tembok fasilitas umum atau pagar rumah orang pakai cat semprot/pilox. Tindakan iseng begini ada ancaman penjaranya nggak sih?,"Tindakan anak-anak ABG yang corat-coret tembok fasilitas umum atau pagar rumah orang dengan cat semprot/pilox, memiliki potensi ancaman pidana berdasarkan beberapa pasal dalam KUHP.
+
+Pertama, Pasal 321 mengatur tentang merusak bangunan untuk lalu lintas umum. Meskipun corat-coret pada pagar mungkin tidak secara langsung mengganggu lalu lintas, tindakan ini dapat dianggap merusak bangunan yang digunakan untuk menjaga keamanan dan ketertiban umum. Jika perbuatan tersebut mengakibatkan bahaya bagi keamanan lalu lintas (meskipun tidak disebutkan secara eksplisit), maka dapat dikenakan pidana penjara paling lama 7 tahun.
+
+Kedua, Pasal 322 mengatur tentang kelalaian yang menyebabkan kerusakan bangunan umum. Jika tindakan anak ABG menyebabkan kerusakan pada pagar atau fasilitas umum akibat kelalaian, maka dapat dikenakan pidana penjara paling lama 5 tahun atau denda paling banyak kategori V.
+
+Ketiga, Pasal 113 (1) f menyebutkan kewajiban perbaikan akibat Tindak Pidana. Corat-coret yang merupakan tindak pidana dapat dikenakan kewajiban perbaikan akibat tindak pidana, yang dalam hal ini bisa berupa tindakan rehabilitasi atau perbaikan akibat tindak pidana.
+
+Keempat, Pasal 601 mengatur tentang kekerasan atau ancaman kekerasan yang menimbulkan teror. Jika tindakan corat-coret dilakukan dengan maksud untuk menimbulkan teror atau rasa takut, meskipun tidak ada kekerasan fisik, maka dapat dikenakan pidana penjara paling singkat 3 tahun dan paling lama 20 tahun atau pidana penjara seumur hidup.
+
+Namun, perlu diingat bahwa Pasal 321 dan 322 lebih relevan dalam kasus ini karena secara spesifik mengatur tentang merusak bangunan. Pasal 113 (1) f lebih relevan jika tindakan tersebut merupakan bagian dari tindak pidana yang lebih besar.
+
+[Ref: Pasal 321, Pasal 322, Pasal 113 (1) f, Pasal 601]
+"
+2026-03-29T21:52:44.961913,Indo Sentence BERT,gemma3:4b,"Seorang pemilik anjing besar membiarkan anjingnya berkeliaran di halaman depan tanpa kandang atau rantai, lalu anjing tersebut menggigit seorang tukang pos yang lewat. Apakah pemiliknya bisa dipidana?","Berdasarkan konteks yang diberikan, pemilik anjing besar tersebut berpotensi dipidana. Pasal 339 dipidana jika seseorang membiarkan hewan (dalam hal ini anjing) berkeliaran di jalan umum tanpa tindakan penjagaan yang memadai. Meskipun pasal ini tidak secara spesifik menyebutkan anjing, prinsipnya adalah tentang tanggung jawab pemilik hewan dalam mencegah bahaya yang disebabkan hewan tersebut.
+
+Dalam kasus ini, pemilik anjing membiarkan anjing besar berkeliaran tanpa kandang atau rantai, yang berarti tidak ada tindakan penjagaan yang memadai. Akibatnya, anjing tersebut menggigit tukang pos. Hal ini memenuhi unsur-unsur dalam Pasal 339, yaitu tidak menaruh tanda peringatan dan tidak mengadakan tindakan penjagaan seperlunya.
+
+Oleh karena itu, pemilik anjing dapat dipidana dengan pidana denda paling banyak kategori II. [Ref: Pasal 339]
+"
+2026-03-29T21:53:16.671887,BGE-M3,gemma3:4b,"Seorang pemilik anjing besar membiarkan anjingnya berkeliaran di halaman depan tanpa kandang atau rantai, lalu anjing tersebut menggigit seorang tukang pos yang lewat. Apakah pemiliknya bisa dipidana?","Ya, pemilik anjing besar tersebut berpotensi dipidana.
+
+Berdasarkan Pasal 336 ayat (1) Kitab Undang-Undang Hukum Pidana (KUHP), seorang yang mengusik hewan sehingga membahayakan orang dapat dipidana dengan pidana penjara paling lama 6 (enam) bulan. Dalam kasus ini, anjing besar yang tidak terkendali dan menggigit tukang pos memenuhi unsur pengusikan hewan yang membahayakan orang. Meskipun pasal ini tidak secara spesifik menyebutkan anjing, prinsipnya berlaku karena anjing tersebut merupakan hewan yang diurus oleh pemiliknya dan menyebabkan kerugian/bahaya.
+
+Selain itu, pemilik anjing bertanggung jawab atas perilakunya dan konsekuensi yang ditimbulkannya.
+
+[Ref: Pasal 336 KUHP]
+"
+2026-03-29T21:53:26.312836,BGE-M3,gemma3:4b,Anak-anak ABG sering banget corat-coret tembok fasilitas umum atau pagar rumah orang pakai cat semprot/pilox. Tindakan iseng begini ada ancaman penjaranya nggak sih?,"Tindakan anak-anak ABG yang corat-coret tembok fasilitas umum atau pagar rumah orang dengan cat semprot/pilox dapat dikenakan ancaman pidana. Hal ini diatur dalam **Pasal 236** Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 236 ayat (1) menyatakan bahwa setiap orang yang mencoret, menulisi, menggambar atau menggambari, atau membuat rusak lambang negara dengan maksud menodai, menghina, atau merendahkan kehormatan lambang negara, dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori IV.
+
+Meskipun tindakan ini tidak secara spesifik menyebutkan mengenai corat-coret pada fasilitas umum, namun prinsipnya adalah tindakan yang merusak atau menodai lambang negara dapat dikenakan sanksi pidana.  Karena corat-coret pada fasilitas umum dapat dianggap sebagai tindakan yang merusak atau menodai, maka tindakan tersebut dapat dikenakan pasal ini.
+
+[Ref: Pasal 236 KUHP]
+"
+2026-03-29T21:53:52.321555,Multilingual E5 Small,gemma3:4b,Anak-anak ABG sering banget corat-coret tembok fasilitas umum atau pagar rumah orang pakai cat semprot/pilox. Tindakan iseng begini ada ancaman penjaranya nggak sih?,"Tindakan anak-anak ABG yang corat-coret tembok fasilitas umum atau pagar rumah menggunakan cat semprot/pilox memang memiliki potensi ancaman pidana. Meskipun tidak ada pasal yang secara spesifik menyebutkan tindakan ini, beberapa pasal dalam KUHP relevan dalam konteks ini.
+
+Pasal 310 mengatur tentang merusak bangunan yang mengakibatkan bahaya banjir. Jika corat-coret ini menyebabkan kerusakan pada bangunan yang berfungsi sebagai penahan air atau saluran air, maka dapat dikenakan pasal ini dengan ancaman pidana penjara paling lama 7 tahun.
+
+Selain itu, Pasal 523 mengatur tentang merusak bangunan gedung untuk sarana, prasarana, dan fasilitas pelayanan publik. Jika fasilitas umum yang dicoret-coret merupakan bagian dari sarana atau prasarana pelayanan publik, maka pasal ini juga dapat diterapkan dengan ancaman pidana penjara paling lama 6 tahun.
+
+Mengingat anak-anak ABG tidak dapat dihukum pidana (Pasal 3, ayat 3), tindakan yang dikenakan akan berupa tindakan rehabilitasi, penyerahan kepada seseorang, perawatan di lembaga, atau perbaikan akibat Tindak Pidana sesuai dengan Pasal 310 ayat (1) huruf a, b, c, d, dan e.  Namun, tindakan ini akan dilakukan dengan pengawasan dan rekomendasi dari pihak berwenang.
+
+[Ref: Pasal 310, Pasal 523, Pasal 310 ayat (1), Pasal 523 ayat (1)]
+"
+2026-03-29T21:54:09.787150,Multilingual E5 Small,gemma3:4b,"Seorang pemilik anjing besar membiarkan anjingnya berkeliaran di halaman depan tanpa kandang atau rantai, lalu anjing tersebut menggigit seorang tukang pos yang lewat. Apakah pemiliknya bisa dipidana?","Ya, pemilik anjing besar tersebut berpotensi dipidana.
+
+Berdasarkan Pasal 339 ayat (e) Kitab Undang-Undang Hukum Pidana (KUHP), seseorang yang membiarkan ternak (dalam hal ini anjing besar) yang berada di bawah penjagaannya terlepas berkeliaran di jalan umum tanpa mengadakan tindakan penjagaan seperlunya dapat dipidana.  Dalam kasus ini, pemilik anjing membiarkan anjingnya berkeliaran tanpa pengawasan, sehingga memenuhi unsur-unsur pasal tersebut.  Akibatnya, anjing tersebut menggigit tukang pos yang lewat merupakan konsekuensi langsung dari kelalaian pemilik dalam menjaga hewan peliharaannya.
+
+Pidana yang dikenakan adalah denda paling banyak kategori II.  [Ref: Pasal 339]
+
+Penting untuk dicatat bahwa ini adalah interpretasi berdasarkan pasal yang diberikan. Penentuan hukuman akan tetap dilakukan oleh hakim berdasarkan pertimbangan hukum yang lebih luas.
+"
+2026-03-29T21:54:25.307238,Multilingual All Mini LM,gemma3:4b,"Seorang pemilik anjing besar membiarkan anjingnya berkeliaran di halaman depan tanpa kandang atau rantai, lalu anjing tersebut menggigit seorang tukang pos yang lewat. Apakah pemiliknya bisa dipidana?","Ya, pemilik anjing besar tersebut berpotensi dipidana.
+
+Berdasarkan Pasal 339 Kitab Undang-Undang Hukum Pidana (KUHP), pemilik anjing bertanggung jawab jika membiarkan hewan (dalam hal ini anjing) berkeliaran tanpa tindakan penjagaan yang memadai di tempat umum, sehingga menimbulkan bahaya.  Dalam kasus ini, pemilik membiarkan anjing besar tanpa kandang atau rantai, dan anjing tersebut kemudian menggigit tukang pos. Hal ini memenuhi unsur-unsur pasal tersebut.
+
+Selain itu, Pasal 336 KUHP juga relevan, meskipun tidak secara langsung. Pasal ini mengatur tentang kewajiban menjaga hewan agar tidak membahayakan orang.
+
+Meskipun tidak ada pasal yang secara spesifik menyebutkan anjing menggigit tukang pos, kombinasi dari pasal 339 dan fakta kejadian menunjukkan adanya potensi pelanggaran hukum.
+
+[Ref: Pasal 339 KUHP]
+"
+2026-03-29T21:55:04.416630,Multilingual All Mini LM,gemma3:4b,Anak-anak ABG sering banget corat-coret tembok fasilitas umum atau pagar rumah orang pakai cat semprot/pilox. Tindakan iseng begini ada ancaman penjaranya nggak sih?,"Tindakan anak-anak ABG yang corat-coret tembok fasilitas umum atau pagar rumah orang dengan cat semprot/pilox, memang bisa dikenakan ancaman pidana. Mari kita lihat pasal-pasal yang relevan:
+
+Pasal 103 (1) mengatur tentang tindakan yang dapat dikenakan sebagai bagian dari hukuman setelah pelaku melakukan Tindak Pidana, termasuk perbaikan akibat Tindak Pidana. Meskipun pasal ini tidak secara spesifik menyebutkan tindakan anak-anak, namun tindakan perbaikan akibat tindak pidana bisa diterapkan.
+
+Pasal 358 (1) mengatur tentang penolakan memberikan pertolongan kepada pejabat yang berwenang. Jika tindakan corat-coret dilakukan dengan menolak pertolongan, ini bisa menjadi dasar hukum untuk menjerat pelaku dengan pidana denda.
+
+Pasal 483 (1) mengatur tentang pengancaman dengan ancaman pencemaran atau pencemaran tertulis. Jika tindakan corat-coret dilakukan dengan maksud menguntungkan diri sendiri atau orang lain, dan melibatkan unsur ancaman, maka pasal ini bisa diterapkan.
+
+Pasal 600 dan 601 mengatur tentang penggunaan kekerasan atau ancaman kekerasan yang menimbulkan teror atau kerusakan. Meskipun tindakan corat-coret mungkin tidak memenuhi definisi kekerasan secara langsung, namun jika dilakukan dengan maksud untuk menimbulkan teror atau kerusakan, pasal ini juga bisa relevan.
+
+Pasal 113 (1) secara spesifik mengatur tentang tindakan yang dapat dikenakan kepada anak-anak. Pasal ini menyebutkan kewajiban mengikuti pendidikan formal dan pelatihan yang diadakan oleh pemerintah atau badan swasta, serta perbaikan akibat Tindak Pidana.
+
+Mengingat usia anak-anak, kemungkinan pidana yang dijatuhkan akan lebih ringan, namun tetap ada ancaman pidana berdasarkan pasal-pasal di atas. Jenis pidana yang paling mungkin adalah pidana denda atau perbaikan akibat Tindak Pidana sesuai dengan Pasal 113 (1).
+
+[Ref: Pasal 103, 358, 483, 600, 601, 113]
+"
+2026-03-29T21:55:29.960379,Indo Sentence BERT,gemma3:4b,"Ada pembeli datang ke toko saya, bicaranya sudah melantur dan bau alkohol. Dia mau beli bir tambahan. Kalau saya tetap jual ke dia, apakah saya melanggar hukum?","Berdasarkan konteks yang diberikan, tindakan Anda menjual bir kepada pembeli yang melantur dan berbau alkohol dapat berpotensi melanggar hukum, meskipun tidak ada pasal yang secara spesifik mengatur situasi ini.  Pasal 503 ayat (1) menyebutkan tentang penjualan makanan, minuman, atau obat palsu yang menyembunyikan kepalsuannya.  Meskipun bir tidak secara otomatis dianggap palsu, menjual kepada seseorang yang perilakunya mencurigakan (melantur) dan kondisi fisiknya (bau alkohol) dapat diinterpretasikan sebagai indikasi bahwa barang tersebut mungkin tidak aman atau berbahaya untuk dikonsumsi.  Jika tindakan ini mengakibatkan kerugian atau bahkan kematian, ancaman pidananya akan semakin berat (seperti yang tercantum pada ayat (2) dan (3) Pasal 503).
+
+Dengan kata lain, meskipun tidak ada pasal yang secara langsung menyebutkan penjualan ke orang yang melantur, tindakan Anda dapat dianggap sebagai pelanggaran terhadap kewajiban Anda untuk memastikan keamanan dan kesehatan konsumen.
+
+**Referensi:** Pasal 503 ayat (1)
+
+Informasi tidak ditemukan dalam dokumen.
+"
+2026-03-29T21:56:51.816602,Indo Sentence BERT,gemma3:4b,"Katanya di hukum pidana yang baru, koruptor atau pembunuh berantai yang divonis hukuman mati nggak langsung dieksekusi tembak mati ya? Ada masa percobaannya dulu beneran?","Pertanyaan: Katanya di hukum pidana yang baru, koruptor atau pembunuh berantai yang divonis hukuman mati nggak langsung dieksekusi tembak mati ya? Ada masa percobaannya dulu beneran?
+
+Jawaban: Ya, benar. Menurut Pasal 100 ayat (1) KUHP, bagi terpidana yang dijatuhi hukuman mati, terdapat masa percobaan selama 10 tahun. Masa percobaan ini dihitung setelah putusan pengadilan memperoleh kekuatan hukum tetap. Selama masa percobaan tersebut, terpidana harus menunjukkan sikap dan perbuatan yang terpuji, atau jika tidak, Jaksa Agung dapat memerintahkan pelaksanaan hukuman mati. Jika terpidana menunjukkan sikap dan perbuatan yang terpuji, hukuman mati dapat diubah menjadi pidana penjara seumur hidup setelah melalui pertimbangan Mahkamah Agung. Jadi, ada mekanisme masa percobaan yang memungkinkan terpidana untuk memperbaiki diri sebelum hukuman mati dilaksanakan. Pasal 100 ayat (4) dan (5) mengatur hal ini. [Ref: Pasal 100]
+"
+2026-03-29T21:57:02.306002,Indo Sentence BERT,gemma3:4b,"Ada pembeli datang ke toko saya, bicaranya sudah melantur dan bau alkohol kemungkinan sudah mabuk. Dia mau beli bir tambahan. Kalau saya tetap jual ke dia, apakah saya melanggar hukum?","Berdasarkan konteks yang diberikan, menjual bir kepada pembeli yang terlihat mabuk dan melantur tidak serta-merta melanggar hukum secara langsung. Namun, ada beberapa pasal yang mungkin relevan dan perlu diperhatikan:
+
+Pasal 344 mengatur tentang penjualan makanan atau minuman yang busuk atau merugikan kesehatan. Jika Anda menjual bir kepada orang yang sudah mabuk dan berpotensi menyebabkan kerugian kesehatan, Anda bisa dianggap melanggar pasal ini. Penjualan bir kepada orang yang dalam kondisi mabuk dapat dianggap sebagai penjualan minuman yang tidak sehat dan berpotensi merugikan kesehatan konsumen.
+
+Selain itu, Pasal 493 juga relevan jika tindakan Anda dianggap menipu. Jika Anda menjual bir kepada orang yang sudah mabuk dengan maksud untuk membuatnya semakin mabuk atau menyebabkan kerugian, ini bisa dikategorikan sebagai penipuan.
+
+Perlu diingat bahwa pasal-pasal ini umumnya berkaitan dengan tindakan yang menyebabkan kerugian atau bahaya.  Keputusan apakah tindakan Anda melanggar hukum akan bergantung pada fakta dan bukti yang ada.
+
+**Referensi:**
+
+*   Pasal 344 KUHP
+
+**Disclaimer:** Jawaban ini hanya berdasarkan informasi yang diberikan dalam konteks yang diberikan dan bukan merupakan nasihat hukum yang mengikat. Untuk mendapatkan nasihat hukum yang spesifik, konsultasikan dengan ahli hukum.
+"
+2026-03-29T21:57:31.138251,BGE-M3,gemma3:4b,"Katanya di hukum pidana yang baru, koruptor atau pembunuh berantai yang divonis hukuman mati nggak langsung dieksekusi tembak mati ya? Ada masa percobaannya dulu beneran?","Pertanyaan: Katanya di hukum pidana yang baru, koruptor atau pembunuh berantai yang divonis hukuman mati nggak langsung dieksekusi tembak mati ya? Ada masa percobaannya dulu beneran?
+
+Jawaban: Ya, benar. Menurut Pasal 100 ayat (1) KUHP, bagi terpidana mati dengan masa percobaan 10 tahun, terdapat masa percobaan yang harus dijalani. Masa percobaan ini dimulai 1 hari setelah putusan pengadilan memperoleh kekuatan hukum tetap.  Namun, ada beberapa syarat yang harus dipenuhi agar hukuman mati dapat diubah menjadi pidana penjara seumur hidup melalui Keputusan Presiden setelah pertimbangan Mahkamah Agung. Syaratnya adalah terpidana menunjukkan sikap dan perbuatan yang terpuji, serta ada harapan untuk memperbaiki diri. Jika selama masa percobaan tersebut terpidana tidak menunjukkan hal tersebut, maka Jaksa Agung dapat memerintahkan pelaksanaan hukuman mati.  Selain itu, Pasal 99 ayat (1) menyatakan bahwa permohonan grasi bagi terpidana harus ditolak Presiden terlebih dahulu sebelum hukuman mati dapat dilaksanakan.  Jadi, ada mekanisme masa percobaan yang diatur untuk memberikan kesempatan bagi terpidana untuk menunjukkan perubahan dan potensi rehabilitasi sebelum hukuman mati dilaksanakan. [Ref: Pasal 100, Pasal 99]
+"
+2026-03-29T22:00:39.851157,BGE-M3,gemma3:4b,"Ada pembeli datang ke toko saya, bicaranya sudah melantur dan bau alkohol kemungkinan sudah mabuk. Dia mau beli bir tambahan. Kalau saya tetap jual ke dia, apakah saya melanggar hukum?","Berdasarkan konteks yang diberikan, jika Anda tetap menjual bir kepada pembeli yang sudah terlihat mabuk dan mencoba membeli tambahan, Anda berpotensi melanggar hukum. Hal ini berkaitan dengan Pasal 424 Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 424 (1) menyatakan bahwa “Setiap Orang yang menjual atau memberi minuman atau bahan yang memabukkan kepada orang yang sedang dalam keadaan mabuk, dipidana dengan pidana penjara paling lama 1 (satu) tahun atau pidana denda paling banyak kategori II.”
+
+Dalam kasus Anda, pembeli sedang dalam keadaan mabuk dan Anda tetap menjualnya minuman keras, maka Anda memenuhi unsur-unsur tindak pidana tersebut.  Selain itu, jika penjualan tersebut menyebabkan luka berat atau kematian, ancaman pidananya akan semakin berat. Pasal 424 (4) mengatur mengenai hal ini.
+
+**Referensi:**
+
+*   Pasal 424 KUHP"
+2026-03-29T22:01:39.139751,Indo Sentence BERT,gemma3:4b,Ardi secara rutin memukuli kuda miliknya dengan keras hingga kuda tersebut mengalami luka serius dan tidak bisa berjalan selama lebih dari satu minggu. Pasal apa yang berlaku?,"Berdasarkan konteks yang diberikan, Ardi dapat dikenakan pasal yang relevan adalah **Pasal 337 ayat (1) huruf a** dan **Pasal 337 ayat (2)**.
+
+**Penjelasan:**
+
+*   **Pasal 337 ayat (1) huruf a** mengatur tentang penganiayaan hewan, yang mana tindakan memukuli kuda dengan keras hingga mengalami luka serius memenuhi unsur tersebut. Luka serius yang tidak bisa berjalan selama lebih dari satu minggu memenuhi definisi “Luka Berat” sebagaimana diatur dalam Pasal 155 KUHP.
+*   **Pasal 337 ayat (2)** memperberat sanksi jika perbuatan tersebut mengakibatkan luka berat, cacat, atau kematian hewan. Karena kuda Ardi mengalami luka berat dan tidak bisa berjalan lebih dari satu minggu, maka pasal ini juga berlaku.
+
+**Referensi:** Pasal 337 (1) dan (2) KUHP."
+2026-03-29T22:02:05.716759,BGE-M3,gemma3:4b,Ardi secara rutin memukuli kuda miliknya dengan keras hingga kuda tersebut mengalami luka serius dan tidak bisa berjalan selama lebih dari satu minggu. Pasal apa yang berlaku?,"Ardi dapat dikenakan sanksi pidana berdasarkan beberapa pasal yang relevan. Yang paling tepat adalah:
+
+Pasal 337 (1) dan (2).
+
+Pasal 337 (1) mengatur tentang penganiayaan hewan yang dilakukan dengan menyakiti atau melukai hewan atau merugikan kesehatannya dengan melampaui batas atau tanpa tujuan yang patut.  Perbuatan Ardi, yaitu memukuli kuda secara rutin hingga mengalami luka serius dan tidak bisa berjalan selama lebih dari satu minggu, memenuhi unsur penganiayaan hewan tersebut.
+
+Pasal 337 (2) memperberat sanksi jika perbuatan tersebut mengakibatkan hewan sakit lebih dari 1 minggu, cacat, Luka Berat, atau mati.  Karena kuda Ardi mengalami luka Berat dan tidak bisa berjalan lebih dari satu minggu, maka sanksi yang berlaku adalah pidana penjara paling lama 1 tahun 6 bulan atau pidana denda paling banyak kategori III.
+
+[Ref: Pasal 337 (1) dan (2)]
+"
+2026-03-29T22:02:13.919530,Multilingual E5 Small,gemma3:4b,"Ada pembeli datang ke toko saya, bicaranya sudah melantur dan bau alkohol kemungkinan sudah mabuk. Dia mau beli bir tambahan. Kalau saya tetap jual ke dia, apakah saya melanggar hukum?","Berdasarkan konteks yang diberikan, jika Anda tetap menjual bir kepada pembeli yang sudah terlihat mabuk dan mencoba membeli tambahan, Anda berpotensi melanggar hukum. Hal ini berkaitan dengan Pasal 424 Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 424 (1) menyatakan bahwa setiap orang yang menjual atau memberi minuman atau bahan yang memabukkan kepada orang yang sedang dalam keadaan mabuk, dipidana dengan pidana penjara paling lama 1 tahun atau pidana denda paling banyak kategori II.  Karena pembeli tersebut dalam keadaan mabuk dan mencoba membeli bir tambahan, tindakan Anda memenuhi unsur-unsur pelanggaran tersebut.
+
+Penjualan minuman keras kepada orang yang sedang mabuk merupakan tindakan yang berpotensi membahayakan keselamatan diri sendiri dan orang lain.
+
+**Referensi:** Pasal 424 KUHP.
+"
+2026-03-29T22:02:23.102355,Multilingual E5 Small,gemma3:4b,Ardi secara rutin memukuli kuda miliknya dengan keras hingga kuda tersebut mengalami luka serius dan tidak bisa berjalan selama lebih dari satu minggu. Pasal apa yang berlaku?,"Ardi dapat dikenakan sanksi pidana berdasarkan **Pasal 337 ayat (1) huruf a** dan **Pasal 337 ayat (2)**.
+
+Pasal 337 ayat (1) huruf a mengatur tentang penganiayaan hewan, yang mana tindakan memukuli kuda dengan keras hingga mengalami luka serius dan tidak bisa berjalan selama lebih dari satu minggu memenuhi unsur-unsur tersebut.  Yaitu, menyakiti atau melukai hewan atau merugikan kesehatannya dengan melampaui batas atau tanpa tujuan yang patut.
+
+Pasal 337 ayat (2) memperberat sanksi jika perbuatan tersebut mengakibatkan luka berat (Luka Berat) yang dalam kasus Ardi, kuda tersebut mengalami luka serius. Sanksi yang berlaku adalah pidana penjara paling lama 1 tahun 6 bulan atau pidana denda paling banyak kategori III.
+
+[Ref: Pasal 337]
+"
+2026-03-29T22:03:07.024839,Multilingual All Mini LM,gemma3:4b,Ardi secara rutin memukuli kuda miliknya dengan keras hingga kuda tersebut mengalami luka serius dan tidak bisa berjalan selama lebih dari satu minggu. Pasal apa yang berlaku?,"Berdasarkan konteks yang diberikan, Ardi dapat dikenakan pasal yang relevan adalah **Pasal 337 (1)**.
+
+Pasal 337 (1) menyatakan bahwa setiap orang yang menyakiti atau melukai hewan atau merugikan kesehatannya dengan melampaui batas atau tanpa tujuan yang patut, atau melakukan hubungan seksual dengan hewan, dipidana.  Kasus Ardi memenuhi unsur-unsur tersebut karena ia secara rutin memukuli kuda miliknya hingga mengalami luka serius dan tidak bisa berjalan selama lebih dari satu minggu.  Selain itu, pasal 337(2) juga relevan karena luka berat yang diderita kuda tersebut (luka berat, sakit atau luka yang tidak ada harapan untuk sembuh dengan sempurna atau yang dapat menimbulkan bahaya maut) akan meningkatkan ancaman pidananya menjadi penjara paling lama 1 tahun 6 bulan.
+
+[Ref: Pasal 337 (1) dan (2)]
+"
+2026-03-29T22:03:16.070751,Multilingual All Mini LM,gemma3:4b,"Ada pembeli datang ke toko saya, bicaranya sudah melantur dan bau alkohol kemungkinan sudah mabuk. Dia mau beli bir tambahan. Kalau saya tetap jual ke dia, apakah saya melanggar hukum?","Berdasarkan konteks yang diberikan, menjual bir kepada orang yang diduga sedang mabuk dan mencoba membeli tambahan dapat dianggap sebagai pelanggaran hukum. Hal ini terkait dengan Pasal 424 ayat (2) yang mengatur tentang penjualan minuman atau bahan yang memabukkan kepada anak. Meskipun pasal ini secara spesifik menyebutkan ""Anak"", prinsip dasarnya berlaku untuk orang yang dalam keadaan mabuk karena dapat dianggap dalam kondisi yang rentan dan membutuhkan pertolongan.
+
+Selain itu, tindakan Anda dapat diinterpretasikan sebagai tindakan yang berpotensi menyebabkan kerugian, mengingat orang tersebut dalam keadaan mabuk dan membeli tambahan. Hal ini sejalan dengan prinsip umum dalam hukum pidana yang menganggap tindakan yang membahayakan keselamatan atau kesehatan orang lain sebagai tindak pidana.
+
+Meskipun tidak ada pasal yang secara spesifik mengatur tentang penjualan minuman kepada orang yang diduga mabuk, tindakan Anda dapat dianggap sebagai tindakan yang melanggar kewaspadaan dan tanggung jawab terhadap keselamatan orang lain.
+
+**Referensi:** Pasal 424 ayat (2)
+
+"
+2026-03-29T22:05:17.542152,Indo Sentence BERT,gemma3:4b,Saya melihat ada warung di depan sekolah yang menjual miras ke murid SMP. Berapa lama hukuman maksimal untuk pemilik warung itu karena menjual ke anak-anak?,"Berdasarkan konteks yang diberikan, menjual miras kepada anak-anak SMP dapat dikenakan hukuman maksimal. Pasal yang relevan dalam kasus ini adalah **Pasal 424 (1) dan (2)**.
+
+Pasal 424 (1) menyatakan bahwa setiap orang yang menjual atau memberi minuman atau bahan yang memabukkan kepada Anak dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori II.
+
+Pasal 424 (2) menambahkan bahwa jika perbuatan tersebut mengakibatkan luka berat, pelaku akan dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak kategori II.
+
+Karena pelaku dalam kasus ini adalah anak-anak SMP, maka hukuman yang akan dikenakan adalah pidana penjara paling lama 2 (dua) tahun atau denda paling banyak kategori II.
+
+[Ref: Pasal 424 (1) dan (2)]
+"
+2026-03-29T22:06:23.005910,Multilingual E5 Small,gemma3:4b,"Katanya di hukum pidana yang baru, koruptor atau pembunuh berantai yang divonis hukuman mati nggak langsung dieksekusi tembak mati ya? Ada masa percobaannya dulu beneran?","Pertanyaan Anda mengenai koruptor atau pembunuh berantai yang divonis hukuman mati apakah langsung dieksekusi tembak mati atau ada masa percobaan, sangat tepat.
+
+Berdasarkan konteks pasal yang diberikan, jawaban untuk pertanyaan Anda adalah:
+
+Ya, pada awalnya ada masa percobaan. Pasal 100 ayat (1) KUHP mengatur bahwa terpidana yang dijatuhi hukuman mati dapat diubah menjadi pidana penjara seumur hidup dengan Keputusan Presiden setelah masa percobaan 10 tahun. Masa percobaan ini dimulai 1 hari setelah putusan pengadilan memperoleh kekuatan hukum tetap.
+
+Namun, ada ketentuan yang bisa mengubahnya. Jika selama masa percobaan terpidana menunjukkan sikap dan perbuatan yang terpuji, hukuman mati bisa diubah. Sebaliknya, jika terpidana tidak menunjukkan perubahan positif dan tidak ada harapan untuk diperbaiki, Jaksa Agung dapat memerintahkan pelaksanaan hukuman mati.
+
+Selain itu, Pasal 99 ayat (1) menyatakan bahwa pidana mati hanya dapat dilaksanakan setelah permohonan grasi bagi terpidana ditolak oleh Presiden.
+
+Perubahan sistem ini terjadi karena adanya perubahan peraturan perundang-undangan, sebagaimana diatur dalam Pasal 3. Jika perbuatan yang dilakukan tidak lagi dianggap sebagai tindak pidana menurut peraturan yang baru, proses hukum bisa dihentikan.
+
+[Ref: Pasal 100, Pasal 99, Pasal 3]
+"
+2026-03-29T22:07:17.265102,BGE-M3,gemma3:4b,Saya melihat ada warung di depan sekolah yang menjual miras ke murid SMP. Berapa lama hukuman maksimal untuk pemilik warung itu karena menjual ke anak-anak?,"Berdasarkan pasal yang Anda berikan, pemilik warung yang menjual miras kepada anak SMP akan dikenakan hukuman maksimal.
+
+Pasal 424 (1) menyatakan bahwa setiap orang yang menjual atau memberi minuman atau bahan yang memabukkan kepada anak, dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori II.
+
+Karena dalam kasus ini, anak yang dibeli mirasnya adalah anak SMP, maka pemilik warung tersebut akan dikenakan hukuman penjara paling lama 2 (dua) tahun atau denda paling banyak kategori II.
+
+[Ref: Pasal 424 (1)]
+"
+2026-03-29T22:07:40.042576,Multilingual All Mini LM,gemma3:4b,"Katanya di hukum pidana yang baru, koruptor atau pembunuh berantai yang divonis hukuman mati nggak langsung dieksekusi tembak mati ya? Ada masa percobaannya dulu beneran?","Pertanyaan: Katanya di hukum pidana yang baru, koruptor atau pembunuh berantai yang divonis hukuman mati nggak langsung dieksekusi tembak mati ya? Ada masa percobaannya dulu beneran?
+
+Jawaban: Ya, benar. Berdasarkan hukum pidana yang baru, untuk kasus pembunuhan berencana seperti yang diatur dalam Pasal 459, terpidana dapat menjalani masa percobaan sebelum eksekusi hukuman mati dilaksanakan. Pasal 100 ayat (1) mengatur bahwa terpidana pembunuhan berencana dapat dijatuhkan pidana mati dengan masa percobaan selama 10 tahun. Masa percobaan ini diberikan jika terpidana menunjukkan rasa penyesalan dan ada harapan untuk memperbaiki diri, atau jika peran terpidana dalam tindak pidana tersebut relevan. Jika selama masa percobaan terpidana tidak menunjukkan sikap dan perbuatan yang terpuji, maka Jaksa Agung dapat memerintahkan pelaksanaan hukuman mati. Jadi, ada mekanisme masa percobaan sebelum eksekusi hukuman mati dilaksanakan. [Ref: Pasal 459, Pasal 100 ayat (1)]
+"
+2026-03-29T22:07:46.844578,Indo Sentence BERT,gemma3:4b,peternakan milik pak toni didesa sebrang memaksa sapi-sapinya untuk bekerja menarik beban jauh melebihi kemampuan fisiknya setiap hari hingga beberapa sapi mati kelelahan. Apakah pemilik peternakan bisa dipidana?,"Ya, Pak Toni berpotensi dipidana.
+
+Pasal 520 (1) mengatur tentang penarikan barang yang merugikan pihak yang berhak atas barang tersebut. Dalam kasus ini, Pak Toni memaksa sapi-sapinya untuk menarik beban melebihi kemampuan mereka, yang mengakibatkan sapi mati kelelahan. Hal ini memenuhi unsur penarikan barang dari hewan yang memiliki hak atasnya (dalam hal ini, sapi-sapi tersebut).  Karena tindakan Pak Toni merugikan sapi-sapinya, maka ia dapat dipidana sesuai dengan Pasal 520 (1).
+
+[Ref: Pasal 520 (1)]
+"
+2026-03-29T22:08:38.182335,Multilingual E5 Small,gemma3:4b,Saya melihat ada warung di depan sekolah yang menjual miras ke murid SMP. Berapa lama hukuman maksimal untuk pemilik warung itu karena menjual ke anak-anak?,"Berdasarkan konteks yang diberikan, pemilik warung yang menjual miras ke murid SMP dapat dikenakan hukuman maksimal. Hal ini tercantum dalam Pasal 422 ayat (2) yang menyatakan: “Setiap Orang yang menjual atau memberi minuman atau bahan yang memabukkan kepada Anak, dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori II.” Karena target penjualannya adalah anak-anak SMP, maka hukuman yang berlaku adalah 2 tahun penjara atau denda kategori II.
+
+[Ref: Pasal 422 ayat (2)]
+"
+2026-03-29T22:10:16.364938,Multilingual All Mini LM,gemma3:4b,Saya melihat ada warung di depan sekolah yang menjual miras ke murid SMP. Berapa lama hukuman maksimal untuk pemilik warung itu karena menjual ke anak-anak?,"Berdasarkan pasal yang Anda berikan, pemilik warung yang menjual miras ke murid SMP dapat dikenakan hukuman maksimal. Mari kita lihat pasal yang relevan:
+
+Pasal 422 ayat (2) menyatakan: “Jika Tindak Pidana sebagaimana dimaksud pada ayat (1) dilakukan terhadap Anak, dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori II.”
+
+Karena target penjualan miras adalah murid SMP (di bawah 18 tahun), maka pemilik warung tersebut dapat dipidana dengan pidana penjara paling lama 2 (dua) tahun.
+
+[Ref: Pasal 422 ayat (2)]
+"
+2026-03-29T22:11:57.912424,Multilingual All Mini LM,gemma3:4b,Seorang pendemo sengaja memecahkan kaca halte busway saat sedang aksi. Berapa lama ancaman penjara untuk perusakan fasilitas publik seperti ini?,"Berdasarkan konteks yang diberikan, perusakan halte busway oleh seorang pendemo yang sengaja memecahkan kaca dapat dikenakan pidana sesuai dengan Pasal 293 ayat (1) KUHP. Pasal tersebut menyatakan bahwa setiap orang yang merusak gedung pengadilan, ruang sidang pengadilan, atau alat perlengkapan sidang pengadilan yang mengakibatkan hakim tidak dapat menyelenggarakan sidang pengadilan, dipidana dengan pidana penjara paling lama 4 (empat) tahun.
+
+Karena halte busway merupakan fasilitas publik, perusakan tersebut memenuhi unsur-unsur tindak pidana yang diatur dalam pasal tersebut.
+
+**Referensi:** Pasal 293 ayat (1) KUHP.
+"
+2026-03-29T22:13:11.583836,Indo Sentence BERT,gemma3:4b,Seorang pendemo sengaja memecahkan kaca halte busway saat sedang aksi. Berapa lama ancaman penjara untuk perusakan fasilitas publik seperti ini?,"Berdasarkan konteks yang diberikan, seorang pendemo yang sengaja memecahkan kaca halte busway saat sedang aksi dapat dipidana berdasarkan Pasal 293 ayat (1) Kitab Undang-Undang Hukum Pidana (KUHP). Pasal tersebut menyatakan bahwa setiap orang yang merusak gedung pengadilan, ruang sidang pengadilan, atau alat perlengkapan sidang pengadilan yang mengakibatkan hakim tidak dapat menyelenggarakan sidang pengadilan, dipidana dengan pidana penjara paling lama 4 (empat) tahun.
+
+Karena halte busway merupakan fasilitas publik, perusakan tersebut memenuhi unsur-unsur tindak pidana yang diatur dalam pasal tersebut.
+
+[Ref: Pasal 293 ayat (1) KUHP]
+"
+2026-03-29T22:13:39.810632,BGE-M3,gemma3:4b,peternakan milik pak toni didesa sebrang memaksa sapi-sapinya untuk bekerja menarik beban jauh melebihi kemampuan fisiknya setiap hari hingga beberapa sapi mati kelelahan. Apakah pemilik peternakan bisa dipidana?,"Ya, pemilik peternakan Pak Toni berpotensi dipidana.
+
+Berdasarkan Pasal 520 (1) Kitab Undang-Undang Hukum Pidana (KUHP), Pak Toni dapat dipidana karena telah menarik sebagian atau seluruh Barang (sapi-sapinya) untuk keperluan pemiliknya, dari orang lain yang mempunyai hak atas sapi tersebut (dalam hal ini, sapi-sapi itu sendiri) dengan merugikan sapi-sapi tersebut. Tindakan memaksa sapi untuk bekerja melebihi kemampuan fisiknya hingga menyebabkan sapi mati kelelahan memenuhi unsur-unsur tindak pidana menarik barang dengan merugikan.
+
+Pasal yang relevan adalah: **Pasal 520 (1) KUHP**
+
+Penjelasan: Pasal ini mengatur tentang penarikan barang yang merugikan pemiliknya atau pihak yang berhak atas barang tersebut. Dalam kasus ini, Pak Toni secara langsung menyebabkan kerugian (kematian sapi) akibat tindakan memaksa yang tidak sesuai dengan kemampuan sapi.
+"
+2026-03-29T22:13:49.256457,BGE-M3,gemma3:4b,Seorang pendemo sengaja memecahkan kaca halte busway saat sedang aksi. Berapa lama ancaman penjara untuk perusakan fasilitas publik seperti ini?,"Berdasarkan konteks yang diberikan, seorang pendemo yang sengaja memecahkan kaca halte busway saat sedang aksi dapat dikenakan ancaman pidana. Hal ini diatur dalam **Pasal 522** yang menyatakan: “Setiap Orang yang secara melawan hukum merusak bangunan gedung untuk sarana, prasarana, dan/atau fasilitas pelayanan publik, dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori IV.”
+
+Karena halte busway merupakan fasilitas pelayanan publik, tindakan memecahkan kaca halte tersebut memenuhi unsur-unsur perbuatan yang diatur dalam pasal tersebut.
+
+[Ref: Pasal 522]
+"
+2026-03-29T22:14:18.845368,Multilingual E5 Small,gemma3:4b,peternakan milik pak toni didesa sebrang memaksa sapi-sapinya untuk bekerja menarik beban jauh melebihi kemampuan fisiknya setiap hari hingga beberapa sapi mati kelelahan. Apakah pemilik peternakan bisa dipidana?,"Ya, pemilik peternakan Pak Toni berpotensi dipidana. Hal ini berdasarkan pada Pasal 520 (1) Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 520 (1) KUHP mengatur tentang penarikan barang milik orang lain untuk keperluan pemiliknya, yang merugikan pihak lain yang memiliki hak atas barang tersebut. Dalam kasus ini, Pak Toni menarik sapi-sapinya untuk bekerja menarik beban jauh melebihi kemampuan fisiknya, sehingga menyebabkan sapi-sapi tersebut kelelahan dan beberapa bahkan mati. Tindakan ini jelas merugikan hak orang lain (pemilik sapi) yang memiliki hak gadai, hak menahan, atau hak pakai atas sapi-sapi tersebut.
+
+Sesuai dengan Pasal 520 (1) huruf a, tindakan Pak Toni memenuhi unsur-unsur tindak pidana yang diatur dalam pasal tersebut.
+
+Referensi: Pasal 520 (1) KUHP."
+2026-03-29T22:14:53.040399,Multilingual E5 Small,gemma3:4b,Seorang pendemo sengaja memecahkan kaca halte busway saat sedang aksi. Berapa lama ancaman penjara untuk perusakan fasilitas publik seperti ini?,"Berdasarkan konteks yang diberikan, seorang pendemo yang sengaja memecahkan kaca halte busway saat sedang aksi dapat dikenakan ancaman pidana.
+
+Pasal 522 mengatur tentang perusakan bangunan gedung sarana, prasarana, dan/atau fasilitas pelayanan publik secara melawan hukum. Dalam kasus ini, halte busway merupakan fasilitas pelayanan publik.  Pasal 522 menyatakan bahwa perbuatan tersebut dapat dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau pidana denda paling banyak kategori IV.  Selain itu, Pasal 523 juga relevan karena mengatur perusakan bangunan gedung sarana, prasarana, dan/atau fasilitas pelayanan publik, dengan ancaman pidana penjara paling lama 6 (enam) tahun atau pidana denda paling banyak kategori V.
+
+Karena halte busway adalah fasilitas pelayanan publik, maka pasal yang paling relevan untuk kasus ini adalah **Pasal 522** dan **Pasal 523**.
+
+[Ref: Pasal 522, Pasal 523]
+"
+2026-03-29T22:16:09.162701,Multilingual All Mini LM,gemma3:4b,peternakan milik pak toni didesa sebrang memaksa sapi-sapinya untuk bekerja menarik beban jauh melebihi kemampuan fisiknya setiap hari hingga beberapa sapi mati kelelahan. Apakah pemilik peternakan bisa dipidana?,"Ya, Pak Toni berpotensi dipidana. Perbuatan memaksa sapi-sapinya untuk bekerja melebihi kemampuan fisiknya hingga menyebabkan sapi mati kelelahan merupakan tindakan yang dapat dikategorikan sebagai tindak pidana. Hal ini terkait dengan **Pasal 520 (1) huruf a** Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 520 (1) huruf a KUHP mengatur tentang menarik sebagian atau seluruh Barang miliknya atau Barang milik orang lain untuk keperluan pemiliknya, dari orang lain yang mempunyai hak gadai, hak menahan, hak pungut hasil, atau hak pakai atas Barang tersebut. Dalam kasus ini, Pak Toni secara terang-terangan memaksa sapi-sapinya (yang merupakan aset miliknya) untuk bekerja secara berlebihan, sehingga merugikan sapi-sapi tersebut. Kerugian ini dapat dianggap sebagai tindakan yang merugikan pihak lain (pemilik sapi) dan memenuhi unsur-unsur tindak pidana sesuai dengan pasal tersebut.
+
+Selain itu, perbuatan Pak Toni juga dapat dikategorikan sebagai tindakan yang melanggar hak hewan, meskipun tidak secara eksplisit diatur dalam KUHP. Namun, prinsip keadilan dan perlindungan terhadap hewan hidup dapat menjadi dasar pertimbangan hukum dalam penegakan hukum.
+
+**Referensi:** Pasal 520 (1) huruf a KUHP.
+"
+2026-03-29T22:16:34.610206,Indo Sentence BERT,gemma3:4b,Boleh nggak sih kita bikin meme lucu-lucuan yang isinya menghina atau ngatain institusi DPR atau Kepolisian di internet?,"Berdasarkan konteks yang diberikan, pembuatan meme lucu-lucuan yang isinya menghina atau mengatatai institusi DPR atau Kepolisian di internet bisa berpotensi menimbulkan masalah hukum. Mari kita telaah pasal-pasal yang relevan:
+
+Pasal 241 (1) mengatur tentang penyebaran penghinaan terhadap pemerintah atau lembaga negara. Jika meme yang dibuat disiarkan, ditunjukkan, atau ditempelkan sehingga terlihat oleh umum, dan berisi penghinaan terhadap DPR atau Kepolisian dengan maksud agar isi penghinaan diketahui umum, maka tindakan tersebut dapat dipidana dengan pidana penjara paling lama 3 tahun atau denda paling banyak kategori IV.  Pasal ini menekankan bahwa *maksud* dari penyebaran tersebut adalah kunci.
+
+Pasal 239 juga relevan, meskipun lebih fokus pada penghinaan terhadap lagu kebangsaan. Namun, prinsipnya sama, yaitu tindakan yang bersifat menghina atau merendahkan kehormatan terhadap institusi (dalam hal ini, DPR atau Kepolisian) dapat dikenakan sanksi.
+
+Pasal 300 juga perlu diperhatikan, meskipun pasal ini lebih umum tentang hasutan yang bersifat permusuhan atau diskriminatif. Jika meme tersebut mengandung unsur hasutan yang dapat memicu kekerasan atau diskriminasi terhadap lembaga-lembaga tersebut, maka dapat dikenakan sanksi pidana penjara paling lama 3 tahun atau denda paling banyak kategori IV.
+
+Penting untuk diingat bahwa aduan harus dilakukan oleh pimpinan pemerintah atau lembaga negara (Pasal 241(3)).
+
+Dengan demikian, pembuatan dan penyebaran meme yang menghina atau mengatatai DPR atau Kepolisian di internet berpotensi melanggar hukum dan dapat dikenakan sanksi pidana.
+
+[Ref: Pasal 241(1), Pasal 239, Pasal 300]
+"
+2026-03-29T22:17:16.358350,BGE-M3,gemma3:4b,Boleh nggak sih kita bikin meme lucu-lucuan yang isinya menghina atau ngatain institusi DPR atau Kepolisian di internet?,"Berdasarkan konteks yang diberikan, pembuatan meme lucu-lucuan yang isinya menghina atau mengatatai institusi DPR atau Kepolisian di internet bisa berpotensi menimbulkan masalah hukum. Mari kita telaah pasal-pasal yang relevan:
+
+Pasal 240 ayat (1) mengatur tentang penghinaan terhadap pemerintah atau lembaga negara secara lisan atau tulisan. Jika tindakan ini dilakukan di muka umum dan berakibat terjadinya kerusuhan, ancamannya adalah pidana penjara paling lama 3 tahun atau denda paling banyak kategori IV. [Ref: Pasal 240]
+
+Pasal 241 ayat (1) juga relevan, meskipun fokusnya pada penghinaan terhadap pemerintah atau lembaga negara melalui penyebaran informasi (misalnya rekaman atau siaran).  Namun, jika tindakan ini menyebabkan kerusuhan, ancamannya menjadi pidana penjara paling lama 4 tahun atau denda paling banyak kategori IV. [Ref: Pasal 241]
+
+Pasal 391 berkaitan dengan pemalsuan surat, namun tidak secara langsung membahas meme.  Namun, jika meme tersebut dibuat dengan memalsukan data atau informasi resmi, maka pasal ini bisa diterapkan.
+
+Penting untuk dicatat, Pasal 239 mengatur tentang penghinaan terhadap lagu kebangsaan, yang tidak relevan dengan pertanyaan ini.
+
+Selain itu, Pasal 239 ayat (3) menyatakan bahwa tindak pidana ini hanya dapat dituntut berdasarkan aduan pihak yang dihina. Artinya, DPR atau Kepolisian harus mengajukan laporan jika mereka merasa telah dihina melalui meme tersebut.
+
+**Kesimpulan:**
+
+Membuat meme yang menghina atau mengatatai institusi DPR atau Kepolisian di internet berpotensi melanggar Pasal 240 ayat (1) KUHP.  Tindakan ini dapat dikenakan pidana penjara hingga 3 tahun atau denda paling banyak kategori IV, terutama jika dilakukan di muka umum dan berpotensi memicu kerusuhan.
+
+[Ref: Pasal 240]
+"
+2026-03-29T22:22:03.580395,Multilingual E5 Small,gemma3:4b,"Seseorang mengaku sebagai manajer bank terkenal dan menjanjikan bunga 50% per bulan. Saya percaya dan memberikan uang 100 juta, ternyata dia pengangguran dan uang saya dibawa lari. Masuk pasal mana perbuatannya?","Perbuatan orang tersebut memenuhi unsur-unsur dalam **Pasal 492** Kitab Undang-Undang Hukum Pidana (KUHP).
+
+**Penjelasan:**
+
+Pasal 492 mengatur tentang penipuan. Dalam kasus ini, orang tersebut menggunakan nama palsu (men mengaku sebagai manajer bank terkenal) dan tipu muslihat (menawarkan bunga 50% per bulan yang tidak masuk akal) untuk menggerakkan Anda agar menyerahkan uang 100 juta. Tindakan ini memenuhi unsur-unsur penipuan, yaitu:
+
+*   **Maksud menguntungkan diri sendiri atau orang lain secara melawan hukum:** Orang tersebut ingin mendapatkan uang Anda.
+*   **Memakai nama palsu atau kedudukan palsu:** Ia mengaku sebagai manajer bank.
+*   **Menggunakan tipu muslihat atau rangkaian kata bohong:** Menawarkan bunga 50% per bulan adalah janji yang tidak realistis dan bertujuan untuk menipu.
+*   **Menggerakkan orang supaya menyerahkan suatu Barang, memberi utang, membuat pengakuan utang, atau menghapus piutang:** Anda menyerahkan uang 100 juta berdasarkan janji tersebut.
+
+Sanksi yang berlaku untuk pelanggaran pasal ini adalah pidana penjara paling lama 4 (empat) tahun.
+
+**Referensi:** Pasal 492 KUHP.
+"
+2026-03-29T22:24:23.905197,Indo Sentence BERT,gemma3:4b,"Seseorang mengaku sebagai manajer bank terkenal dan menjanjikan bunga 50% per bulan. Saya percaya dan memberikan uang 100 juta, ternyata dia pengangguran dan uang saya dibawa lari. Masuk pasal mana perbuatannya?","Perbuatan orang yang mengaku sebagai manajer bank terkenal dan menjanjikan bunga 50% per bulan, kemudian setelah Anda percaya dan memberikan uang 100 juta, ternyata dia pengangguran dan uang tersebut dibawa lari, merupakan tindakan penipuan. Hal ini berkaitan dengan **Pasal 492** Kitab Undang-Undang Hukum Pidana.
+
+Pasal 492 mengatur tentang pidana bagi seseorang yang dengan maksud menguntungkan diri sendiri atau orang lain secara melawan hukum dengan memakai nama palsu atau kedudukan palsu, menggunakan tipu muslihat atau rangkaian kata bohong, menggerakkan orang supaya menyerahkan suatu Barang, memberi utang, membuat pengakuan utang, atau menghapus piutang.  Dalam kasus ini, penggunaan nama palsu (sebagai manajer bank terkenal) dan janji bunga yang tidak masuk akal merupakan bentuk tipu muslihat untuk menipu Anda agar memberikan uang.
+
+[Ref: Pasal 492]
+"
+2026-03-29T22:26:13.927787,BGE-M3,gemma3:4b,"Seseorang mengaku sebagai manajer bank terkenal dan menjanjikan bunga 50% per bulan. Saya percaya dan memberikan uang 100 juta, ternyata dia pengangguran dan uang saya dibawa lari. Masuk pasal mana perbuatannya?","Perbuatan orang yang mengaku sebagai manajer bank terkenal dan menjanjikan bunga 50% per bulan, kemudian mengambil uang 100 juta setelah Anda percaya, merupakan tindakan penipuan. Hal ini berkaitan dengan **Pasal 492** Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 492 mengatur bahwa setiap orang yang dengan maksud menguntungkan diri sendiri atau orang lain secara melawan hukum dengan memakai nama palsu atau kedudukan palsu, menggunakan tipu muslihat atau rangkaian kata bohong, menggerakkan orang supaya menyerahkan suatu Barang, memberi utang, membuat pengakuan utang, atau menghapus piutang, dipidana karena penipuan, dengan pidana penjara paling lama 4 (empat) tahun atau pidana denda paling banyak kategori V.
+
+Dalam kasus ini, penggunaan nama palsu (mengaku sebagai manajer bank) dan janji bunga yang tidak masuk akal merupakan tipu muslihat yang digunakan untuk menipu Anda agar memberikan uang.
+
+**Referensi:** Pasal 492 KUHP
+"
+2026-03-29T22:27:11.090496,Multilingual All Mini LM,gemma3:4b,"Seseorang mengaku sebagai manajer bank terkenal dan menjanjikan bunga 50% per bulan. Saya percaya dan memberikan uang 100 juta, ternyata dia pengangguran dan uang saya dibawa lari. Masuk pasal mana perbuatannya?","Perbuatan orang yang mengaku sebagai manajer bank terkenal dan menjanjikan bunga 50% per bulan, kemudian mengambil uang 100 juta setelah Anda percaya dan memberikan uang tersebut, dapat dikategorikan sebagai penipuan. Meskipun tidak ada pasal yang secara spesifik menyebutkan skenario ini, beberapa pasal relevan dapat diterapkan.
+
+Pasal 494 merupakan pasal yang paling relevan. Pasal ini mengatur tentang penipuan ringan, di mana seseorang memberikan barang atau jasa dengan maksud menipu. Dalam kasus ini, “barang” yang diberikan adalah uang, dan “penipuan” terjadi karena janji bunga yang tidak ditepati dan pengambilalihan uang tanpa itikad baik.  Selain itu, tindakan ini juga dapat dikategorikan sebagai penggelapan, karena uang tersebut seharusnya dikelola oleh orang yang mengaku sebagai manajer bank, namun malah disalahgunakan. Pasal 607 ayat (1) dan (c) dapat diterapkan karena orang tersebut memanfaatkan kepercayaan Anda untuk menguasai uang yang seharusnya menjadi kekayaan perusahaan (dalam hal ini, kekayaan Anda).
+
+[Ref: Pasal 494, Pasal 607 ayat (1) dan (c)]
+"
+2026-03-29T22:32:48.300475,Indo Sentence BERT,gemma3:4b,"Saya pesan sepatu ukuran 42 warna hitam, tapi penjual sengaja kirim sandal jepit bekas warna hijau dan tidak mau tanggung jawab. Apakah penjual ini bisa dipidana?","Ya, penjual tersebut berpotensi dipidana berdasarkan **Pasal 493** Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 493 mengatur tentang penjual yang menipu pembeli. Dalam kasus Anda, penjual mengirimkan sandal jepit bekas warna hijau padahal Anda memesan sepatu ukuran 42 warna hitam. Ini jelas merupakan tindakan penipuan karena penjual menyerahkan barang lain yang tidak sesuai dengan pesanan Anda.  Tindakan ini memenuhi unsur-unsur yang diatur dalam pasal tersebut.
+
+Ancamannya adalah pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori IV.
+
+[Ref: Pasal 493]
+"
+2026-03-29T22:34:23.681156,BGE-M3,gemma3:4b,"Saya pesan sepatu ukuran 42 warna hitam, tapi penjual sengaja kirim sandal jepit bekas warna hijau dan tidak mau tanggung jawab. Apakah penjual ini bisa dipidana?","Ya, penjual tersebut berpotensi dipidana berdasarkan **Pasal 493** Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 493 mengatur tentang penjual yang menipu pembeli. Dalam kasus Anda, penjual mengirimkan sandal jepit bekas warna hijau padahal pembeli memesan sepatu ukuran 42 warna hitam. Ini merupakan tindakan yang memenuhi unsur penipuan, yaitu menyerahkan barang lain selain yang telah ditentukan oleh pembeli.  Dengan kata lain, penjual sengaja memberikan barang yang tidak sesuai dengan pesanan pembeli.  Sesuai dengan pasal tersebut, penjual akan dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori IV.
+
+[Ref: Pasal 493 KUHP]
+"
+2026-03-29T22:36:02.931375,Multilingual E5 Small,gemma3:4b,"Saya pesan sepatu ukuran 42 warna hitam, tapi penjual sengaja kirim sandal jepit bekas warna hijau dan tidak mau tanggung jawab. Apakah penjual ini bisa dipidana?","Ya, penjual tersebut berpotensi dipidana berdasarkan Pasal 493 Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 493 KUHP mengatur tentang penjual yang menipu pembeli. Dalam kasus Anda, penjual mengirimkan sandal jepit bekas warna hijau padahal Anda memesan sepatu ukuran 42 warna hitam. Ini merupakan tindakan penipuan karena penjual menyerahkan barang lain yang tidak sesuai dengan pesanan Anda mengenai keadaan (ukuran dan warna).  Penjual dapat dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori IV.
+
+[Ref: Pasal 493 Dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori IV, penjual yang menipu pembeli: a. dengan menyerahkan Barang lain selain yang telah ditentukan oleh pembeli; atau b. tentang keadaan, sifat, atau banyaknya Barang yang diserahkan.]
+"
+2026-03-29T22:38:15.816885,Multilingual All Mini LM,gemma3:4b,"Saya pesan sepatu ukuran 42 warna hitam, tapi penjual sengaja kirim sandal jepit bekas warna hijau dan tidak mau tanggung jawab. Apakah penjual ini bisa dipidana?","Ya, penjual tersebut berpotensi dipidana berdasarkan Pasal 493 Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Pasal 493 KUHP mengatur tentang penjual yang menipu pembeli. Dalam kasus ini, pembeli memesan sepatu ukuran 42 warna hitam, namun penjual mengirimkan sandal jepit bekas warna hijau. Ini merupakan tindakan yang memenuhi unsur penipuan, yaitu menyerahkan barang lain selain yang telah ditentukan oleh pembeli.  Penjual seharusnya menyampaikan barang yang sesuai dengan pesanan pembeli.
+
+Sanksi yang dikenakan adalah pidana penjara paling lama 2 (dua) tahun atau pidana denda paling banyak kategori IV.
+
+[Ref: Pasal 493 KUHP]
+"
+2026-03-29T22:43:36.119470,Indo Sentence BERT,gemma3:4b,Ada orang masuk ke pekarangan rumah saya jam 2 malam dan mencuri sepeda motor. Apakah hukumannya sama dengan pencurian biasa?,"Pertanyaan: Ada orang masuk ke pekarangan rumah saya jam 2 malam dan mencuri sepeda motor. Apakah hukumannya sama dengan pencurian biasa?
+
+Jawaban: Untuk menentukan hukumannya, kita perlu melihat beberapa pasal yang relevan. Pasal 478 mengatur tentang pencurian ringan. Pasal ini menyatakan bahwa jika pencurian dilakukan tidak dalam sebuah rumah atau pekarangan tertutup yang ada rumahnya, dan harga barang yang dicurinya tidak lebih dari Rp500.000,00, maka pelaku akan dipidana sebagai pencurian ringan dengan pidana denda paling banyak kategori II.
+
+Namun, kasus Anda melibatkan pencurian sepeda motor di pekarangan rumah Anda.  Pasal 477 (1) menyebutkan beberapa jenis pencurian yang lebih berat, termasuk pencurian sepeda motor.  Jika sepeda motor yang dicuri memiliki nilai lebih dari Rp500.000,00, atau jika ada unsur-unsur lain yang memperberat, seperti penggunaan cara tertentu untuk masuk atau mencuri, maka hukumannya akan lebih berat daripada pencurian ringan.
+
+Oleh karena itu, hukuman untuk kasus ini akan bergantung pada nilai sepeda motor yang dicuri dan bagaimana cara pencurian dilakukan. Jika nilai sepeda motor di bawah Rp500.000,00 dan cara pencuriannya sederhana, maka hukumannya akan sesuai dengan pencurian ringan. Namun, jika nilainya lebih tinggi atau ada unsur-unsur lain yang memperberat, hukumannya bisa lebih berat.
+
+[Ref: Pasal 477, Pasal 478]
+"
+2026-03-29T22:46:56.609306,BGE-M3,gemma3:4b,Ada orang masuk ke pekarangan rumah saya jam 2 malam dan mencuri sepeda motor. Apakah hukumannya sama dengan pencurian biasa?,"Pertanyaan: Ada orang masuk ke pekarangan rumah saya jam 2 malam dan mencuri sepeda motor. Apakah hukumannya sama dengan pencurian biasa?
+
+Jawaban: Ya, hukumannya bisa berbeda dengan pencurian biasa. Hal ini karena beberapa faktor yang disebutkan dalam KUHP.
+
+Pasal 478 mengatur tentang pencurian ringan. Pasal ini berlaku jika tindak pidana pencurian dilakukan tidak dalam sebuah rumah atau pekarangan tertutup yang ada rumahnya, dan harga Barang yang dicurinya tidak lebih dari Rp500.000,00. Dalam kasus Anda, orang tersebut masuk ke pekarangan rumah Anda dan mencuri sepeda motor. Jika nilai sepeda motor tersebut tidak melebihi Rp500.000,00, maka kemungkinan besar kasus ini akan dikategorikan sebagai pencurian ringan.  Pidana untuk pencurian ringan adalah denda paling banyak kategori II.
+
+Namun, perlu diperhatikan juga Pasal 479 yang mengatur tentang pencurian dengan kekerasan. Jika tindakan mencuri tersebut disertai dengan kekerasan atau ancaman kekerasan, maka hukuman akan lebih berat, yaitu penjara paling lama 9 tahun.
+
+Oleh karena itu, hukuman yang diterima akan bergantung pada bukti yang ada, terutama mengenai apakah tindakan pencurian disertai kekerasan atau tidak.
+
+[Ref: Pasal 478, Pasal 479]
+"
+2026-03-29T22:49:42.638159,Multilingual E5 Small,gemma3:4b,Ada orang masuk ke pekarangan rumah saya jam 2 malam dan mencuri sepeda motor. Apakah hukumannya sama dengan pencurian biasa?,"Ya, hukumannya bisa lebih berat daripada pencurian biasa. Berdasarkan Pasal 477 ayat (1) huruf e, pencurian pada malam hari dalam suatu pekarangan tertutup yang ada rumahnya, dilakukan oleh orang yang adanya tidak diketahui atau tidak dikehendaki oleh yang berhak, dapat dikenakan pidana penjara paling lama 7 tahun.  Selain itu, karena tindakan tersebut melibatkan pencurian sepeda motor, yang merupakan sumber mata pencaharian utama, kemungkinan besar akan diklasifikasikan sebagai pencurian dengan ancaman atau tindak pidana khusus yang dapat meningkatkan hukuman.  Pasal 479 juga relevan jika tindakan tersebut disertai kekerasan atau ancaman kekerasan.  Untuk menentukan hukuman yang tepat, akan diperlukan pemeriksaan lebih lanjut mengenai keadaan spesifik kejadian tersebut.
+
+[Ref: Pasal 477 ayat (1) huruf e, Pasal 479]
+"
+2026-03-29T22:51:35.364895,Multilingual All Mini LM,gemma3:4b,Ada orang masuk ke pekarangan rumah saya jam 2 malam dan mencuri sepeda motor. Apakah hukumannya sama dengan pencurian biasa?,"Pertanyaan: Ada orang masuk ke pekarangan rumah saya jam 2 malam dan mencuri sepeda motor. Apakah hukumannya sama dengan pencurian biasa?
+
+Jawaban: Untuk menentukan hukumannya, kita perlu melihat Pasal 478 KUHP. Pasal ini mengatur tentang pencurian ringan. Syarat pencurian yang dianggap ringan adalah:
+
+1.  Tindak pidana pencurian dilakukan tidak dalam sebuah rumah atau pekarangan tertutup yang ada rumahnya.
+2.  Harga Barang yang dicurinya tidak lebih dari Rp500.000,00.
+
+Dalam kasus Anda, orang tersebut masuk ke pekarangan rumah Anda dan mencuri sepeda motor. Jika sepeda motor tersebut bernilai di bawah Rp500.000,00, maka pelaku akan dipidana sebagai pencurian ringan dengan ancaman pidana denda paling banyak kategori II.
+
+Namun, jika nilai sepeda motor lebih dari Rp500.000,00, maka pelaku akan dipidana sebagai pencurian biasa sesuai dengan pasal yang mengatur pencurian umum (misalnya Pasal 362 KUHP).
+
+Selain itu, perlu diperhatikan juga Pasal 479 KUHP yang mengatur tentang pencurian dengan kekerasan. Jika tindakan mencuri tersebut disertai dengan kekerasan atau ancaman kekerasan, maka hukuman yang diberikan akan lebih berat.
+
+[Ref: Pasal 478, Pasal 479, Pasal 362 KUHP]
+"
+2026-03-29T22:54:09.551487,Multilingual E5 Small,gemma3:4b,Boleh nggak sih kita bikin meme lucu-lucuan yang isinya menghina atau ngatain institusi DPR atau Kepolisian di internet?,"Pertanyaan: Boleh nggak sih kita bikin meme lucu-lucuan yang isinya menghina atau ngatain institusi DPR atau Kepolisian di internet?
+
+Jawaban: Berdasarkan konteks pasal yang diberikan, pembuatan meme yang menghina atau merendahkan kehormatan institusi DPR atau Kepolisian di internet berpotensi menimbulkan masalah hukum.
+
+Pasal 219 mengatur tentang pidana bagi warga negara yang ikut serta dalam Perang atau latihan militer di luar negeri, namun konteks ini tidak relevan dengan pembuatan meme.
+
+Pasal 216 mengatur tentang permufakatan jahat dan persiapan untuk melakukan tindak pidana, namun ini juga tidak relevan dengan pembuatan meme.
+
+Pasal 219 juga tidak secara spesifik membahas tentang pembuatan konten di internet. Namun, secara umum, pembuatan konten yang bersifat menghasut, fitnah, atau pencemaran nama baik, termasuk meme yang mengandung unsur tersebut, dapat menimbulkan sengketa hukum.
+
+Meskipun tidak ada pasal yang secara langsung mengatur tentang meme, tindakan membuat dan menyebarkan meme yang menghina atau merendahkan institusi DPR atau Kepolisian dapat berpotensi melanggar ketentuan umum terkait dengan penghinaan dan pencemaran nama baik.  Selain itu, jika meme tersebut menimbulkan kerugian atau gangguan keamanan, maka dapat dikenakan tindakan hukum lebih lanjut.
+
+**Disclaimer:** Jawaban ini berdasarkan pada informasi yang diberikan dalam konteks pasal KUHP yang Anda berikan. Penjelasan ini bersifat umum dan tidak menggantikan nasihat hukum profesional.
+
+[Ref: Pasal 216, 219, 38, 391]
+"
+2026-03-29T22:54:45.174303,Multilingual All Mini LM,gemma3:4b,Boleh nggak sih kita bikin meme lucu-lucuan yang isinya menghina atau ngatain institusi DPR atau Kepolisian di internet?,"Pertanyaan: Boleh nggak sih kita bikin meme lucu-lucuan yang isinya menghina atau ngatain institusi DPR atau Kepolisian di internet?
+
+Jawaban: Berdasarkan konteks yang diberikan, pembuatan meme yang menghina atau merendahkan institusi DPR atau Kepolisian di internet berpotensi menimbulkan pelanggaran hukum.
+
+Pasal 238 mengatur tentang penodaan atau penghinaan terhadap lagu kebangsaan, namun prinsip dasarnya dapat diterapkan pada kasus ini. Meskipun tidak secara eksplisit menyebutkan meme, tindakan membuat konten yang secara jelas berniat menghina atau merendahkan institusi negara dapat dianggap sebagai tindakan yang tidak pantas dan berpotensi menimbulkan gangguan keamanan dan ketertiban umum.
+
+Selain itu, Pasal 437 mengatur tentang pengaduan fitnah yang dilakukan secara tertulis kepada pejabat yang berwenang. Jika meme tersebut disebarluaskan dengan tujuan untuk menyerang kehormatan atau nama baik DPR atau Kepolisian, maka dapat dikategorikan sebagai pengaduan fitnah yang memenuhi unsur-unsurnya.
+
+Meskipun tidak ada pasal yang secara spesifik mengatur tentang meme, tindakan membuat dan menyebarkan meme yang menghina institusi negara dapat diinterpretasikan sebagai tindakan yang melanggar ketertiban umum dan berpotensi menimbulkan gangguan keamanan.
+
+[Ref: Pasal 238, Pasal 437]
+"
+2026-03-29T22:57:11.525859,Indo Sentence BERT,gemma3:4b,"Seorang penjual obat menjual antibiotik yang ternyata isinya cuma tepung (palsu). Gara-gara minum obat itu, seorang pasien meninggal dunia karena infeksi yang tidak terobati. Berapa lama penjual ini bisa dipenjara?","Berdasarkan konteks yang diberikan, penjual antibiotik yang menjual obat palsu (cuma tepung) yang menyebabkan pasien meninggal dunia dapat dipidana berdasarkan beberapa pasal.
+
+Pasal 503 ayat (1) mengatur tentang penjualan barang palsu yang menyembunyikan kepalsuannya. Dalam kasus ini, penjual menjual antibiotik palsu yang isinya cuma tepung, dan akibatnya pasien meninggal karena infeksi yang tidak terobati. Pasal ini mengatur pidana penjara paling lama 5 tahun atau denda paling banyak kategori V.
+
+Namun, karena kematian akibat tindak pidana ini, penjual juga dapat dikenakan tuntutan pidana lebih berat. Pasal 503 ayat (2) menyatakan bahwa jika tindak pidana menyebabkan luka berat atau kematian, penjual akan dipidana penjara paling lama 7 tahun.
+
+Dengan demikian, penjual ini berpotensi dipenjara paling lama 7 tahun.
+
+[Ref: Pasal 503 ayat (1) dan (2)]
+"
+2026-03-29T23:00:07.603971,BGE-M3,gemma3:4b,"Seorang penjual obat menjual antibiotik yang ternyata isinya cuma tepung (palsu). Gara-gara minum obat itu, seorang pasien meninggal dunia karena infeksi yang tidak terobati. Berapa lama penjual ini bisa dipenjara?","Berdasarkan konteks yang diberikan, penjual antibiotik yang menjual obat palsu (berisi tepung bukan antibiotik) dan menyebabkan kematian pasien dapat dipidana.
+
+Pasal 503 ayat (1) menyatakan: “Setiap Orang yang menjual, menawarkan, atau menyerahkan Barang berupa makanan, minuman, atau obat, yang diketahuinya palsu dan menyembunyikan kepalsuan itu, dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak kategori V.”
+
+Karena tindakan penjual menyebabkan kematian pasien, maka pasal tersebut diperberat. Pasal 503 ayat (2) menambahkan: “Jika Tindak Pidana sebagaimana dimaksud pada ayat (1) mengakibatkan Luka Berat atau penyakit, dipidana dengan pidana penjara paling lama 7 (tujuh) tahun.”  Dalam kasus ini, kematian pasien memenuhi unsur luka berat, sehingga penjual dapat dipidana dengan pidana penjara paling lama 7 (tujuh) tahun.
+
+[Ref: Pasal 503]
+"
+2026-03-29T23:01:20.208679,Multilingual E5 Small,gemma3:4b,"Seorang penjual obat menjual antibiotik yang ternyata isinya cuma tepung (palsu). Gara-gara minum obat itu, seorang pasien meninggal dunia karena infeksi yang tidak terobati. Berapa lama penjual ini bisa dipenjara?","Berdasarkan konteks yang diberikan, penjual antibiotik yang menjual obat palsu (berisi tepung) yang menyebabkan kematian pasien dapat dipidana berdasarkan beberapa pasal.
+
+Pasal 503 ayat (1) mengatur tentang penjualan barang palsu yang menyebabkan kerugian. Dalam kasus ini, penjual menjual antibiotik palsu yang menyebabkan kematian pasien, sehingga dapat dipidana dengan pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak kategori V.
+
+Namun, jika tindak pidana ini mengakibatkan luka berat atau kematian, Pasal 503 ayat (2) dan (3) akan diterapkan. Karena dalam kasus ini kematian terjadi, penjual dapat dipidana dengan pidana penjara paling lama 7 (tujuh) tahun jika mengakibatkan luka berat, atau 9 (sembilan) tahun jika mengakibatkan kematian.
+
+Selain itu, Pasal 343 juga relevan karena penjual tidak memberitahukan bahaya dari bahan tersebut (tepung sebagai pengganti antibiotik) kepada pasien.  Pasal 343 mengatur tentang penjualan bahan berbahaya yang menyebabkan kematian, dengan ancaman pidana penjara paling lama 5 (lima) tahun atau pidana denda paling banyak kategori V.
+
+Dengan demikian, penjual ini dapat dipidana berdasarkan Pasal 503 ayat (1) dan (2) atau Pasal 343, dengan ancaman pidana penjara paling lama 9 (sembilan) tahun.
+
+[Ref: Pasal 503, Pasal 343]
+"
+2026-03-29T23:02:34.137208,Multilingual All Mini LM,gemma3:4b,"Seorang penjual obat menjual antibiotik yang ternyata isinya cuma tepung (palsu). Gara-gara minum obat itu, seorang pasien meninggal dunia karena infeksi yang tidak terobati. Berapa lama penjual ini bisa dipenjara?","Berdasarkan konteks yang diberikan, penjual antibiotik palsu yang menyebabkan kematian pasien dapat dipidana berdasarkan beberapa pasal.
+
+Pasal 503 ayat (1) mengatur tentang penjualan barang palsu. Dalam kasus ini, penjual menjual antibiotik yang ternyata berisi tepung (palsu), sehingga memenuhi unsur tindak pidana tersebut. Ancaman pidananya adalah penjara paling lama 5 tahun atau denda paling banyak kategori V.
+
+Namun, karena akibatnya adalah kematian, pasal ini dapat diperberat. Pasal 503 ayat (2) menyatakan bahwa jika tindak pidana penjualan barang palsu mengakibatkan luka berat atau kematian, ancaman pidananya menjadi penjara paling lama 7 tahun atau denda paling banyak kategori V.
+
+Dengan demikian, penjual ini dapat dipidana dengan ancaman pidana penjara paling lama 7 tahun atau denda paling banyak kategori V.
+
+[Ref: Pasal 503 ayat (1) dan (2)]
+"
+2026-03-29T23:17:20.710555,Indo Sentence BERT,gemma3:4b,"perusahaan kontraktor sedang menggali lubang besar di pinggir jalan umum untuk proyek pipa air. Setelah jam kerja, lubang tersebut dibiarkan terbuka tanpa penerangan dan tanpa tanda peringatan apapun. Apakah ada pelanggaran pidana?","Ya, ada potensi pelanggaran pidana berdasarkan Pasal 339 Kitab Undang-Undang Hukum Pidana (KUHP). Perusahaan kontraktor yang menggali lubang besar di pinggir jalan umum tanpa menerangi secukupnya dan tidak menaruh tanda peringatan, merupakan tindakan yang melanggar ketentuan Pasal 339 ayat (a) dan (b).
+
+Pasal 339 ayat (a) menyatakan bahwa setiap orang yang tidak menerangi secukupnya dan tidak menaruh tanda menurut kebiasaan pada lubang atau galian di jalan umum yang dibuatnya sendiri atau atas perintahnya, dipidana dengan pidana denda paling banyak kategori II.
+
+Pasal 339 ayat (b) menambahkan bahwa jika tidak ada tanda peringatan bahaya, hal ini juga merupakan pelanggaran.
+
+Tindakan ini berpotensi menimbulkan bahaya bagi pengguna jalan umum, dan kewajiban untuk memberikan penerangan dan tanda peringatan adalah tanggung jawab perusahaan kontraktor sebagai pihak yang melakukan pekerjaan di jalan umum.
+
+[Ref: Pasal 339]
+"
+2026-03-29T23:17:56.885409,BGE-M3,gemma3:4b,"perusahaan kontraktor sedang menggali lubang besar di pinggir jalan umum untuk proyek pipa air. Setelah jam kerja, lubang tersebut dibiarkan terbuka tanpa penerangan dan tanpa tanda peringatan apapun. Apakah ada pelanggaran pidana?","Ya, ada potensi pelanggaran pidana berdasarkan Pasal 339 Kitab Undang-Undang Hukum Pidana (KUHP). Perusahaan kontraktor telah melakukan beberapa hal yang melanggar ketentuan tersebut:
+
+*   **Tidak menerangi secukupnya dan tidak menaruh tanda:** Mereka tidak memberikan penerangan yang cukup pada lubang yang mereka gali, dan tidak memasang tanda peringatan sesuai kebiasaan.
+*   **Tidak memberi tanda peringatan bahaya:** Mereka juga tidak memberikan tanda peringatan bahwa ada potensi bahaya pada lubang tersebut.
+
+Pasal 339 menyebutkan bahwa setiap orang yang melakukan hal-hal tersebut di atas akan dipidana dengan pidana denda paling banyak kategori II.  Karena lubang tersebut berada di jalan umum yang mereka buat sendiri, pelanggaran ini sangat relevan.
+
+[Ref: Pasal 339]
+"
+2026-03-29T23:18:24.023675,Multilingual E5 Small,gemma3:4b,"perusahaan kontraktor sedang menggali lubang besar di pinggir jalan umum untuk proyek pipa air. Setelah jam kerja, lubang tersebut dibiarkan terbuka tanpa penerangan dan tanpa tanda peringatan apapun. Apakah ada pelanggaran pidana?","Ya, ada potensi pelanggaran pidana berdasarkan Pasal 339 Kitab Undang-Undang Hukum Pidana (KUHP). Perusahaan kontraktor telah melakukan beberapa hal yang melanggar ketentuan tersebut:
+
+*   **Tidak menerangi secukupnya dan tidak menaruh tanda:** Lubang besar yang digali di pinggir jalan umum tanpa penerangan dan tanpa tanda peringatan merupakan pelanggaran terhadap huruf a dari Pasal 339. Keberadaan lubang terbuka tersebut berpotensi membahayakan pengguna jalan umum.
+*   **Tidak memberi tanda peringatan bahaya:**  Huruf b dari Pasal 339 mensyaratkan adanya tanda peringatan mengenai potensi bahaya. Kegagalan perusahaan kontraktor untuk memberikan tanda peringatan ini semakin memperburuk pelanggaran.
+
+Sebagai akibat dari tindakan tersebut, perusahaan kontraktor dapat dipidana dengan pidana denda paling banyak kategori II.
+
+[Ref: Pasal 339]
+"
+2026-03-29T23:18:46.544227,Multilingual All Mini LM,gemma3:4b,"perusahaan kontraktor sedang menggali lubang besar di pinggir jalan umum untuk proyek pipa air. Setelah jam kerja, lubang tersebut dibiarkan terbuka tanpa penerangan dan tanpa tanda peringatan apapun. Apakah ada pelanggaran pidana?","Ya, ada potensi pelanggaran pidana berdasarkan Pasal 339 Kitab Undang-Undang Hukum Pidana (KUHP).
+
+Perusahaan kontraktor melakukan beberapa hal yang melanggar ketentuan tersebut:
+
+*   **Tidak menerangi secukupnya dan tidak menaruh tanda:** Mereka menggali lubang besar di jalan umum tanpa penerangan dan tanpa tanda peringatan, yang merupakan kewajiban menurut Pasal 339 huruf a.
+*   **Tidak memberi tanda peringatan:**  Ketiadaan tanda peringatan pada lubang yang terbuka juga merupakan pelanggaran terhadap Pasal 339 huruf a.
+
+Akibat dari tindakan tersebut, perusahaan kontraktor dapat dipidana dengan pidana denda paling banyak kategori II, sebagaimana diatur dalam Pasal 339 ayat (a).
+
+[Ref: Pasal 339]
+"
+2026-03-29T23:24:31.025414,Indo Sentence BERT,gemma3:4b,"Misalnya ada bapak-bapak iseng nge-share info di grup WA RT kalau ada penculikan anak berkeliaran di kompleks padahal itu hoaks doang buat nakut-nakutin, sampai bikin warga panik dan ronda ketakutan semalaman. Emang orang iseng begini bisa dipidana ya?","Ya, orang iseng yang membagikan informasi palsu tentang penculikan anak di grup WA RT bisa dipidana. Meskipun konteks pasal yang diberikan tidak secara spesifik membahas penyebaran hoaks, namun tindakan memicu kepanikan dan ketakutan warga dengan informasi yang tidak benar dapat dikategorikan sebagai tindakan yang dapat menimbulkan kerugian.
+
+Pasal 417 menyebutkan bahwa “Setiap Orang yang memberi atau berjanji akan memberi hadiah, wibawa yang timbul dari hubungan keadaan atau dengan penyesatan menggerakkan orang yang diketahui atau patut diduga Anak, untuk melakukan perbuatan cabul atau membiarkan terhadap dirinya dilakukan perbuatan cabul, dipidana dengan pidana penjara paling lama 9 (sembilan) tahun.”  Meskipun pasal ini secara khusus membahas pemberian hadiah untuk memicu perbuatan cabul, prinsip dasarnya adalah tindakan yang menggerakkan anak untuk melakukan perbuatan yang berbahaya atau membiarkan perbuatan tersebut dapat dianggap sebagai tindakan yang merugikan.  Dalam kasus ini, informasi palsu yang disebarkan dapat dianggap sebagai “penyesatan” yang menggerakkan warga untuk melakukan ronda ketakutan semalaman, yang pada akhirnya menimbulkan ketidaknyamanan dan potensi bahaya.
+
+Selain itu, meskipun tidak ada pasal yang secara langsung mengatur penyebaran hoaks, tindakan tersebut dapat diinterpretasikan sebagai tindakan yang dapat menimbulkan kerugian, yang secara umum dapat dikenakan sanksi pidana.
+
+**Referensi:** Pasal 417
+
+"
+2026-03-29T23:25:08.840984,BGE-M3,gemma3:4b,"Misalnya ada bapak-bapak iseng nge-share info di grup WA RT kalau ada penculikan anak berkeliaran di kompleks padahal itu hoaks doang buat nakut-nakutin, sampai bikin warga panik dan ronda ketakutan semalaman. Emang orang iseng begini bisa dipidana ya?","Ya, orang iseng yang membagikan informasi palsu (hoaks) tentang penculikan anak di grup WA RT bisa dipidana berdasarkan beberapa pasal dalam KUHP.
+
+Pasal 263 ayat (2) mengatur tentang penyebaran berita bohong yang dapat mengakibatkan kerusuhan dalam masyarakat. Meskipun dalam kasus ini tidak ada kerusuhan yang terjadi, tindakan membagikan informasi palsu yang menimbulkan kepanikan dan ketakutan warga memenuhi unsur-unsur pidana tersebut.  Orang yang membagikan hoaks tersebut dapat dipidana dengan pidana penjara paling lama 4 tahun atau denda paling banyak kategori IV.
+
+Selain itu, tindakan ini juga dapat dikategorikan sebagai tindakan yang dapat mengganggu ketertiban umum, meskipun tidak secara langsung diatur dalam pasal tertentu. Namun, tindakan tersebut dapat ditindaklanjuti berdasarkan prinsip umum hukum pidana yang menyatakan bahwa setiap tindakan yang mengganggu ketertiban umum dapat dikenakan pidana.
+
+[Ref: Pasal 263 ayat (2)]
+"
+2026-03-29T23:26:10.149847,Multilingual E5 Small,gemma3:4b,"Misalnya ada bapak-bapak iseng nge-share info di grup WA RT kalau ada penculikan anak berkeliaran di kompleks padahal itu hoaks doang buat nakut-nakutin, sampai bikin warga panik dan ronda ketakutan semalaman. Emang orang iseng begini bisa dipidana ya?","Ya, orang iseng yang membagikan informasi palsu (hoaks) tentang penculikan anak di grup WA RT bisa dipidana. Meskipun konteks pasal yang relevan adalah Pasal 450 yang mengatur tentang penculikan, prinsip dasarnya adalah tindakan yang menyebabkan kepanikan dan ketakutan warga dapat menimbulkan konsekuensi hukum.
+
+Pasal 450 mengatur tentang “Setiap Orang yang membawa seseorang dengan maksud untuk menempatkan orang tersebut secara melawan hukum di bawah kekuasaannya atau kekuasaan orang lain atau untuk menempatkan orang tersebut dalam keadaan tidak berdaya, dipidana karena penculikan dengan pidana penjara paling lama 12 (dua belas) tahun.”
+
+Meskipun dalam kasus ini tidak ada tindakan penculikan yang sebenarnya, penyebaran informasi palsu yang menimbulkan kepanikan dan ketakutan warga dapat dianggap sebagai tindakan yang mengganggu ketertiban umum dan berpotensi menimbulkan kerugian.  Meskipun tidak ada pasal yang secara spesifik mengatur tentang penyebaran hoaks, tindakan tersebut dapat diinterpretasikan sebagai tindakan yang dapat menimbulkan dampak negatif dan berpotensi melanggar hukum.
+
+[Ref: Pasal 450]
+"
+2026-03-29T23:27:04.621230,Multilingual All Mini LM,gemma3:4b,"Misalnya ada bapak-bapak iseng nge-share info di grup WA RT kalau ada penculikan anak berkeliaran di kompleks padahal itu hoaks doang buat nakut-nakutin, sampai bikin warga panik dan ronda ketakutan semalaman. Emang orang iseng begini bisa dipidana ya?","Ya, orang iseng yang membagikan informasi palsu (hoaks) tentang penculikan anak di grup WA RT, sehingga membuat warga panik dan ronda ketakutan, bisa dipidana. Hal ini berkaitan dengan Pasal 450 KUHP yang mengatur tentang penculikan.
+
+Pasal 450 (1) menyatakan bahwa setiap orang yang membawa seseorang dengan maksud untuk menempatkan orang tersebut secara melawan hukum di bawah kekuasaannya atau kekuasaan orang lain atau untuk menempatkan orang tersebut dalam keadaan tidak berdaya, dipidana karena penculikan dengan pidana penjara paling lama 12 (dua belas) tahun.
+
+Meskipun dalam kasus ini tidak ada tindakan penculikan yang sebenarnya, tindakan memprovokasi ketakutan warga dengan menyebarkan informasi palsu dapat dianggap sebagai tindakan yang memenuhi unsur-unsur penculikan, yaitu menempatkan seseorang (dalam hal ini warga) dalam keadaan tidak berdaya karena ketakutan.  Selain itu, tindakan ini juga bisa dipertimbangkan berdasarkan Pasal 21 KUHP tentang pembantuan melakukan Tindak Pidana, karena tindakan iseng tersebut memberikan kesempatan dan sarana bagi warga untuk melakukan tindakan yang berlebihan dan berpotensi menimbulkan kerugian.
+
+[Ref: Pasal 450, Pasal 21]
+"

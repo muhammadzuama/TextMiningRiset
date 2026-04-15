@@ -15,7 +15,7 @@ from langchain_ollama import ChatOllama
 app = Flask(__name__)
 
 # ─── Config ────────────────────────────────────────────────────────────────────
-DATA_PATH   = "/Users/muhammadzuamaalamin/Documents/RisetTextMining/retrieval2/datacorpus.json"
+DATA_PATH   = "/Users/muhammadzuamaalamin/Documents/RisetTextMining/datacorpus.json"
 LOG_CSV     = "history.csv"
 
 EMBEDDING_MODELS = {
@@ -26,7 +26,7 @@ EMBEDDING_MODELS = {
     # },
     "BGE-M3": {
         "name":    "/Users/muhammadzuamaalamin/Documents/fintunellm/model/bge-m3",
-        "db_path": "/Users/muhammadzuamaalamin/Documents/RisetTextMining/retrieval2/faiss_indexbgem3",
+        "db_path": "/Users/muhammadzuamaalamin/Documents/RisetTextMining/faiss/faiss_indexbgem3",
         "description": "Multilingual, high accuracy"
     },
     # "Multilingual E5 Small": {
@@ -41,7 +41,7 @@ EMBEDDING_MODELS = {
     # },
         "E5-sample-Law-Indo": {
         "name":    "mzuama/E5-sampel-law",
-        "db_path": "/Users/muhammadzuamaalamin/Documents/RisetTextMining/retrieval2/faiss_indexe5lawsampel",
+        "db_path": "/Users/muhammadzuamaalamin/Documents/RisetTextMining/faiss/faiss_indexe5lawsampel",
         "description": "Multilingual, high accuracy"
     }
 

@@ -1,0 +1,277 @@
+[
+  {
+    "anchor": "query: Kalau saya melakukan sesuatu yang nggak diatur di undang-undang, bisa dihukum nggak?",
+    "positive": "passage: Pasal 1 ayat (1) KUHP: Tidak ada satu perbuatan pun yang dapat dikenai sanksi pidana dan/atau tindakan, kecuali atas kekuatan peraturan pidana dalam peraturan perundang-undangan yang telah ada sebelum perbuatan dilakukan.",
+    "negative": "passage: Pasal 4 huruf a KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang melakukan Tindak Pidana di wilayah Negara Kesatuan Republik Indonesia."
+  },
+  {
+    "anchor": "query: Boleh nggak sih hakim pakai analogi buat nentuin seseorang bersalah?",
+    "positive": "passage: Pasal 1 ayat (2) KUHP: Dalam menetapkan adanya Tindak Pidana dilarang digunakan analogi.",
+    "negative": "passage: Pasal 10 KUHP: Waktu Tindak Pidana merupakan saat dilakukannya perbuatan yang dapat dipidana."
+  },
+  {
+    "anchor": "query: Apa hukumnya kalau ada aturan adat yang bilang sesuatu itu salah, tapi nggak ada di undang-undang?",
+    "positive": "passage: Pasal 2 ayat (1) KUHP: Ketentuan sebagaimana dimaksud dalam Pasal 1 ayat (1) tidak mengurangi berlakunya hukum yang hidup dalam masyarakat yang menentukan bahwa seseorang patut dipidana walaupun perbuatan tersebut tidak diatur dalam Undang-Undang ini.",
+    "negative": "passage: Pasal 6 KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang berada di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana menurut hukum internasional yang telah ditetapkan sebagai Tindak Pidana dalam Undang-Undang."
+  },
+  {
+    "anchor": "query: Hukum adat itu bisa dipakai di mana aja atau cuma di daerah tertentu?",
+    "positive": "passage: Pasal 2 ayat (2) KUHP: Hukum yang hidup dalam masyarakat sebagaimana dimaksud pada ayat (1) berlaku dalam tempat hukum itu hidup dan sepanjang tidak diatur dalam Undang-Undang ini dan sesuai dengan nilai-nilai yang terkandung dalam Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, hak asasi manusia, dan asas hukum umum yang diakui masyarakat bangsa-bangsa.",
+    "negative": "passage: Pasal 8 ayat (1) KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi setiap warga negara Indonesia yang melakukan Tindak Pidana di luar wilayah Negara Kesatuan Republik Indonesia."
+  },
+  {
+    "anchor": "query: Kalau aturan hukum berubah setelah saya melakukan sesuatu, aturan mana yang dipakai?",
+    "positive": "passage: Pasal 3 ayat (1) KUHP: Dalam hal terdapat perubahan peraturan perundang-undangan sesudah perbuatan terjadi, diberlakukan peraturan perundang-undangan yang baru, kecuali ketentuan peraturan perundang-undangan yang lama menguntungkan bagi pelaku dan pembantu Tindak Pidana.",
+    "negative": "passage: Pasal 11 KUHP: Tempat Tindak Pidana merupakan tempat dilakukannya perbuatan yang dapat dipidana."
+  },
+  {
+    "anchor": "query: Kalau perbuatan saya udah nggak dianggap kejahatan menurut aturan baru, gimana nasib kasus saya?",
+    "positive": "passage: Pasal 3 ayat (2) KUHP: Dalam hal perbuatan yang terjadi tidak lagi merupakan Tindak Pidana menurut peraturan perundang-undangan yang baru, proses hukum terhadap tersangka atau terdakwa harus dihentikan demi hukum.",
+    "negative": "passage: Pasal 5 huruf a KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana terhadap kepentingan Negara Kesatuan Republik Indonesia yang berhubungan dengan keamanan negara atau proses kehidupan ketatanegaraan."
+  },
+  {
+    "anchor": "query: Kalau saya udah divonis tapi aturannya berubah dan perbuatan saya nggak dianggap kejahatan lagi, apa yang terjadi?",
+    "positive": "passage: Pasal 3 ayat (4) KUHP: Dalam hal setelah putusan pemidanaan berkekuatan hukum tetap dan perbuatan yang terjadi tidak lagi merupakan Tindak Pidana menurut peraturan perundang-undangan yang baru, pelaksanaan putusan pemidanaan dihapuskan.",
+    "negative": "passage: Pasal 7 KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang melakukan Tindak Pidana di luar wilayah Negara Kesatuan Republik Indonesia yang penuntutannya diambil alih oleh Pemerintah Indonesia atas dasar suatu perjanjian internasional yang memberikan kewenangan kepada Pemerintah Indonesia untuk melakukan penuntutan pidana."
+  },
+  {
+    "anchor": "query: Kalau hukuman menurut aturan baru lebih ringan, apa hukuman saya bisa dikurangi?",
+    "positive": "passage: Pasal 3 ayat (7) KUHP: Dalam hal setelah putusan pemidanaan berkekuatan hukum tetap dan perbuatan yang terjadi diancam dengan pidana yang lebih ringan menurut peraturan perundang-undangan yang baru, pelaksanaan putusan pemidanaan disesuaikan dengan batas pidana menurut peraturan perundang-undangan yang baru.",
+    "negative": "passage: Pasal 9 KUHP: Penerapan ketentuan sebagaimana dimaksud dalam Pasal 4 sampai dengan Pasal 8 dibatasi oleh hal yang dikecualikan menurut perjanjian internasional yang berlaku."
+  },
+  {
+    "anchor": "query: Kalau saya bikin kejahatan di Indonesia, pasti dihukum menurut hukum Indonesia dong?",
+    "positive": "passage: Pasal 4 huruf a KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang melakukan Tindak Pidana di wilayah Negara Kesatuan Republik Indonesia.",
+    "negative": "passage: Pasal 2 ayat (3) KUHP: Ketentuan mengenai tata cara dan kriteria penetapan hukum yang hidup dalam masyarakat diatur dengan Peraturan Pemerintah."
+  },
+  {
+    "anchor": "query: Kalau saya bikin kejahatan di kapal Indonesia yang lagi di laut internasional, hukum mana yang berlaku?",
+    "positive": "passage: Pasal 4 huruf b KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang melakukan Tindak Pidana di Kapal Indonesia atau di Pesawat Udara Indonesia.",
+    "negative": "passage: Pasal 3 ayat (3) KUHP: Dalam hal ketentuan sebagaimana dimaksud pada ayat (2) diterapkan bagi tersangka atau terdakwa yang berada dalam tahanan, tersangka atau terdakwa dibebaskan oleh Pejabat yang berwenang sesuai dengan tingkat pemeriksaan."
+  },
+  {
+    "anchor": "query: Kalau saya nyerang orang lewat internet dari luar negeri tapi korbannya di Indonesia, bisa diproses di sini?",
+    "positive": "passage: Pasal 4 huruf c KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang melakukan Tindak Pidana di bidang teknologi informasi atau Tindak Pidana lainnya yang akibatnya dialami atau terjadi di wilayah Negara Kesatuan Republik Indonesia atau di Kapal Indonesia dan di Pesawat Udara Indonesia.",
+    "negative": "passage: Pasal 8 ayat (3) KUHP: Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku untuk Tindak Pidana yang diancam dengan pidana denda paling banyak kategori III."
+  },
+  {
+    "anchor": "query: Kalau ada orang asing dari luar negeri nyerang keamanan Indonesia, bisa dituntut di sini?",
+    "positive": "passage: Pasal 5 huruf a KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana terhadap kepentingan Negara Kesatuan Republik Indonesia yang berhubungan dengan keamanan negara atau proses kehidupan ketatanegaraan.",
+    "negative": "passage: Pasal 1 ayat (1) KUHP: Tidak ada satu perbuatan pun yang dapat dikenai sanksi pidana dan/atau tindakan, kecuali atas kekuatan peraturan pidana dalam peraturan perundang-undangan yang telah ada sebelum perbuatan dilakukan."
+  },
+  {
+    "anchor": "query: Kalau ada yang palsuin rupiah atau kartu kredit Indonesia dari luar negeri, bisa dihukum di Indonesia?",
+    "positive": "passage: Pasal 5 huruf c KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana terhadap kepentingan Negara Kesatuan Republik Indonesia yang berhubungan dengan mata uang, segel, cap negara, meterai, atau Surat berharga yang dikeluarkan oleh Pemerintah Indonesia, atau kartu kredit yang dikeluarkan oleh perbankan Indonesia.",
+    "negative": "passage: Pasal 10 KUHP: Waktu Tindak Pidana merupakan saat dilakukannya perbuatan yang dapat dipidana."
+  },
+  {
+    "anchor": "query: Kejahatan apa aja yang bisa dihukum di Indonesia walaupun dilakukan di mana pun di dunia?",
+    "positive": "passage: Pasal 6 KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang berada di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana menurut hukum internasional yang telah ditetapkan sebagai Tindak Pidana dalam Undang-Undang.",
+    "negative": "passage: Pasal 11 KUHP: Tempat Tindak Pidana merupakan tempat dilakukannya perbuatan yang dapat dipidana."
+  },
+  {
+    "anchor": "query: Bisa nggak Indonesia nuntut kejahatan yang dilakukan orang asing di negara lain kalau ada perjanjian internasional?",
+    "positive": "passage: Pasal 7 KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang melakukan Tindak Pidana di luar wilayah Negara Kesatuan Republik Indonesia yang penuntutannya diambil alih oleh Pemerintah Indonesia atas dasar suatu perjanjian internasional yang memberikan kewenangan kepada Pemerintah Indonesia untuk melakukan penuntutan pidana.",
+    "negative": "passage: Pasal 2 ayat (1) KUHP: Ketentuan sebagaimana dimaksud dalam Pasal 1 ayat (1) tidak mengurangi berlakunya hukum yang hidup dalam masyarakat yang menentukan bahwa seseorang patut dipidana walaupun perbuatan tersebut tidak diatur dalam Undang-Undang ini."
+  },
+  {
+    "anchor": "query: Kalau saya orang Indonesia terus bikin kejahatan di luar negeri, tetap bisa dihukum di Indonesia?",
+    "positive": "passage: Pasal 8 ayat (1) KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi setiap warga negara Indonesia yang melakukan Tindak Pidana di luar wilayah Negara Kesatuan Republik Indonesia.",
+    "negative": "passage: Pasal 3 ayat (1) KUHP: Dalam hal terdapat perubahan peraturan perundang-undangan sesudah perbuatan terjadi, diberlakukan peraturan perundang-undangan yang baru, kecuali ketentuan peraturan perundang-undangan yang lama menguntungkan bagi pelaku dan pembantu Tindak Pidana."
+  },
+  {
+    "anchor": "query: Apa syaratnya biar orang Indonesia yang bikin kejahatan di luar negeri bisa dihukum di sini?",
+    "positive": "passage: Pasal 8 ayat (2) KUHP: Ketentuan sebagaimana dimaksud pada ayat (1) berlaku jika perbuatan tersebut juga merupakan Tindak Pidana di negara tempat Tindak Pidana dilakukan.",
+    "negative": "passage: Pasal 4 huruf c KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang melakukan Tindak Pidana di bidang teknologi informasi atau Tindak Pidana lainnya yang akibatnya dialami atau terjadi di wilayah Negara Kesatuan Republik Indonesia atau di Kapal Indonesia dan di Pesawat Udara Indonesia."
+  },
+  {
+    "anchor": "query: Bisa nggak orang Indonesia dihukum mati di Indonesia untuk kejahatan yang dilakukan di luar negeri?",
+    "positive": "passage: Pasal 8 ayat (5) KUHP: Warga negara Indonesia di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana sebagaimana dimaksud pada ayat (1) tidak dapat dijatuhi pidana mati jika Tindak Pidana tersebut menurut hukum negara tempat Tindak Pidana tersebut dilakukan tidak diancam dengan pidana mati.",
+    "negative": "passage: Pasal 5 huruf d KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana terhadap kepentingan Negara Kesatuan Republik Indonesia yang berhubungan dengan perekonomian, perdagangan, dan perbankan Indonesia."
+  },
+  {
+    "anchor": "query: Kapan sih waktu sebuah kejahatan dianggap terjadi?",
+    "positive": "passage: Pasal 10 KUHP: Waktu Tindak Pidana merupakan saat dilakukannya perbuatan yang dapat dipidana.",
+    "negative": "passage: Pasal 6 KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang berada di luar wilayah Negara Kesatuan Republik Indonesia yang melakukan Tindak Pidana menurut hukum internasional yang telah ditetapkan sebagai Tindak Pidana dalam Undang-Undang."
+  },
+  {
+    "anchor": "query: Di mana sih tempat sebuah kejahatan dianggap terjadi?",
+    "positive": "passage: Pasal 11 KUHP: Tempat Tindak Pidana merupakan tempat dilakukannya perbuatan yang dapat dipidana.",
+    "negative": "passage: Pasal 7 KUHP: Ketentuan pidana dalam Undang-Undang berlaku bagi Setiap Orang yang melakukan Tindak Pidana di luar wilayah Negara Kesatuan Republik Indonesia yang penuntutannya diambil alih oleh Pemerintah Indonesia atas dasar suatu perjanjian internasional yang memberikan kewenangan kepada Pemerintah Indonesia untuk melakukan penuntutan pidana."
+  },
+  {
+    "anchor": "query: Apa sih yang bikin suatu perbuatan bisa disebut kejahatan menurut hukum?",
+    "positive": "passage: Pasal 12 KUHP: (1) Tindak Pidana merupakan perbuatan yang oleh peraturan perundang-undangan diancam dengan sanksi pidana dan/ atau tindakan. (2) Untuk dinyatakan sebagai Tindak Pidana, suatu perbuatan yang diancam dengan sanksi pidana dan/atau tindakan oleh peraturan perundang-undangan harus bersifat melawan hukum atau bertentangan dengan hukum yang hidup dalam masyarakat.",
+    "negative": "passage: Pasal 51 KUHP: Pemidanaan bertujuan: a. mencegah dilakukannya Tindak Pidana dengan menegakkan norma hukum demi pelindungan dan pengayoman masyarakat; b. memasyarakatkan terpidana dengan mengadakan pembinaan dan pembimbingan agar menjadi orang yang baik dan berguna."
+  },
+  {
+    "anchor": "query: Kalau dua orang atau lebih janjian buat ngelakuin kejahatan bareng, itu dihukum gimana?",
+    "positive": "passage: Pasal 13 KUHP: (1) Permufakatan jahat terjadi jika 2 (dua) orang atau lebih bersepakat untuk melakukan Tindak Pidana. (2) Permufakatan jahat melakukan Tindak Pidana dipidana jika ditentukan secara tegas dalam Undang-Undang.",
+    "negative": "passage: Pasal 20 KUHP: Setiap Orang dipidana sebagai pelaku Tindak Pidana jika: a. melakukan sendiri Tindak Pidana; b. melakukan Tindak Pidana dengan perantaraan alat atau menyuruh orang lain yang tidak dapat dipertanggungjawabkan."
+  },
+  {
+    "anchor": "query: Gimana kalau udah janjian jahat tapi terus batalin sebelum kejadian, masih kena hukum nggak?",
+    "positive": "passage: Pasal 14 KUHP: Permufakatan jahat melakukan Tindak Pidana tidak dipidana, jika pelaku: a. menarik diri dari kesepakatan itu; atau b. melakukan tindakan yang patut untuk mencegah terjadinya Tindak Pidana.",
+    "negative": "passage: Pasal 18 KUHP: (1) Percobaan melakukan Tindak Pidana tidak dipidana jika pelaku setelah melakukan permulaan pelaksanaan sebagaimana dimaksud dalam Pasal 17 ayat (1): a. tidak menyelesaikan perbuatannya karena kehendaknya sendiri secara sukarela."
+  },
+  {
+    "anchor": "query: Nyiapin alat atau rencana buat kejahatan itu udah bisa dipidana belum sih?",
+    "positive": "passage: Pasal 15 KUHP: (1) Persiapan melakukan Tindak Pidana terjadi jika pelaku berusaha untuk mendapatkan atau menyiapkan sarana berupa alat, mengumpulkan informasi atau menyusun perencanaan tindakan, atau melakukan tindakan serupa yang dimaksudkan untuk menciptakan kondisi untuk dilakukannya suatu perbuatan yang secara langsung ditujukan bagi penyelesaian Tindak Pidana.",
+    "negative": "passage: Pasal 17 KUHP: (1) Percobaan melakukan Tindak Pidana terjadi jika niat pelaku telah nyata dari adanya permulaan pelaksanaan dari Tindak Pidana yang dituju, tetapi pelaksanaannya tidak selesai, tidak mencapai hasil, atau tidak menimbulkan akibat yang dilarang."
+  },
+  {
+    "anchor": "query: Kalau udah siapin rencana jahat tapi terus urung karena nyesel, masih bisa dihukum nggak?",
+    "positive": "passage: Pasal 16 KUHP: Persiapan melakukan Tindak Pidana tidak dipidana jika pelaku menghentikan atau mencegah kemungkinan terciptanya kondisi sebagaimana dimaksud dalam Pasal 15 ayat (1).",
+    "negative": "passage: Pasal 14 KUHP: Permufakatan jahat melakukan Tindak Pidana tidak dipidana, jika pelaku: a. menarik diri dari kesepakatan itu; atau b. melakukan tindakan yang patut untuk mencegah terjadinya Tindak Pidana."
+  },
+  {
+    "anchor": "query: Apa bedanya coba-coba ngelakuin kejahatan sama yang udah berhasil?",
+    "positive": "passage: Pasal 17 KUHP: (1) Percobaan melakukan Tindak Pidana terjadi jika niat pelaku telah nyata dari adanya permulaan pelaksanaan dari Tindak Pidana yang dituju, tetapi pelaksanaannya tidak selesai, tidak mencapai hasil, atau tidak menimbulkan akibat yang dilarang, bukan karena semata-mata atas kehendaknya sendiri.",
+    "negative": "passage: Pasal 12 KUHP: (1) Tindak Pidana merupakan perbuatan yang oleh peraturan perundang-undangan diancam dengan sanksi pidana dan/ atau tindakan. (2) Untuk dinyatakan sebagai Tindak Pidana, suatu perbuatan harus bersifat melawan hukum."
+  },
+  {
+    "anchor": "query: Kalau udah mulai ngelakuin kejahatan tapi terus berhenti karena nyesel, masih bisa dihukum?",
+    "positive": "passage: Pasal 18 KUHP: (1) Percobaan melakukan Tindak Pidana tidak dipidana jika pelaku setelah melakukan permulaan pelaksanaan: a. tidak menyelesaikan perbuatannya karena kehendaknya sendiri secara sukarela; atau b. dengan kehendaknya sendiri mencegah tercapainya tujuan atau akibat perbuatannya.",
+    "negative": "passage: Pasal 16 KUHP: Persiapan melakukan Tindak Pidana tidak dipidana jika pelaku menghentikan atau mencegah kemungkinan terciptanya kondisi sebagaimana dimaksud dalam Pasal 15 ayat (1)."
+  },
+  {
+    "anchor": "query: Coba-coba ngelakuin kejahatan kecil yang cuma diancam denda, itu dihukum nggak?",
+    "positive": "passage: Pasal 19 KUHP: Percobaan melakukan Tindak Pidana yang hanya diancam dengan pidana denda paling banyak kategori II, tidak dipidana.",
+    "negative": "passage: Pasal 17 KUHP: (3) Pidana untuk percobaan melakukan Tindak Pidana paling banyak 2/3 (dua per tiga) dari maksimum ancaman pidana pokok untuk Tindak Pidana yang bersangkutan."
+  },
+  {
+    "anchor": "query: Siapa aja sih yang bisa dianggap sebagai pelaku utama kejahatan?",
+    "positive": "passage: Pasal 20 KUHP: Setiap Orang dipidana sebagai pelaku Tindak Pidana jika: a. melakukan sendiri Tindak Pidana; b. melakukan Tindak Pidana dengan perantaraan alat atau menyuruh orang lain yang tidak dapat dipertanggungjawabkan; c. turut serta melakukan Tindak Pidana; atau d. menggerakkan orang lain supaya melakukan Tindak Pidana.",
+    "negative": "passage: Pasal 21 KUHP: (1) Setiap Orang dipidana sebagai pembantu Tindak Pidana jika dengan sengaja: a. memberi kesempatan, sarana, atau keterangan untuk melakukan Tindak Pidana; atau b. memberi bantuan pada waktu Tindak Pidana dilakukan."
+  },
+  {
+    "anchor": "query: Orang yang cuma bantu-bantu pas kejahatan terjadi, itu ikut kena hukum nggak?",
+    "positive": "passage: Pasal 21 KUHP: (1) Setiap Orang dipidana sebagai pembantu Tindak Pidana jika dengan sengaja: a. memberi kesempatan, sarana, atau keterangan untuk melakukan Tindak Pidana; atau b. memberi bantuan pada waktu Tindak Pidana dilakukan.",
+    "negative": "passage: Pasal 20 KUHP: Setiap Orang dipidana sebagai pelaku Tindak Pidana jika: a. melakukan sendiri Tindak Pidana; b. melakukan Tindak Pidana dengan perantaraan alat atau menyuruh orang lain yang tidak dapat dipertanggungjawabkan."
+  },
+  {
+    "anchor": "query: Gimana kalau ada yang ngajak-ngajak orang lain buat ngelakuin kejahatan?",
+    "positive": "passage: Pasal 20 huruf d KUHP: menggerakkan orang lain supaya melakukan Tindak Pidana dengan cara memberi atau menjanjikan sesuatu, menyalahgunakan kekuasaan atau martabat, melakukan Kekerasan, menggunakan Ancaman Kekerasan, melakukan penyesatan, atau dengan memberi kesempatan, sarana, atau keterangan.",
+    "negative": "passage: Pasal 13 KUHP: (1) Permufakatan jahat terjadi jika 2 (dua) orang atau lebih bersepakat untuk melakukan Tindak Pidana."
+  },
+  {
+    "anchor": "query: Kalau pelaku kejahatan punya disabilitas mental, hukumannya beda nggak?",
+    "positive": "passage: Pasal 38 KUHP: Setiap Orang yang pada waktu melakukan Tindak Pidana menyandang disabilitas mental dan/atau disabilitas intelektual dapat dikurangi pidananya dan/atau dikenai tindakan.",
+    "negative": "passage: Pasal 40 KUHP: Pertanggungjawaban pidana tidak dapat dikenakan terhadap anak yang pada waktu melakukan Tindak Pidana belum berumur 12 (dua belas) tahun."
+  },
+  {
+    "anchor": "query: Anak kecil yang belum 12 tahun ngelakuin kejahatan, bisa dihukum nggak?",
+    "positive": "passage: Pasal 40 KUHP: Pertanggungjawaban pidana tidak dapat dikenakan terhadap anak yang pada waktu melakukan Tindak Pidana belum berumur 12 (dua belas) tahun.",
+    "negative": "passage: Pasal 38 KUHP: Setiap Orang yang pada waktu melakukan Tindak Pidana menyandang disabilitas mental dan/atau disabilitas intelektual dapat dikurangi pidananya dan/atau dikenai tindakan."
+  },
+  {
+    "anchor": "query: Kalau ada anak di bawah 12 tahun yang diduga ngelakuin kejahatan, nanti gimana penanganannya?",
+    "positive": "passage: Pasal 41 KUHP: Dalam hal anak yang belum berumur 12 (dua belas) tahun melakukan atau diduga melakukan Tindak Pidana, penyidik, pembimbing kemasyarakatan, dan pekerja sosial profesional mengambil keputusan untuk: a. menyerahkan kembali kepada Orang Tua/wali; atau b. mengikutsertakan dalam program pendidikan, pembinaan, dan pembimbingan di instansi pemerintah atau lembaga penyelenggaraan kesejahteraan sosial, paling lama 6 (enam) Bulan.",
+    "negative": "passage: Pasal 40 KUHP: Pertanggungjawaban pidana tidak dapat dikenakan terhadap anak yang pada waktu melakukan Tindak Pidana belum berumur 12 (dua belas) tahun."
+  },
+  {
+    "anchor": "query: Orang yang dipaksa ngelakuin kejahatan karena diancam, itu masih bisa dihukum nggak?",
+    "positive": "passage: Pasal 42 KUHP: Setiap Orang yang melakukan Tindak Pidana tidak dipidana karena: a. dipaksa oleh kekuatan yang tidak dapat ditahan; atau b. dipaksa oleh adanya ancaman, tekanan, atau kekuatan yang tidak dapat dihindari.",
+    "negative": "passage: Pasal 34 KUHP: Setiap Orang yang terpaksa melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan karena pembelaan terhadap serangan atau ancaman serangan seketika yang melawan hukum terhadap diri sendiri atau orang lain."
+  },
+  {
+    "anchor": "query: Kalau bela diri tapi kebablasan, masih bisa dihukum nggak?",
+    "positive": "passage: Pasal 43 KUHP: Setiap Orang yang melakukan pembelaan terpaksa yang melampaui batas yang langsung disebabkan keguncangan jiwa yang hebat karena serangan atau ancaman serangan seketika yang melawan hukum, tidak dipidana.",
+    "negative": "passage: Pasal 34 KUHP: Setiap Orang yang terpaksa melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan karena pembelaan terhadap serangan atau ancaman serangan seketika yang melawan hukum."
+  },
+  {
+    "anchor": "query: Perintah atasan yang nggak punya wewenang, kalau diikuti terus jadi kejahatan, gimana?",
+    "positive": "passage: Pasal 44 KUHP: Perintah jabatan yang diberikan tanpa wewenang tidak mengakibatkan hapusnya pidana, kecuali jika orang yang diperintahkan dengan iktikad baik mengira bahwa perintah tersebut diberikan dengan wewenang dan pelaksanaannya, termasuk dalam lingkup pekerjaannya.",
+    "negative": "passage: Pasal 32 KUHP: Setiap Orang yang melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan untuk melaksanakan perintah jabatan dari Pejabat yang berwenang."
+  },
+  {
+    "anchor": "query: Perusahaan atau korporasi bisa nggak sih dihukum kalau ngelakuin kejahatan?",
+    "positive": "passage: Pasal 45 KUHP: (1) Korporasi merupakan subjek Tindak Pidana. (2) Korporasi sebagaimana dimaksud pada ayat (1) mencakup badan hukum yang berbentuk perseroan terbatas, yayasan, koperasi, badan usaha milik negara, badan usaha milik daerah, atau yang disamakan dengan itu.",
+    "negative": "passage: Pasal 20 KUHP: Setiap Orang dipidana sebagai pelaku Tindak Pidana jika: a. melakukan sendiri Tindak Pidana; b. melakukan Tindak Pidana dengan perantaraan alat atau menyuruh orang lain yang tidak dapat dipertanggungjawabkan."
+  },
+  {
+    "anchor": "query: Kapan sih korporasi bisa dianggap ngelakuin kejahatan?",
+    "positive": "passage: Pasal 46 KUHP: Tindak Pidana oleh Korporasi merupakan Tindak Pidana yang dilakukan oleh pengurus yang mempunyai kedudukan fungsional dalam struktur organisasi Korporasi atau orang yang berdasarkan hubungan kerja atau berdasarkan hubungan lain yang bertindak untuk dan atas nama Korporasi atau bertindak demi kepentingan Korporasi, dalam lingkup usaha atau kegiatan Korporasi tersebut.",
+    "negative": "passage: Pasal 48 KUHP: Tindak Pidana oleh Korporasi dapat dipertanggungjawabkan, jika: a. termasuk dalam lingkup usaha atau kegiatan sebagaimana ditentukan dalam anggaran dasar; b. menguntungkan Korporasi secara melawan hukum; c. diterima sebagai kebijakan Korporasi."
+  },
+  {
+    "anchor": "query: Siapa aja di perusahaan yang bisa ikut kena hukum kalau korporasi ngelakuin kejahatan?",
+    "positive": "passage: Pasal 49 KUHP: Pertanggungjawaban atas Tindak Pidana oleh Korporasi dikenakan terhadap Korporasi, pengurus yang mempunyai kedudukan fungsional, pemberi perintah, pemegang kendali, dan/ atau pemilik manfaat Korporasi.",
+    "negative": "passage: Pasal 21 KUHP: (1) Setiap Orang dipidana sebagai pembantu Tindak Pidana jika dengan sengaja: a. memberi kesempatan, sarana, atau keterangan untuk melakukan Tindak Pidana; atau b. memberi bantuan pada waktu Tindak Pidana dilakukan."
+  },
+  {
+    "anchor": "query: Kalau udah pernah dihukum terus ngelakuin kejahatan lagi dalam 5 tahun, itu gimana?",
+    "positive": "passage: Pasal 23 KUHP: (1) Pengulangan Tindak Pidana terjadi jika Setiap Orang: a. melakukan Tindak Pidana kembali dalam waktu 5 (lima) tahun setelah menjalani seluruh atau sebagian pidana pokok yang dijatuhkan atau pidana pokok yang dijatuhkan telah dihapuskan.",
+    "negative": "passage: Pasal 58 KUHP: Faktor yang memperberat pidana meliputi: a. Pejabat yang melakukan Tindak Pidana sehingga melanggar kewajiban jabatan yang khusus; b. penggunaan bendera kebangsaan, lagu kebangsaan, atau lambang negara Indonesia pada waktu melakukan Tindak Pidana; atau c. pengulangan Tindak Pidana."
+  },
+  {
+    "anchor": "query: Kejahatan macam apa aja sih yang cuma bisa dituntut kalau ada yang ngadu?",
+    "positive": "passage: Pasal 24 KUHP: (1) Dalam hal tertentu, pelaku Tindak Pidana hanya dapat dituntut atas dasar pengaduan. (2) Tindak Pidana aduan harus ditentukan secara tegas dalam Undang-Undang.",
+    "negative": "passage: Pasal 12 KUHP: (1) Tindak Pidana merupakan perbuatan yang oleh peraturan perundang-undangan diancam dengan sanksi pidana dan/ atau tindakan."
+  },
+  {
+    "anchor": "query: Kalau korban kejahatan aduan itu masih anak-anak, siapa yang berhak ngadu?",
+    "positive": "passage: Pasal 25 KUHP: (1) Dalam hal Korban Tindak Pidana aduan belum berumur 16 (enam belas) tahun, yang berhak mengadu merupakan Orang Tua atau walinya. (2) Dalam hal Orang Tua atau wali tidak ada atau Orang Tua atau wali itu sendiri yang harus diadukan, pengaduan dilakukan oleh keluarga sedarah dalam garis lurus.",
+    "negative": "passage: Pasal 26 KUHP: (1) Dalam hal Korban Tindak Pidana aduan berada di bawah pengampuan, yang berhak mengadu merupakan pengampunya, kecuali bagi Korban Tindak Pidana aduan yang berada dalam pengampuan karena boros."
+  },
+  {
+    "anchor": "query: Berapa lama sih waktu buat ngadu kalau mau nuntut pelaku kejahatan aduan?",
+    "positive": "passage: Pasal 29 KUHP: (1) Pengaduan harus diajukan dalam tenggang waktu: a. 6 (enam) Bulan terhitung sejak tanggal orang yang berhak mengadu mengetahui adanya Tindak Pidana jika yang berhak mengadu bertempat tinggal di wilayah Negara Kesatuan Republik Indonesia; atau b. 9 (sembilan) Bulan jika bertempat tinggal di luar wilayah NKRI.",
+    "negative": "passage: Pasal 30 KUHP: (1) Pengaduan dapat ditarik kembali oleh pengadu dalam waktu 3 (tiga) Bulan terhitung sejak tanggal pengaduan diajukan. (2) Pengaduan yang ditarik kembali tidak dapat diajukan lagi."
+  },
+  {
+    "anchor": "query: Bisa nggak sih pencabutan pengaduan setelah ngadu?",
+    "positive": "passage: Pasal 30 KUHP: (1) Pengaduan dapat ditarik kembali oleh pengadu dalam waktu 3 (tiga) Bulan terhitung sejak tanggal pengaduan diajukan. (2) Pengaduan yang ditarik kembali tidak dapat diajukan lagi.",
+    "negative": "passage: Pasal 29 KUHP: (1) Pengaduan harus diajukan dalam tenggang waktu: a. 6 (enam) Bulan terhitung sejak tanggal orang yang berhak mengadu mengetahui adanya Tindak Pidana."
+  },
+  {
+    "anchor": "query: Kalau ngelakuin sesuatu yang dilarang tapi karena ngelakuin tugas jabatan, masih bisa dihukum nggak?",
+    "positive": "passage: Pasal 32 KUHP: Setiap Orang yang melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan untuk melaksanakan perintah jabatan dari Pejabat yang berwenang.",
+    "negative": "passage: Pasal 31 KUHP: Setiap Orang yang melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan untuk melaksanakan ketentuan peraturan perundang-undangan."
+  },
+  {
+    "anchor": "query: Dalam keadaan darurat, boleh nggak ngelakuin sesuatu yang biasanya dilarang?",
+    "positive": "passage: Pasal 33 KUHP: Setiap Orang yang melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan karena keadaan darurat.",
+    "negative": "passage: Pasal 34 KUHP: Setiap Orang yang terpaksa melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan karena pembelaan terhadap serangan atau ancaman serangan seketika yang melawan hukum."
+  },
+  {
+    "anchor": "query: Bela diri dari serangan yang nggak bener, itu bisa jadi alasan nggak dihukum?",
+    "positive": "passage: Pasal 34 KUHP: Setiap Orang yang terpaksa melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan karena pembelaan terhadap serangan atau ancaman serangan seketika yang melawan hukum terhadap diri sendiri atau orang lain, kehormatan dalam arti kesusilaan, atau harta benda sendiri atau orang lain.",
+    "negative": "passage: Pasal 33 KUHP: Setiap Orang yang melakukan perbuatan yang dilarang tidak dipidana, jika perbuatan tersebut dilakukan karena keadaan darurat."
+  },
+  {
+    "anchor": "query: Orang bisa dihukum cuma karena udah ngelakuin perbuatan, tanpa perlu liat niatnya nggak?",
+    "positive": "passage: Pasal 37 KUHP: Dalam hal ditentukan oleh Undang-Undang, Setiap Orang dapat: a. dipidana semata-mata karena telah dipenuhinya unsur-unsur Tindak Pidana tanpa memperhatikan adanya kesalahan; atau b. dimintai pertanggungjawaban atas Tindak Pidana yang dilakukan oleh orang lain.",
+    "negative": "passage: Pasal 36 KUHP: (1) Setiap Orang hanya dapat dimintai pertanggungjawaban atas Tindak Pidana yang dilakukan dengan sengaja atau karena kealpaan."
+  },
+  {
+    "anchor": "query: Apa sih yang harus dipertimbangin hakim waktu ngasih hukuman?",
+    "positive": "passage: Pasal 54 KUHP: (1) Dalam pemidanaan wajib dipertimbangkan: a. bentuk kesalahan pelaku Tindak Pidana; b. motif dan tujuan melakukan Tindak Pidana; c. sikap batin pelaku Tindak Pidana; d. Tindak Pidana dilakukan dengan direncanakan atau tidak direncanakan; e. cara melakukan Tindak Pidana; f. sikap dan tindakan pelaku sesudah melakukan Tindak Pidana.",
+    "negative": "passage: Pasal 51 KUHP: Pemidanaan bertujuan: a. mencegah dilakukannya Tindak Pidana dengan menegakkan norma hukum demi pelindungan dan pengayoman masyarakat; b. memasyarakatkan terpidana dengan mengadakan pembinaan dan pembimbingan."
+  },
+  {
+    "anchor": "query: Hukuman itu tujuannya buat apa sih sebenarnya?",
+    "positive": "passage: Pasal 51 KUHP: Pemidanaan bertujuan: a. mencegah dilakukannya Tindak Pidana dengan menegakkan norma hukum demi pelindungan dan pengayoman masyarakat; b. memasyarakatkan terpidana dengan mengadakan pembinaan dan pembimbingan agar menjadi orang yang baik dan berguna; c. menyelesaikan konflik yang ditimbulkan akibat Tindak Pidana, memulihkan keseimbangan, serta mendatangkan rasa aman dan damai dalam masyarakat.",
+    "negative": "passage: Pasal 52 KUHP: Pemidanaan tidak dimaksudkan untuk merendahkan martabat manusia."
+  },
+  {
+    "anchor": "query: Faktor apa aja yang bisa bikin hukuman jadi lebih berat?",
+    "positive": "passage: Pasal 58 KUHP: Faktor yang memperberat pidana meliputi: a. Pejabat yang melakukan Tindak Pidana sehingga melanggar kewajiban jabatan yang khusus atau melakukan Tindak Pidana dengan menyalahgunakan kewenangan, kesempatan, atau sarana yang diberikan kepadanya karena jabatan; b. penggunaan bendera kebangsaan, lagu kebangsaan, atau lambang negara Indonesia pada waktu melakukan Tindak Pidana; atau c. pengulangan Tindak Pidana.",
+    "negative": "passage: Pasal 54 KUHP: (1) Dalam pemidanaan wajib dipertimbangkan: a. bentuk kesalahan pelaku Tindak Pidana; b. motif dan tujuan melakukan Tindak Pidana; c. sikap batin pelaku Tindak Pidana."
+  },
+  {
+    "anchor": "query: Kalau lagi nunggu putusan pengadilan, masa penangkapan bisa dihitung sebagai waktu hukuman nggak?",
+    "positive": "passage: Pasal 61 KUHP: (1) Pidana penjara untuk waktu tertentu atau pidana denda yang dijatuhkan dikurangi seluruh atau sebagian masa penangkapan dan/atau penahanan yang telah dijalani terdakwa sebelum putusan pengadilan memperoleh kekuatan hukum tetap.",
+    "negative": "passage: Pasal 60 KUHP: (1) Pidana penjara dan pidana tutupan bagi terpidana yang sudah berada di dalam tahanan mulai berlaku pada saat putusan pengadilan telah memperoleh kekuatan hukum tetap."
+  },
+  {
+    "anchor": "query: Kalau narapidana kabur, masa kaburnya itu dihitung sebagai waktu menjalani hukuman nggak?",
+    "positive": "passage: Pasal 63 KUHP: Jika narapidana melarikan diri, masa selama narapidana melarikan diri tidak diperhitungkan sebagai waktu menjalani pidana penjara.",
+    "negative": "passage: Pasal 61 KUHP: (1) Pidana penjara untuk waktu tertentu atau pidana denda yang dijatuhkan dikurangi seluruh atau sebagian masa penangkapan dan/atau penahanan yang telah dijalani terdakwa sebelum putusan pengadilan memperoleh kekuatan hukum tetap."
+  },
+  {
+    "anchor": "query: Mohon grasi itu nunda nggak sih pelaksanaan hukuman?",
+    "positive": "passage: Pasal 62 KUHP: (1) Permohonan grasi tidak menunda pelaksanaan putusan pemidanaan bagi terpidana, kecuali dalam hal putusan pidana mati. (2) Ketentuan mengenai syarat dan tata cara permohonan grasi sebagaimana dimaksud pada ayat (1) diatur dalam Undang-Undang.",
+    "negative": "passage: Pasal 60 KUHP: (1) Pidana penjara dan pidana tutupan bagi terpidana yang sudah berada di dalam tahanan mulai berlaku pada saat putusan pengadilan telah memperoleh kekuatan hukum tetap."
+  }
+]

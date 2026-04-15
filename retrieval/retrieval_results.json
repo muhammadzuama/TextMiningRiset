@@ -1,0 +1,744 @@
+{
+  "queries": [
+    "Apa hak-hak warga negara yang dijamin dalam UUD 1945?",
+    "Bunyi pasal 1 UUD 1945 tentang bentuk negara",
+    "Bagaimana sistem pemerintahan presiden menurut konstitusi?",
+    "Hak atas pendidikan bagi warga negara Indonesia"
+  ],
+  "methods": [
+    "bm25",
+    "tfidf",
+    "semantic"
+  ],
+  "method_labels": {
+    "bm25": "BM25",
+    "tfidf": "TF-IDF",
+    "semantic": "Semantic (FAISS + BGE-M3)"
+  },
+  "method_descriptions": {
+    "bm25": "Keyword matching berbasis frekuensi kata, dengan normalisasi panjang dokumen. Unggul untuk query eksak / istilah spesifik.",
+    "tfidf": "Term Frequency–Inverse Document Frequency dengan bigram. Memberi bobot lebih pada kata langka di corpus. Mirip BM25 tapi tanpa normalisasi panjang.",
+    "semantic": "Dense vector embedding (BGE-M3) + FAISS cosine similarity. Menangkap makna semantik walau kata berbeda."
+  },
+  "results": {
+    "Apa hak-hak warga negara yang dijamin dalam UUD 1945?": {
+      "bm25": [
+        {
+          "rank": 1,
+          "content": "{\"id\": \"psl_30_ay_1\", \"pasal\": 30, \"ayat\": 1, \"bab\": \"BAB XII - PERTAHANAN NEGARA\", \"content\": \"Tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pembelaan negara.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "warga",
+            "negara",
+            "dalam"
+          ],
+          "char_count": 178
+        },
+        {
+          "rank": 2,
+          "content": "{\"id\": \"psl_18_ay_1\", \"pasal\": 18, \"ayat\": 1, \"bab\": \"BAB VI - PEMERINTAHAN DAERAH\", \"content\": \"Pembagian daerah Indonesia atas daerah besar dan kecil, dengan bentuk susunan pemerintahannya ditetapkan dengan undang-undang, dengan memandang dan mengingati dasar permusyawaratan dalam sistem pemerintahan negara, dan hak-hak asal-usul dalam daerah-daerah yang bersifat istimewa.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "hak-hak",
+            "negara",
+            "dalam",
+            "yang"
+          ],
+          "char_count": 379
+        },
+        {
+          "rank": 3,
+          "content": "{\"id\": \"psl_26_ay_1\", \"pasal\": 26, \"ayat\": 1, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Yang menjadi warga negara ialah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "warga",
+            "negara",
+            "yang"
+          ],
+          "char_count": 241
+        },
+        {
+          "rank": 4,
+          "content": "{\"id\": \"psl_27_ay_1\", \"pasal\": 27, \"ayat\": 1, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Segala warga negara bersamaan kedudukannya dalam hukum dan pemerintahan dan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada kecualinya.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "warga",
+            "negara",
+            "dalam"
+          ],
+          "char_count": 239
+        },
+        {
+          "rank": 5,
+          "content": "{\"id\": \"psl_27_ay_2\", \"pasal\": 27, \"ayat\": 2, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "warga",
+            "negara",
+            "yang"
+          ],
+          "char_count": 180
+        }
+      ],
+      "tfidf": [
+        {
+          "rank": 1,
+          "content": "{\"id\": \"psl_18_ay_1\", \"pasal\": 18, \"ayat\": 1, \"bab\": \"BAB VI - PEMERINTAHAN DAERAH\", \"content\": \"Pembagian daerah Indonesia atas daerah besar dan kecil, dengan bentuk susunan pemerintahannya ditetapkan dengan undang-undang, dengan memandang dan mengingati dasar permusyawaratan dalam sistem pemerintahan negara, dan hak-hak asal-usul dalam daerah-daerah yang bersifat istimewa.\"}",
+          "score": 0.2390027226868126,
+          "score_label": "0.2390",
+          "keywords_found": [
+            "hak-hak",
+            "negara",
+            "dalam",
+            "yang"
+          ],
+          "char_count": 379
+        },
+        {
+          "rank": 2,
+          "content": "{\"id\": \"psl_26_ay_1\", \"pasal\": 26, \"ayat\": 1, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Yang menjadi warga negara ialah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara.\"}",
+          "score": 0.17252831596664125,
+          "score_label": "0.1725",
+          "keywords_found": [
+            "warga",
+            "negara",
+            "yang"
+          ],
+          "char_count": 241
+        },
+        {
+          "rank": 3,
+          "content": "{\"id\": \"psl_27_ay_2\", \"pasal\": 27, \"ayat\": 2, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan.\"}",
+          "score": 0.1670561198969253,
+          "score_label": "0.1671",
+          "keywords_found": [
+            "warga",
+            "negara",
+            "yang"
+          ],
+          "char_count": 180
+        },
+        {
+          "rank": 4,
+          "content": "{\"id\": \"psl_27_ay_1\", \"pasal\": 27, \"ayat\": 1, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Segala warga negara bersamaan kedudukannya dalam hukum dan pemerintahan dan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada kecualinya.\"}",
+          "score": 0.14211195732579016,
+          "score_label": "0.1421",
+          "keywords_found": [
+            "warga",
+            "negara",
+            "dalam"
+          ],
+          "char_count": 239
+        },
+        {
+          "rank": 5,
+          "content": "{\"id\": \"psl_26_ay_2\", \"pasal\": 26, \"ayat\": 2, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Syarat-syarat yang mengenai kewarganegaraan ditetapkan dengan undang-undang.\"}",
+          "score": 0.12979876335930673,
+          "score_label": "0.1298",
+          "keywords_found": [
+            "warga",
+            "negara",
+            "yang"
+          ],
+          "char_count": 167
+        }
+      ],
+      "semantic": [
+        {
+          "rank": 1,
+          "content": "{\"id\": \"psl_27_ay_2\", \"pasal\": 27, \"ayat\": 2, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan.\"}",
+          "score": 0.8852487206459045,
+          "score_label": "0.8852",
+          "keywords_found": [
+            "warga",
+            "negara",
+            "yang"
+          ],
+          "char_count": 180
+        },
+        {
+          "rank": 2,
+          "content": "{\"id\": \"psl_27_ay_1\", \"pasal\": 27, \"ayat\": 1, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Segala warga negara bersamaan kedudukannya dalam hukum dan pemerintahan dan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada kecualinya.\"}",
+          "score": 0.9258193969726562,
+          "score_label": "0.9258",
+          "keywords_found": [
+            "warga",
+            "negara",
+            "dalam"
+          ],
+          "char_count": 239
+        },
+        {
+          "rank": 3,
+          "content": "Republik Indonesia) dengan sebaik-baiknya dan seadil-adilnya, memegang teguh Undang- Undang Dasar dan menjalankan segala undang-undang dan peraturannya dengan selurus-lurusnya serta berbakti kepada Nusa dan Bangsa",
+          "score": 0.9587337970733643,
+          "score_label": "0.9587",
+          "keywords_found": [],
+          "char_count": 213
+        },
+        {
+          "rank": 4,
+          "content": "{\"id\": \"psl_30_ay_1\", \"pasal\": 30, \"ayat\": 1, \"bab\": \"BAB XII - PERTAHANAN NEGARA\", \"content\": \"Tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pembelaan negara.\"}",
+          "score": 0.9680209159851074,
+          "score_label": "0.9680",
+          "keywords_found": [
+            "warga",
+            "negara",
+            "dalam"
+          ],
+          "char_count": 178
+        },
+        {
+          "rank": 5,
+          "content": "{\"id\": \"psl_28_ay_1\", \"pasal\": 28, \"ayat\": 1, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Kemerdekaan berserikat dan berkumpul, mengeluarkan pikiran dengan lisan dan tulisan dan sebagainya ditetapkan dengan undang-undang.\"}",
+          "score": 0.9850762486457825,
+          "score_label": "0.9851",
+          "keywords_found": [
+            "warga",
+            "negara"
+          ],
+          "char_count": 222
+        }
+      ]
+    },
+    "Bunyi pasal 1 UUD 1945 tentang bentuk negara": {
+      "bm25": [
+        {
+          "rank": 1,
+          "content": "{\"id\": \"psl_23_ay_5\", \"pasal\": 23, \"ayat\": 5, \"bab\": \"BAB VIII - HAL KEUANGAN\", \"content\": \"Untuk memeriksa tanggung jawab tentang keuangan negara diadakan suatu Badan Pemeriksa Keuangan, yang peraturannya ditetapkan dengan undang-undang. Hasil pemeriksaan itu diberitahukan kepada Dewan Perwakilan Rakyat.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "tentang",
+            "negara",
+            "pasal"
+          ],
+          "char_count": 308
+        },
+        {
+          "rank": 2,
+          "content": "{\"id\": \"psl_30_ay_2\", \"pasal\": 30, \"ayat\": 2, \"bab\": \"BAB XII - PERTAHANAN NEGARA\", \"content\": \"Syarat-syarat tentang pembelaan diatur dengan undang-undang.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "tentang",
+            "negara",
+            "pasal"
+          ],
+          "char_count": 158
+        },
+        {
+          "rank": 3,
+          "content": "{\"id\": \"psl_18_ay_1\", \"pasal\": 18, \"ayat\": 1, \"bab\": \"BAB VI - PEMERINTAHAN DAERAH\", \"content\": \"Pembagian daerah Indonesia atas daerah besar dan kecil, dengan bentuk susunan pemerintahannya ditetapkan dengan undang-undang, dengan memandang dan mengingati dasar permusyawaratan dalam sistem pemerintahan negara, dan hak-hak asal-usul dalam daerah-daerah yang bersifat istimewa.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "bentuk",
+            "negara",
+            "pasal"
+          ],
+          "char_count": 379
+        },
+        {
+          "rank": 4,
+          "content": "{\"id\": \"psl_31_ay_1\", \"pasal\": 31, \"ayat\": 1, \"bab\": \"BAB XIII - PENDIDIKAN\", \"content\": \"Tiap-tiap warga negara berhak mendapat pengajaran.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "negara",
+            "pasal"
+          ],
+          "char_count": 142
+        },
+        {
+          "rank": 5,
+          "content": "{\"id\": \"psl_13_ay_2\", \"pasal\": 13, \"ayat\": 2, \"bab\": \"BAB III - KEKUASAAN PEMERINTAH NEGARA\", \"content\": \"Presiden menerima duta negara lain.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "negara",
+            "pasal"
+          ],
+          "char_count": 143
+        }
+      ],
+      "tfidf": [
+        {
+          "rank": 1,
+          "content": "{\"id\": \"psl_30_ay_2\", \"pasal\": 30, \"ayat\": 2, \"bab\": \"BAB XII - PERTAHANAN NEGARA\", \"content\": \"Syarat-syarat tentang pembelaan diatur dengan undang-undang.\"}",
+          "score": 0.16716040938798976,
+          "score_label": "0.1672",
+          "keywords_found": [
+            "tentang",
+            "negara",
+            "pasal"
+          ],
+          "char_count": 158
+        },
+        {
+          "rank": 2,
+          "content": "{\"id\": \"psl_1_ay_1\", \"pasal\": 1, \"ayat\": 1, \"bab\": \"BAB I - BENTUK DAN KEDAULATAN\", \"content\": \"Negara Indonesia ialah Negara kesatuan yang berbentuk Republik.\"}",
+          "score": 0.16367165306405493,
+          "score_label": "0.1637",
+          "keywords_found": [
+            "bentuk",
+            "negara",
+            "pasal"
+          ],
+          "char_count": 161
+        },
+        {
+          "rank": 3,
+          "content": "{\"id\": \"psl_1_ay_2\", \"pasal\": 1, \"ayat\": 2, \"bab\": \"BAB I - BENTUK DAN KEDAULATAN\", \"content\": \"Kedaulatan adalah di tangan rakyat, dan dilakukan sepenuhnya oleh Majelis Permusyawaratan Rakyat.\"}",
+          "score": 0.11328168523707817,
+          "score_label": "0.1133",
+          "keywords_found": [
+            "bentuk",
+            "pasal"
+          ],
+          "char_count": 195
+        },
+        {
+          "rank": 4,
+          "content": "{\"id\": \"psl_23_ay_5\", \"pasal\": 23, \"ayat\": 5, \"bab\": \"BAB VIII - HAL KEUANGAN\", \"content\": \"Untuk memeriksa tanggung jawab tentang keuangan negara diadakan suatu Badan Pemeriksa Keuangan, yang peraturannya ditetapkan dengan undang-undang. Hasil pemeriksaan itu diberitahukan kepada Dewan Perwakilan Rakyat.\"}",
+          "score": 0.11024469887569953,
+          "score_label": "0.1102",
+          "keywords_found": [
+            "tentang",
+            "negara",
+            "pasal"
+          ],
+          "char_count": 308
+        },
+        {
+          "rank": 5,
+          "content": "{\"id\": \"psl_18_ay_1\", \"pasal\": 18, \"ayat\": 1, \"bab\": \"BAB VI - PEMERINTAHAN DAERAH\", \"content\": \"Pembagian daerah Indonesia atas daerah besar dan kecil, dengan bentuk susunan pemerintahannya ditetapkan dengan undang-undang, dengan memandang dan mengingati dasar permusyawaratan dalam sistem pemerintahan negara, dan hak-hak asal-usul dalam daerah-daerah yang bersifat istimewa.\"}",
+          "score": 0.07925451005408121,
+          "score_label": "0.0793",
+          "keywords_found": [
+            "bentuk",
+            "negara",
+            "pasal"
+          ],
+          "char_count": 379
+        }
+      ],
+      "semantic": [
+        {
+          "rank": 1,
+          "content": "{\"id\": \"psl_1_ay_1\", \"pasal\": 1, \"ayat\": 1, \"bab\": \"BAB I - BENTUK DAN KEDAULATAN\", \"content\": \"Negara Indonesia ialah Negara kesatuan yang berbentuk Republik.\"}",
+          "score": 0.7856018543243408,
+          "score_label": "0.7856",
+          "keywords_found": [
+            "bentuk",
+            "negara",
+            "pasal"
+          ],
+          "char_count": 161
+        },
+        {
+          "rank": 2,
+          "content": "{\"id\": \"psl_29_ay_1\", \"pasal\": 29, \"ayat\": 1, \"bab\": \"BAB XI - AGAMA\", \"content\": \"Negara berdasar atas Ketuhanan Yang Maha Esa.\"}",
+          "score": 0.9747375249862671,
+          "score_label": "0.9747",
+          "keywords_found": [
+            "negara",
+            "pasal"
+          ],
+          "char_count": 130
+        },
+        {
+          "rank": 3,
+          "content": "{\"id\": \"psl_28_ay_1\", \"pasal\": 28, \"ayat\": 1, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Kemerdekaan berserikat dan berkumpul, mengeluarkan pikiran dengan lisan dan tulisan dan sebagainya ditetapkan dengan undang-undang.\"}",
+          "score": 1.0062451362609863,
+          "score_label": "1.0062",
+          "keywords_found": [
+            "negara",
+            "pasal"
+          ],
+          "char_count": 222
+        },
+        {
+          "rank": 4,
+          "content": "{\"id\": \"psl_3_ay_1\", \"pasal\": 3, \"ayat\": 1, \"bab\": \"BAB II - MAJELIS PERMUSYAWARATAN RAKYAT\", \"content\": \"Majelis Permusyawaratan Rakyat menetapkan Undang-Undang Dasar dan garis-garis besar dari ada haluan negara.\"}",
+          "score": 1.008838415145874,
+          "score_label": "1.0088",
+          "keywords_found": [
+            "negara",
+            "pasal"
+          ],
+          "char_count": 215
+        },
+        {
+          "rank": 5,
+          "content": "{\"id\": \"psl_27_ay_1\", \"pasal\": 27, \"ayat\": 1, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Segala warga negara bersamaan kedudukannya dalam hukum dan pemerintahan dan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada kecualinya.\"}",
+          "score": 1.0143601894378662,
+          "score_label": "1.0144",
+          "keywords_found": [
+            "negara",
+            "pasal"
+          ],
+          "char_count": 239
+        }
+      ]
+    },
+    "Bagaimana sistem pemerintahan presiden menurut konstitusi?": {
+      "bm25": [
+        {
+          "rank": 1,
+          "content": "{\"id\": \"psl_4_ay_1\", \"pasal\": 4, \"ayat\": 1, \"bab\": \"BAB III - KEKUASAAN PEMERINTAH NEGARA\", \"content\": \"Presiden Republik Indonesia memegang kekuasaan pemerintahan menurut Undang-Undang Dasar.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "presiden",
+            "menurut",
+            "pemerintahan"
+          ],
+          "char_count": 194
+        },
+        {
+          "rank": 2,
+          "content": "{\"id\": \"psl_18_ay_1\", \"pasal\": 18, \"ayat\": 1, \"bab\": \"BAB VI - PEMERINTAHAN DAERAH\", \"content\": \"Pembagian daerah Indonesia atas daerah besar dan kecil, dengan bentuk susunan pemerintahannya ditetapkan dengan undang-undang, dengan memandang dan mengingati dasar permusyawaratan dalam sistem pemerintahan negara, dan hak-hak asal-usul dalam daerah-daerah yang bersifat istimewa.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "sistem",
+            "pemerintahan"
+          ],
+          "char_count": 379
+        },
+        {
+          "rank": 3,
+          "content": "{\"id\": \"psl_27_ay_1\", \"pasal\": 27, \"ayat\": 1, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Segala warga negara bersamaan kedudukannya dalam hukum dan pemerintahan dan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada kecualinya.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "pemerintahan"
+          ],
+          "char_count": 239
+        },
+        {
+          "rank": 4,
+          "content": "{\"id\": \"psl_31_ay_2\", \"pasal\": 31, \"ayat\": 2, \"bab\": \"BAB XIII - PENDIDIKAN\", \"content\": \"Pemerintah mengusahakan dan menyelenggarakan satu sistem pengajaran nasional, yang diatur dengan undang-undang.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "sistem"
+          ],
+          "char_count": 203
+        },
+        {
+          "rank": 5,
+          "content": "{\"id\": \"psl_ap_1_ay_1\", \"pasal\": 1, \"ayat\": 1, \"bab\": \"ATURAN PERALIHAN\", \"content\": \"Panitia Persiapan Kemerdekaan Indonesia mengatur dan menyelenggarakan kepindahan pemerintahan kepada Pemerintah Indonesia.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "pemerintahan"
+          ],
+          "char_count": 210
+        }
+      ],
+      "tfidf": [
+        {
+          "rank": 1,
+          "content": "{\"id\": \"psl_18_ay_1\", \"pasal\": 18, \"ayat\": 1, \"bab\": \"BAB VI - PEMERINTAHAN DAERAH\", \"content\": \"Pembagian daerah Indonesia atas daerah besar dan kecil, dengan bentuk susunan pemerintahannya ditetapkan dengan undang-undang, dengan memandang dan mengingati dasar permusyawaratan dalam sistem pemerintahan negara, dan hak-hak asal-usul dalam daerah-daerah yang bersifat istimewa.\"}",
+          "score": 0.18784449549498275,
+          "score_label": "0.1878",
+          "keywords_found": [
+            "sistem",
+            "pemerintahan"
+          ],
+          "char_count": 379
+        },
+        {
+          "rank": 2,
+          "content": "{\"id\": \"psl_4_ay_1\", \"pasal\": 4, \"ayat\": 1, \"bab\": \"BAB III - KEKUASAAN PEMERINTAH NEGARA\", \"content\": \"Presiden Republik Indonesia memegang kekuasaan pemerintahan menurut Undang-Undang Dasar.\"}",
+          "score": 0.1776079642353882,
+          "score_label": "0.1776",
+          "keywords_found": [
+            "presiden",
+            "menurut",
+            "pemerintahan"
+          ],
+          "char_count": 194
+        },
+        {
+          "rank": 3,
+          "content": "{\"id\": \"psl_31_ay_2\", \"pasal\": 31, \"ayat\": 2, \"bab\": \"BAB XIII - PENDIDIKAN\", \"content\": \"Pemerintah mengusahakan dan menyelenggarakan satu sistem pengajaran nasional, yang diatur dengan undang-undang.\"}",
+          "score": 0.09107518507483901,
+          "score_label": "0.0911",
+          "keywords_found": [
+            "sistem"
+          ],
+          "char_count": 203
+        },
+        {
+          "rank": 4,
+          "content": "{\"id\": \"psl_27_ay_1\", \"pasal\": 27, \"ayat\": 1, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Segala warga negara bersamaan kedudukannya dalam hukum dan pemerintahan dan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada kecualinya.\"}",
+          "score": 0.08558049433576624,
+          "score_label": "0.0856",
+          "keywords_found": [
+            "pemerintahan"
+          ],
+          "char_count": 239
+        },
+        {
+          "rank": 5,
+          "content": "{\"id\": \"psl_17_ay_3\", \"pasal\": 17, \"ayat\": 3, \"bab\": \"BAB V - KEMENTERIAN NEGARA\", \"content\": \"Menteri-menteri itu memimpin departemen pemerintahan.\"}",
+          "score": 0.07666121681449378,
+          "score_label": "0.0767",
+          "keywords_found": [
+            "pemerintahan"
+          ],
+          "char_count": 150
+        }
+      ],
+      "semantic": [
+        {
+          "rank": 1,
+          "content": "{\"id\": \"psl_4_ay_1\", \"pasal\": 4, \"ayat\": 1, \"bab\": \"BAB III - KEKUASAAN PEMERINTAH NEGARA\", \"content\": \"Presiden Republik Indonesia memegang kekuasaan pemerintahan menurut Undang-Undang Dasar.\"}",
+          "score": 0.6952232122421265,
+          "score_label": "0.6952",
+          "keywords_found": [
+            "presiden",
+            "menurut",
+            "pemerintahan"
+          ],
+          "char_count": 194
+        },
+        {
+          "rank": 2,
+          "content": "{\"id\": \"psl_7_ay_1\", \"pasal\": 7, \"ayat\": 1, \"bab\": \"BAB III - KEKUASAAN PEMERINTAH NEGARA\", \"content\": \"Presiden dan Wakil Presiden memegang jabatannya selama masa lima tahun, dan sesudahnya dapat dipilih kembali.\"}",
+          "score": 0.8068336248397827,
+          "score_label": "0.8068",
+          "keywords_found": [
+            "presiden"
+          ],
+          "char_count": 215
+        },
+        {
+          "rank": 3,
+          "content": "{\"id\": \"psl_5_ay_2\", \"pasal\": 5, \"ayat\": 2, \"bab\": \"BAB III - KEKUASAAN PEMERINTAH NEGARA\", \"content\": \"Presiden menetapkan peraturan pemerintah untuk menjalankan undang-undang sebagaimana mestinya.\"}",
+          "score": 0.8143763542175293,
+          "score_label": "0.8144",
+          "keywords_found": [
+            "presiden",
+            "bagaimana"
+          ],
+          "char_count": 200
+        },
+        {
+          "rank": 4,
+          "content": "{\"id\": \"psl_8_ay_1\", \"pasal\": 8, \"ayat\": 1, \"bab\": \"BAB III - KEKUASAAN PEMERINTAH NEGARA\", \"content\": \"Jika Presiden mangkat, berhenti, atau tidak dapat melakukan kewajibannya dalam masa jabatannya, ia diganti oleh Wakil Presiden sampai habis waktunya.\"}",
+          "score": 0.8371768593788147,
+          "score_label": "0.8372",
+          "keywords_found": [
+            "presiden"
+          ],
+          "char_count": 255
+        },
+        {
+          "rank": 5,
+          "content": "{\"id\": \"psl_5_ay_1\", \"pasal\": 5, \"ayat\": 1, \"bab\": \"BAB III - KEKUASAAN PEMERINTAH NEGARA\", \"content\": \"Presiden memegang kekuasaan membentuk undang- undang dengan persetujuan Dewan Perwakilan Rakyat.\"}",
+          "score": 0.838432788848877,
+          "score_label": "0.8384",
+          "keywords_found": [
+            "presiden"
+          ],
+          "char_count": 202
+        }
+      ]
+    },
+    "Hak atas pendidikan bagi warga negara Indonesia": {
+      "bm25": [
+        {
+          "rank": 1,
+          "content": "{\"id\": \"psl_27_ay_2\", \"pasal\": 27, \"ayat\": 2, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "warga",
+            "atas",
+            "negara",
+            "bagi"
+          ],
+          "char_count": 180
+        },
+        {
+          "rank": 2,
+          "content": "{\"id\": \"psl_26_ay_1\", \"pasal\": 26, \"ayat\": 1, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Yang menjadi warga negara ialah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "warga",
+            "negara",
+            "indonesia"
+          ],
+          "char_count": 241
+        },
+        {
+          "rank": 3,
+          "content": "{\"id\": \"psl_31_ay_1\", \"pasal\": 31, \"ayat\": 1, \"bab\": \"BAB XIII - PENDIDIKAN\", \"content\": \"Tiap-tiap warga negara berhak mendapat pengajaran.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "warga",
+            "pendidikan",
+            "negara"
+          ],
+          "char_count": 142
+        },
+        {
+          "rank": 4,
+          "content": "{\"id\": \"psl_33_ay_2\", \"pasal\": 33, \"ayat\": 2, \"bab\": \"BAB XIV - KESEJAHTERAAN SOSIAL\", \"content\": \"Cabang-cabang produksi yang penting bagi negara dan yang menguasai hajat hidup orang banyak dikuasai oleh negara.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "negara",
+            "bagi"
+          ],
+          "char_count": 214
+        },
+        {
+          "rank": 5,
+          "content": "{\"id\": \"psl_30_ay_1\", \"pasal\": 30, \"ayat\": 1, \"bab\": \"BAB XII - PERTAHANAN NEGARA\", \"content\": \"Tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pembelaan negara.\"}",
+          "score": null,
+          "score_label": "N/A",
+          "keywords_found": [
+            "warga",
+            "negara"
+          ],
+          "char_count": 178
+        }
+      ],
+      "tfidf": [
+        {
+          "rank": 1,
+          "content": "{\"id\": \"psl_27_ay_2\", \"pasal\": 27, \"ayat\": 2, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan.\"}",
+          "score": 0.2595301759737264,
+          "score_label": "0.2595",
+          "keywords_found": [
+            "warga",
+            "atas",
+            "negara",
+            "bagi"
+          ],
+          "char_count": 180
+        },
+        {
+          "rank": 2,
+          "content": "{\"id\": \"psl_31_ay_1\", \"pasal\": 31, \"ayat\": 1, \"bab\": \"BAB XIII - PENDIDIKAN\", \"content\": \"Tiap-tiap warga negara berhak mendapat pengajaran.\"}",
+          "score": 0.18191509045147025,
+          "score_label": "0.1819",
+          "keywords_found": [
+            "warga",
+            "pendidikan",
+            "negara"
+          ],
+          "char_count": 142
+        },
+        {
+          "rank": 3,
+          "content": "{\"id\": \"psl_26_ay_1\", \"pasal\": 26, \"ayat\": 1, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Yang menjadi warga negara ialah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara.\"}",
+          "score": 0.1706798502260081,
+          "score_label": "0.1707",
+          "keywords_found": [
+            "warga",
+            "negara",
+            "indonesia"
+          ],
+          "char_count": 241
+        },
+        {
+          "rank": 4,
+          "content": "{\"id\": \"psl_18_ay_1\", \"pasal\": 18, \"ayat\": 1, \"bab\": \"BAB VI - PEMERINTAHAN DAERAH\", \"content\": \"Pembagian daerah Indonesia atas daerah besar dan kecil, dengan bentuk susunan pemerintahannya ditetapkan dengan undang-undang, dengan memandang dan mengingati dasar permusyawaratan dalam sistem pemerintahan negara, dan hak-hak asal-usul dalam daerah-daerah yang bersifat istimewa.\"}",
+          "score": 0.13348051589563387,
+          "score_label": "0.1335",
+          "keywords_found": [
+            "atas",
+            "negara",
+            "indonesia",
+            "bagi"
+          ],
+          "char_count": 379
+        },
+        {
+          "rank": 5,
+          "content": "{\"id\": \"psl_1_ay_1\", \"pasal\": 1, \"ayat\": 1, \"bab\": \"BAB I - BENTUK DAN KEDAULATAN\", \"content\": \"Negara Indonesia ialah Negara kesatuan yang berbentuk Republik.\"}",
+          "score": 0.1298850370415474,
+          "score_label": "0.1299",
+          "keywords_found": [
+            "negara",
+            "indonesia"
+          ],
+          "char_count": 161
+        }
+      ],
+      "semantic": [
+        {
+          "rank": 1,
+          "content": "{\"id\": \"psl_31_ay_1\", \"pasal\": 31, \"ayat\": 1, \"bab\": \"BAB XIII - PENDIDIKAN\", \"content\": \"Tiap-tiap warga negara berhak mendapat pengajaran.\"}",
+          "score": 0.6733319759368896,
+          "score_label": "0.6733",
+          "keywords_found": [
+            "warga",
+            "pendidikan",
+            "negara"
+          ],
+          "char_count": 142
+        },
+        {
+          "rank": 2,
+          "content": "{\"id\": \"psl_32_ay_1\", \"pasal\": 32, \"ayat\": 1, \"bab\": \"BAB XIII - PENDIDIKAN\", \"content\": \"Pemerintah memajukan kebudayaan nasional Indonesia.\"}",
+          "score": 0.8390875458717346,
+          "score_label": "0.8391",
+          "keywords_found": [
+            "pendidikan",
+            "indonesia"
+          ],
+          "char_count": 143
+        },
+        {
+          "rank": 3,
+          "content": "{\"id\": \"psl_31_ay_2\", \"pasal\": 31, \"ayat\": 2, \"bab\": \"BAB XIII - PENDIDIKAN\", \"content\": \"Pemerintah mengusahakan dan menyelenggarakan satu sistem pengajaran nasional, yang diatur dengan undang-undang.\"}",
+          "score": 0.8917098045349121,
+          "score_label": "0.8917",
+          "keywords_found": [
+            "pendidikan"
+          ],
+          "char_count": 203
+        },
+        {
+          "rank": 4,
+          "content": "{\"id\": \"psl_27_ay_2\", \"pasal\": 27, \"ayat\": 2, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan.\"}",
+          "score": 0.9054868221282959,
+          "score_label": "0.9055",
+          "keywords_found": [
+            "warga",
+            "atas",
+            "negara",
+            "bagi"
+          ],
+          "char_count": 180
+        },
+        {
+          "rank": 5,
+          "content": "{\"id\": \"psl_26_ay_1\", \"pasal\": 26, \"ayat\": 1, \"bab\": \"BAB X - WARGA NEGARA\", \"content\": \"Yang menjadi warga negara ialah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara.\"}",
+          "score": 0.95423823595047,
+          "score_label": "0.9542",
+          "keywords_found": [
+            "warga",
+            "negara",
+            "indonesia"
+          ],
+          "char_count": 241
+        }
+      ]
+    }
+  }
+}

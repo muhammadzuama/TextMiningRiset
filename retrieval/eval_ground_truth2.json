@@ -1,0 +1,167 @@
+[
+  {
+    "query_id": "CQ01",
+    "query": "Bagaimana bentuk negara Indonesia serta siapa yang memegang kedaulatan menurut UUD 1945?",
+    "relevant_chunks_keywords": [
+      "Negara Indonesia ialah Negara Kesatuan",
+      "berbentuk Republik",
+      "kedaulatan berada di tangan rakyat",
+      "dilaksanakan menurut Undang-Undang Dasar"
+    ],
+    "notes": "Pasal 1 Ayat 1 dan 2 — bentuk negara dan kedaulatan rakyat"
+  },
+  {
+    "query_id": "CQ02",
+    "query": "Apa saja kewajiban negara dan hak warga negara dalam bidang pendidikan menurut konstitusi?",
+    "relevant_chunks_keywords": [
+      "Setiap warga negara berhak mendapat pendidikan",
+      "wajib mengikuti pendidikan dasar",
+      "pemerintah wajib membiayai",
+      "anggaran pendidikan sekurang-kurangnya dua puluh persen"
+    ],
+    "notes": "Pasal 31 Ayat 1-5 — hak pendidikan dan kewajiban negara"
+  },
+  {
+    "query_id": "CQ03",
+    "query": "Hak asasi manusia apa saja yang dijamin oleh UUD 1945 terutama terkait perlindungan terhadap kehidupan dan kebebasan individu?",
+    "relevant_chunks_keywords": [
+      "Setiap orang berhak untuk hidup",
+      "hak untuk tidak disiksa",
+      "perlakuan yang merendahkan martabat manusia",
+      "hak asasi manusia"
+    ],
+    "notes": "Pasal 28A–28G — hak hidup, perlindungan diri, HAM dasar"
+  },
+  {
+    "query_id": "CQ04",
+    "query": "Bagaimana peran DPR dalam proses pembentukan undang-undang menurut ketentuan konstitusi Indonesia?",
+    "relevant_chunks_keywords": [
+      "Dewan Perwakilan Rakyat memegang kekuasaan membentuk undang-undang",
+      "rancangan undang-undang",
+      "persetujuan bersama DPR dan Presiden",
+      "DPR"
+    ],
+    "notes": "Pasal 20 — kekuasaan legislatif DPR"
+  },
+  {
+    "query_id": "CQ05",
+    "query": "Apa saja syarat seseorang dapat menjadi Presiden Republik Indonesia dan bagaimana mekanisme pemilihannya?",
+    "relevant_chunks_keywords": [
+      "Presiden dan Wakil Presiden dipilih",
+      "calon Presiden dan calon Wakil Presiden",
+      "warga negara Indonesia sejak kelahirannya",
+      "tidak pernah mengkhianati negara"
+    ],
+    "notes": "Pasal 6 dan 6A — syarat calon presiden dan mekanisme pemilihan"
+  },
+  {
+    "query_id": "CQ06",
+    "query": "Bagaimana jaminan kebebasan berserikat, berkumpul, dan menyampaikan pendapat dalam konstitusi Indonesia?",
+    "relevant_chunks_keywords": [
+      "kemerdekaan berserikat dan berkumpul",
+      "mengeluarkan pikiran dengan lisan dan tulisan",
+      "Setiap orang berhak atas kebebasan",
+      "berserikat"
+    ],
+    "notes": "Pasal 28 dan 28E — kebebasan berserikat dan berpendapat"
+  },
+  {
+    "query_id": "CQ07",
+    "query": "Bagaimana struktur kekuasaan kehakiman di Indonesia serta peran Mahkamah Agung dan Mahkamah Konstitusi?",
+    "relevant_chunks_keywords": [
+      "Kekuasaan kehakiman merupakan kekuasaan yang merdeka",
+      "Mahkamah Agung",
+      "Mahkamah Konstitusi",
+      "menguji undang-undang terhadap Undang-Undang Dasar"
+    ],
+    "notes": "Pasal 24, 24A, 24C — sistem kekuasaan kehakiman"
+  },
+  {
+    "query_id": "CQ08",
+    "query": "Bagaimana konstitusi Indonesia menjamin hak warga negara untuk bekerja dan memperoleh penghidupan yang layak?",
+    "relevant_chunks_keywords": [
+      "Setiap warga negara berhak atas pekerjaan",
+      "penghidupan yang layak bagi kemanusiaan",
+      "Setiap orang berhak untuk bekerja",
+      "perlakuan yang adil"
+    ],
+    "notes": "Pasal 27 Ayat 2 dan Pasal 28D Ayat 2"
+  },
+  {
+    "query_id": "CQ09",
+    "query": "Apa dasar hubungan antara negara dan agama serta bagaimana kebebasan beribadah dijamin dalam UUD 1945?",
+    "relevant_chunks_keywords": [
+      "Negara berdasar atas Ketuhanan Yang Maha Esa",
+      "negara menjamin kemerdekaan tiap-tiap penduduk",
+      "memeluk agamanya masing-masing",
+      "beribadah menurut agamanya"
+    ],
+    "notes": "Pasal 29 Ayat 1-2"
+  },
+  {
+    "query_id": "CQ10",
+    "query": "Bagaimana sistem pertahanan dan keamanan negara di Indonesia serta peran TNI dan Polri di dalamnya?",
+    "relevant_chunks_keywords": [
+      "Tentara Nasional Indonesia",
+      "Kepolisian Negara Republik Indonesia",
+      "usaha pertahanan dan keamanan negara",
+      "pertahanan negara"
+    ],
+    "notes": "Pasal 30"
+  },
+  {
+    "query_id": "CQ11",
+    "query": "Apa saja syarat dan prosedur yang harus dipenuhi untuk melakukan perubahan terhadap UUD 1945?",
+    "relevant_chunks_keywords": [
+      "Usul perubahan pasal-pasal Undang-Undang Dasar",
+      "diajukan oleh sekurang-kurangnya lima puluh persen",
+      "Majelis Permusyawaratan Rakyat",
+      "putusan untuk mengubah"
+    ],
+    "notes": "Pasal 37 — prosedur amandemen UUD"
+  },
+  {
+    "query_id": "CQ12",
+    "query": "Bagaimana konstitusi menjamin hak masyarakat untuk memperoleh, menyimpan, dan menyampaikan informasi?",
+    "relevant_chunks_keywords": [
+      "Setiap orang berhak untuk berkomunikasi",
+      "memperoleh informasi",
+      "mencari, memperoleh, memiliki, menyimpan, mengolah",
+      "menyampaikan informasi"
+    ],
+    "notes": "Pasal 28F"
+  },
+  {
+    "query_id": "CQ13",
+    "query": "Bagaimana prinsip dasar perekonomian nasional menurut UUD 1945 dan bagaimana negara mengelola sumber daya penting?",
+    "relevant_chunks_keywords": [
+      "Perekonomian disusun sebagai usaha bersama",
+      "cabang-cabang produksi yang penting bagi negara",
+      "dikuasai oleh negara",
+      "dipergunakan untuk sebesar-besar kemakmuran rakyat"
+    ],
+    "notes": "Pasal 33"
+  },
+  {
+    "query_id": "CQ14",
+    "query": "Bagaimana tanggung jawab negara terhadap fakir miskin serta sistem jaminan sosial bagi masyarakat?",
+    "relevant_chunks_keywords": [
+      "fakir miskin dan anak-anak terlantar",
+      "dipelihara oleh negara",
+      "jaminan sosial",
+      "Setiap orang berhak atas jaminan sosial"
+    ],
+    "notes": "Pasal 28H Ayat 3 dan Pasal 34"
+  },
+  {
+    "query_id": "CQ15",
+    "query": "Bagaimana prinsip dan asas pelaksanaan pemilihan umum dalam sistem demokrasi Indonesia menurut UUD 1945?",
+    "relevant_chunks_keywords": [
+      "Pemilihan umum dilaksanakan secara langsung",
+      "umum, bebas, rahasia",
+      "jujur dan adil",
+      "peserta pemilihan umum"
+    ],
+    "notes": "Pasal 22E"
+  }
+]

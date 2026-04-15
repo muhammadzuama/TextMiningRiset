@@ -1,0 +1,169 @@
+[
+  {
+    "query_id": "Q01",
+    "query": "Bunyi pasal 1 UUD 1945 tentang bentuk negara",
+    "relevant_chunks_keywords": [
+      "Negara Indonesia ialah Negara Kesatuan",
+      "berbentuk Republik",
+      "kedaulatan berada di tangan rakyat",
+      "Negara Indonesia adalah negara hukum"
+    ],
+    "notes": "Pasal 1 Ayat 1, 2, 3 — bentuk NKRI, kedaulatan rakyat, negara hukum"
+  },
+  {
+    "query_id": "Q02",
+    "query": "Hak atas pendidikan bagi warga negara Indonesia",
+    "relevant_chunks_keywords": [
+      "Setiap warga negara berhak mendapat pendidikan",
+      "Setiap warga negara wajib mengikuti pendidikan dasar",
+      "pemerintah wajib membiayai",
+      "anggaran pendidikan sekurang-kurangnya dua puluh persen",
+      "memajukan ilmu pengetahuan dan teknologi"
+    ],
+    "notes": "Pasal 31 Ayat 1-5 — hak & kewajiban pendidikan, anggaran 20%"
+  },
+  {
+    "query_id": "Q03",
+    "query": "Hak asasi manusia yang dijamin UUD 1945",
+    "relevant_chunks_keywords": [
+      "Setiap orang berhak untuk hidup",
+      "Setiap orang berhak atas pengakuan",
+      "hak untuk tidak disiksa",
+      "Setiap orang berhak bebas dari perlakuan",
+      "hak asasi manusia"
+    ],
+    "notes": "Pasal 28A–28J — bab HAM"
+  },
+  {
+    "query_id": "Q04",
+    "query": "Kekuasaan legislatif DPR dalam membuat undang-undang",
+    "relevant_chunks_keywords": [
+      "Dewan Perwakilan Rakyat memegang kekuasaan membentuk undang-undang",
+      "rancangan undang-undang",
+      "DPR",
+      "kekuasaan legislatif"
+    ],
+    "notes": "Pasal 20 Ayat 1-5 — kekuasaan legislasi DPR"
+  },
+  {
+    "query_id": "Q05",
+    "query": "Syarat dan tugas presiden sebagai kepala negara",
+    "relevant_chunks_keywords": [
+      "Presiden Republik Indonesia memegang kekuasaan pemerintahan",
+      "Presiden dan Wakil Presiden dipilih",
+      "calon Presiden dan calon Wakil Presiden",
+      "warga negara Indonesia sejak kelahirannya"
+    ],
+    "notes": "Pasal 4, 6, 6A — kekuasaan dan syarat capres"
+  },
+  {
+    "query_id": "Q06",
+    "query": "Hak kebebasan berserikat dan berkumpul",
+    "relevant_chunks_keywords": [
+      "kemerdekaan berserikat dan berkumpul",
+      "mengeluarkan pikiran dengan lisan dan tulisan",
+      "Setiap orang berhak atas kebebasan",
+      "berserikat"
+    ],
+    "notes": "Pasal 28, 28E — kebebasan berserikat, berkumpul, berpendapat"
+  },
+  {
+    "query_id": "Q07",
+    "query": "Kekuasaan kehakiman Mahkamah Agung dan Mahkamah Konstitusi",
+    "relevant_chunks_keywords": [
+      "Kekuasaan kehakiman merupakan kekuasaan yang merdeka",
+      "Mahkamah Agung",
+      "Mahkamah Konstitusi",
+      "menguji undang-undang terhadap Undang-Undang Dasar"
+    ],
+    "notes": "Pasal 24, 24A, 24C — kekuasaan kehakiman, MA, MK"
+  },
+  {
+    "query_id": "Q08",
+    "query": "Hak warga negara atas pekerjaan dan penghidupan layak",
+    "relevant_chunks_keywords": [
+      "Setiap warga negara berhak atas pekerjaan",
+      "penghidupan yang layak bagi kemanusiaan",
+      "Setiap orang berhak untuk bekerja",
+      "mendapat imbalan dan perlakuan yang adil"
+    ],
+    "notes": "Pasal 27 Ayat 2, 28D Ayat 2 — hak atas pekerjaan"
+  },
+  {
+    "query_id": "Q09",
+    "query": "Pengaturan agama dan kebebasan beribadah",
+    "relevant_chunks_keywords": [
+      "Negara berdasar atas Ketuhanan Yang Maha Esa",
+      "negara menjamin kemerdekaan tiap-tiap penduduk",
+      "memeluk agamanya masing-masing",
+      "beribadah menurut agamanya"
+    ],
+    "notes": "Pasal 29 Ayat 1-2 — dasar Ketuhanan, kebebasan beribadah"
+  },
+  {
+    "query_id": "Q10",
+    "query": "Sistem pertahanan dan keamanan negara TNI Polri",
+    "relevant_chunks_keywords": [
+      "Tentara Nasional Indonesia",
+      "Kepolisian Negara Republik Indonesia",
+      "pertahanan negara",
+      "usaha pertahanan dan keamanan negara"
+    ],
+    "notes": "Pasal 30 — hak & kewajiban bela negara, TNI, Polri"
+  },
+  {
+    "query_id": "Q11",
+    "query": "Prosedur amandemen perubahan UUD 1945",
+    "relevant_chunks_keywords": [
+      "Usul perubahan pasal-pasal Undang-Undang Dasar",
+      "diajukan oleh sekurang-kurangnya lima puluh persen",
+      "Majelis Permusyawaratan Rakyat",
+      "putusan untuk mengubah"
+    ],
+    "notes": "Pasal 37 — syarat dan prosedur perubahan UUD"
+  },
+  {
+    "query_id": "Q12",
+    "query": "Hak memperoleh informasi dan kebebasan pers",
+    "relevant_chunks_keywords": [
+      "Setiap orang berhak untuk berkomunikasi",
+      "memperoleh informasi",
+      "mencari, memperoleh, memiliki, menyimpan, mengolah",
+      "menyampaikan informasi"
+    ],
+    "notes": "Pasal 28F — hak atas informasi dan komunikasi"
+  },
+  {
+    "query_id": "Q13",
+    "query": "Perekonomian nasional dan kesejahteraan sosial",
+    "relevant_chunks_keywords": [
+      "Perekonomian disusun sebagai usaha bersama",
+      "cabang-cabang produksi yang penting bagi negara",
+      "dikuasai oleh negara",
+      "dipergunakan untuk sebesar-besar kemakmuran rakyat"
+    ],
+    "notes": "Pasal 33 — asas kekeluargaan, cabang produksi penting, SDA"
+  },
+  {
+    "query_id": "Q14",
+    "query": "Hak atas jaminan sosial dan fakir miskin",
+    "relevant_chunks_keywords": [
+      "fakir miskin dan anak-anak terlantar",
+      "dipelihara oleh negara",
+      "jaminan sosial",
+      "Setiap orang berhak atas jaminan sosial"
+    ],
+    "notes": "Pasal 28H Ayat 3, Pasal 34 — jaminan sosial dan fakir miskin"
+  },
+  {
+    "query_id": "Q15",
+    "query": "Hak pilih warga negara dalam pemilihan umum",
+    "relevant_chunks_keywords": [
+      "Pemilihan umum dilaksanakan secara langsung",
+      "umum, bebas, rahasia",
+      "jujur dan adil",
+      "peserta pemilihan umum"
+    ],
+    "notes": "Pasal 22E — asas pemilu langsung, umum, bebas, rahasia, jujur, adil"
+  }
+]

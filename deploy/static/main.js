@@ -1,4 +1,105 @@
-// Tab navigation
+/* ── Theme toggle ──────────────────────────────────────────────────────── */
+(function() {
+  const saved = localStorage.getItem('kuhp-theme');
+  if (saved === 'light') document.body.classList.add('light-mode');
+})();
+
+document.getElementById('theme-toggle').addEventListener('click', () => {
+  const isLight = document.body.classList.toggle('light-mode');
+  localStorage.setItem('kuhp-theme', isLight ? 'light' : 'dark');
+});
+
+/* ── Markdown → HTML renderer ──────────────────────────────────────────── */
+function renderMarkdown(raw) {
+  let md = raw;
+
+  // Escape HTML first to prevent XSS
+  md = md
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+
+  // --- Block elements (order matters) ---
+
+  // Horizontal rules
+  md = md.replace(/^[-*_]{3,}\s*$/gm, '<hr>');
+
+  // Headings: ### ## #
+  md = md.replace(/^#{3}\s+(.+)$/gm, '<h3>$1</h3>');
+  md = md.replace(/^#{2}\s+(.+)$/gm, '<h2>$1</h2>');
+  md = md.replace(/^#{1}\s+(.+)$/gm, '<h1>$1</h1>');
+
+  // Blockquotes
+  md = md.replace(/^&gt;\s?(.*)$/gm, '<blockquote>$1</blockquote>');
+  // Merge consecutive blockquotes
+  md = md.replace(/<\/blockquote>\s*<blockquote>/g, '<br>');
+
+  // // Ordered lists: lines starting with "1. " "2. " etc.
+  // md = md.replace(/^(\d+)\.\s+(.+)$/gm, '<li data-ol>$2</li>');
+
+  // // Unordered lists: lines starting with - * +
+  // md = md.replace(/^[-*+]\s+(.+)$/gm, '<li>$2</li>');
+
+  // Wrap consecutive <li data-ol> in <ol>
+  md = md.replace(/(<li data-ol>.*?<\/li>\s*)+/gs, (match) => {
+    const items = match.replace(/ data-ol/g, '');
+    return '<ol>' + items + '</ol>';
+  });
+
+  // Wrap remaining <li> (not already inside ol) in <ul>
+  md = md.replace(/(<li>.*?<\/li>\s*)+/gs, (match) => {
+    if (/<ol>/.test(match)) return match;
+    return '<ul>' + match + '</ul>';
+  });
+
+  // --- Inline elements ---
+
+  // Bold+italic: ***text***
+  md = md.replace(/\*{3}(.+?)\*{3}/g, '<strong><em>$1</em></strong>');
+
+  // Bold: **text** or __text__
+  md = md.replace(/\*{2}(.+?)\*{2}/g, '<strong>$1</strong>');
+  md = md.replace(/_{2}(.+?)_{2}/g, '<strong>$1</strong>');
+
+  // Italic: *text* or _text_
+  md = md.replace(/\*(.+?)\*/g, '<em>$1</em>');
+  md = md.replace(/_(.+?)_/g, '<em>$1</em>');
+
+  // Inline code
+  md = md.replace(/`(.+?)`/g, '<code>$1</code>');
+
+  // --- Paragraphs ---
+  // Split on double newlines for paragraphs, but skip block tags
+  const blockTags = /^<(h[1-3]|ul|ol|li|hr|blockquote|div)/;
+  const lines = md.split(/\n\n+/);
+  md = lines.map(chunk => {
+    chunk = chunk.trim();
+    if (!chunk) return '';
+    if (blockTags.test(chunk)) return chunk;
+    // Single newlines within a paragraph → line break (but not inside lists)
+    chunk = chunk.replace(/\n(?!<li)/g, '<br>');
+    return '<p>' + chunk + '</p>';
+  }).join('\n');
+
+  // --- Special: Referensi section ---
+  // Detect lines like "- Pasal 219 KUHP" inside a reference block
+  md = md.replace(
+    /(<p>.*?[Rr]eferensi.*?<\/p>)([\s\S]*?)(?=<p>|$)/,
+    (_, heading, refs) => {
+      const refItems = refs.match(/<p>[-–]\s*(.*?)<\/p>/g) || [];
+      if (!refItems.length) return _ ;
+      const refHtml = refItems.map(item => {
+        const text = item.replace(/<\/?p>/g, '').replace(/^[-–]\s*/, '');
+        return `<div class="ref-item"><span class="ref-badge">Ref</span><span>${text}</span></div>`;
+      }).join('');
+      return heading + '<div class="ref-section">' + refHtml + '</div>';
+    }
+  );
+
+  return md;
+}
+
+/* ── Tab navigation ────────────────────────────────────────────────────── */
 document.querySelectorAll('.nav-btn').forEach(btn => {
   btn.addEventListener('click', () => {
     const tab = btn.dataset.tab;
@@ -10,7 +111,7 @@ document.querySelectorAll('.nav-btn').forEach(btn => {
   });
 });
 
-// Sample pills
+/* ── Sample pills ──────────────────────────────────────────────────────── */
 document.querySelectorAll('.sample-pill').forEach(pill => {
   pill.addEventListener('click', () => {
     const ta = document.getElementById('question-input');
@@ -20,13 +121,13 @@ document.querySelectorAll('.sample-pill').forEach(pill => {
   });
 });
 
-// Char counter
+/* ── Char counter ──────────────────────────────────────────────────────── */
 const ta = document.getElementById('question-input');
 const counter = document.getElementById('char-count');
 function updateCharCount() { counter.textContent = ta.value.length; }
 ta.addEventListener('input', updateCharCount);
 
-// Refresh LLM model list from Ollama
+/* ── Refresh LLM model list from Ollama ───────────────────────────────── */
 document.getElementById('refresh-llm').addEventListener('click', async () => {
   const btn  = document.getElementById('refresh-llm');
   const hint = document.getElementById('llm-hint');
@@ -49,14 +150,14 @@ document.getElementById('refresh-llm').addEventListener('click', async () => {
   }
 });
 
-// State helpers
+/* ── State helpers ─────────────────────────────────────────────────────── */
 function showState(state) {
   ['idle','loading','content','error'].forEach(s => {
     document.getElementById(`answer-${s}`).classList.toggle('hidden', s !== state);
   });
 }
 
-// Loading steps animation
+/* ── Loading steps animation ──────────────────────────────────────────── */
 let stepTimer = null;
 function runLoadingSteps() {
   const steps = ['step-1','step-2','step-3'];
@@ -80,7 +181,7 @@ function stopLoadingSteps() {
   });
 }
 
-// Submit
+/* ── Submit ────────────────────────────────────────────────────────────── */
 document.getElementById('submit-btn').addEventListener('click', async () => {
   const question = ta.value.trim();
   const modelKey = document.querySelector('input[name="model"]:checked')?.value;
@@ -119,7 +220,9 @@ document.getElementById('submit-btn').addEventListener('click', async () => {
     document.getElementById('meta-llm').textContent    = data.llm_model || llmModel;
     document.getElementById('meta-model').textContent  = data.model_key;
     document.getElementById('meta-time').textContent   = `${elapsed}s`;
-    document.getElementById('answer-text').textContent = data.answer;
+
+    // Render markdown → HTML
+    document.getElementById('answer-text').innerHTML = renderMarkdown(data.answer);
     showState('content');
 
   } catch (err) {
@@ -132,9 +235,10 @@ document.getElementById('submit-btn').addEventListener('click', async () => {
   }
 });
 
-// Copy button
+/* ── Copy button ───────────────────────────────────────────────────────── */
 document.getElementById('copy-btn').addEventListener('click', () => {
-  const text = document.getElementById('answer-text').textContent;
+  // Copy plain text (strip HTML tags)
+  const text = document.getElementById('answer-text').innerText;
   navigator.clipboard.writeText(text).then(() => {
     const btn = document.getElementById('copy-btn');
     btn.textContent = 'Disalin!';
@@ -144,7 +248,7 @@ document.getElementById('copy-btn').addEventListener('click', () => {
   });
 });
 
-// History
+/* ── History ───────────────────────────────────────────────────────────── */
 async function loadHistory() {
   const container = document.getElementById('history-container');
   container.innerHTML = '<div class="history-empty">Memuat...</div>';
@@ -189,6 +293,7 @@ async function loadHistory() {
 
 document.getElementById('refresh-history').addEventListener('click', loadHistory);
 
+/* ── Utilities ─────────────────────────────────────────────────────────── */
 function escHtml(str) {
   return String(str)
     .replace(/&/g,'&amp;').replace(/</g,'&lt;')

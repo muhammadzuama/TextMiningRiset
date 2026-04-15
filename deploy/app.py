@@ -19,37 +19,45 @@ DATA_PATH   = "/Users/muhammadzuamaalamin/Documents/RisetTextMining/retrieval2/d
 LOG_CSV     = "history.csv"
 
 EMBEDDING_MODELS = {
-    "Indo Sentence BERT": {
-        "name":    "firqaaa/indo-sentence-bert-base",
-        "db_path": "/Users/muhammadzuamaalamin/Documents/RisetTextMining/retrieval2/faiss_indexeindobert",
-        "description": "Optimized for Indonesian text"
-    },
+    # "Indo Sentence BERT": {
+    #     "name":    "firqaaa/indo-sentence-bert-base",
+    #     "db_path": "/Users/muhammadzuamaalamin/Documents/RisetTextMining/retrieval2/faiss_indexeindobert",
+    #     "description": "Optimized for Indonesian text"
+    # },
     "BGE-M3": {
         "name":    "/Users/muhammadzuamaalamin/Documents/fintunellm/model/bge-m3",
         "db_path": "/Users/muhammadzuamaalamin/Documents/RisetTextMining/retrieval2/faiss_indexbgem3",
         "description": "Multilingual, high accuracy"
     },
-    "Multilingual E5 Small": {
-        "name":    "/Users/muhammadzuamaalamin/Documents/fintunellm/model/multilingual-e5-small",
-        "db_path": "/Users/muhammadzuamaalamin/Documents/RisetTextMining/retrieval2/rag/gemma/faiss_indexe5",
-        "description": "Lightweight & fast"
-    },
-    "Multilingual All Mini LM": {
-        "name":    "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-        "db_path": "/Users/muhammadzuamaalamin/Documents/RisetTextMining/retrieval2/rag/gemma/faiss_indexallminiLm",
-        "description": "Lightweight & fast"
+    # "Multilingual E5 Small": {
+    #     "name":    "/Users/muhammadzuamaalamin/Documents/fintunellm/model/multilingual-e5-small",
+    #     "db_path": "/Users/muhammadzuamaalamin/Documents/RisetTextMining/retrieval2/rag/gemma/faiss_indexe5",
+    #     "description": "Lightweight & fast"
+    # },
+    # "Multilingual All Mini LM": {
+    #     "name":    "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    #     "db_path": "/Users/muhammadzuamaalamin/Documents/RisetTextMining/retrieval2/rag/gemma/faiss_indexallminiLm",
+    #     "description": "Lightweight & fast"
+    # },
+        "E5-sample-Law-Indo": {
+        "name":    "mzuama/E5-sampel-law",
+        "db_path": "/Users/muhammadzuamaalamin/Documents/RisetTextMining/retrieval2/faiss_indexe5lawsampel",
+        "description": "Multilingual, high accuracy"
     }
 
 }
 
 # Fallback jika Ollama tidak bisa dijangkau
 DEFAULT_LLM_MODELS = [
-    {"name": "gemma3:4b",   "description": "-"},
+    # {"name": "gemma3:4b",   "description": "-"},
     {"name": "ministral-3:3b",  "description": "-"},
-    {"name": "qwen3:4b", "description": "-"},
-    {"name": "qwen3:8bb",  "description": "-"},
-    {"name": "qwen2.5:7b",  "description": "-"},
-    {"name": "gemma2:2b",  "description": "-"},
+    # {"name": "qwen3:4b", "description": "-"},
+    # {"name": "qwen3:8b",  "description": "-"},
+    # {"name": "qwen2.5:7b",  "description": "-"},
+    # {"name": "gemma2:2b",  "description": "-"},
+    {"name": "ministral-3:8b",  "description": "-"},
+    {"name": "gemma4:e2b",  "description": "-"},
+    {"name": "gemma4:e4b",  "description": "-"}
 ]
 
 PROMPT_TEMPLATE = ChatPromptTemplate.from_template("""
@@ -64,12 +72,17 @@ Pertanyaan:
 Instruksi:
 - Jawab pertanyaan berdasarkan konteks di atas.
 - Gunakan bahasa yang jelas dan mudah dipahami.
-- Sertakan nomor pasal sebagai referensi di akhir jawaban.
+- Saat menyebut suatu aturan, SELALU cantumkan nomor pasal DAN kutipan singkat isi pasalnya.
+- Format referensi pasal: **Pasal [nomor]**: "[kutipan singkat isi pasal]"
 - Jika konteks tidak relevan, jawab: "Informasi tidak ditemukan dalam dokumen."
 
 Contoh:
 Pertanyaan: Apakah menghina orang di depan umum bisa dipidana?
-Jawaban: Ya, menghina orang secara lisan di depan umum dapat dikenakan pidana penjara hingga 9 bulan. Jika penghinaan dilakukan melalui tulisan atau media, ancamannya lebih berat yaitu hingga 1 tahun 6 bulan. [Ref: Pasal 433, Pasal 441]
+Jawaban: Ya, menghina orang secara lisan di depan umum dapat dikenakan pidana.
+
+Dasar hukum:
+- **Pasal 433**: "Barang siapa dengan sengaja menyerang kehormatan atau nama baik seseorang dengan lisan di muka umum, diancam dengan pidana penjara paling lama 9 bulan."
+- **Pasal 441**: "Jika penghinaan dilakukan dengan tulisan atau gambar, diancam dengan pidana penjara paling lama 1 tahun 6 bulan."
 
 Jawaban:
 """)

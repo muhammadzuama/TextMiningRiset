@@ -25,6 +25,28 @@
         <button class="nav-btn active" data-tab="tanya">Tanya</button>
         <button class="nav-btn" data-tab="riwayat">Riwayat</button>
       </nav>
+
+      <!-- Theme toggle -->
+      <button class="theme-toggle" id="theme-toggle" title="Ganti tema">
+        <div class="theme-toggle-track">
+          <!-- Moon icon (dark) -->
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+            style="position:absolute;left:5px;color:var(--text-mute);z-index:1;transition:opacity 0.2s">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+          </svg>
+          <div class="theme-toggle-thumb"></div>
+          <!-- Sun icon (light) -->
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+            style="position:absolute;right:5px;color:var(--text-mute);z-index:1;transition:opacity 0.2s">
+            <circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/>
+            <line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/>
+            <line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+          </svg>
+        </div>
+      </button>
+
       <a href="/download-csv" class="btn-export">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
         Ekspor CSV
@@ -97,7 +119,7 @@
             <div class="samples-label">Contoh pertanyaan:</div>
             <button class="sample-pill" data-q="Berapa denda maksimal kalau ketahuan main judi online?">Judi online</button>
             <button class="sample-pill" data-q="Apa ancaman pidana untuk pelaku pencurian dengan kekerasan?">Pencurian kekerasan</button>
-            <button class="sample-pill" data-q="Kalau menghina Presiden di media sosial, ancamannya berapa?">Menghina Presiden</button>
+            <button class="sample-pill" data-q="Kalau menghina pejabat negara di media sosial, ancamannya berapa?">Menghina pejabat</button>
             <button class="sample-pill" data-q="Apa hukuman untuk pelaku korupsi dana negara?">Korupsi</button>
           </div>
         </div>
@@ -135,6 +157,7 @@
               <span class="meta-badge meta-embed" id="meta-model"></span>
               <span class="meta-time" id="meta-time"></span>
             </div>
+            <!-- innerHTML set by JS after renderMarkdown() -->
             <div id="answer-text" class="answer-text"></div>
             <div class="answer-actions">
               <button class="btn-copy" id="copy-btn">

@@ -1,0 +1,302 @@
+[
+  {
+    "query_id": "CQ01",
+    "query": "Kapan saya tidak bisa dituntut lagi untuk kasus yang sudah pernah diputuskan pengadilan?",
+    "relevant_chunks_keywords": [
+      "putusan pengadilan yang telah memperoleh kekuatan hukum tetap",
+      "perkara yang sama",
+      "tidak dapat dituntut untuk kedua kalinya"
+    ],
+    "notes": "Pasal 132 ayat (1) huruf a dan Pasal 134 — ne bis in idem dan putusan tetap"
+  },
+  {
+    "query_id": "CQ02",
+    "query": "Apa yang terjadi jika tersangka meninggal dunia saat proses hukum berjalan?",
+    "relevant_chunks_keywords": [
+      "tersangka atau terdakwa meninggal dunia",
+      "kewenangan penuntutan dinyatakan gugur"
+    ],
+    "notes": "Pasal 132 ayat (1) huruf b — kematian menghentikan penuntutan"
+  },
+  {
+    "query_id": "CQ03",
+    "query": "Berapa lama waktu yang dimiliki penyidik untuk menuntut seseorang setelah kejahatan terjadi?",
+    "relevant_chunks_keywords": [
+      "kedaluwarsa",
+      "melampaui waktu 3 tahun",
+      "melampaui waktu 20 tahun",
+      "pidana penjara paling lama"
+    ],
+    "notes": "Pasal 136 ayat (1) — tenggang waktu kedaluwarsa penuntutan"
+  },
+  {
+    "query_id": "CQ04",
+    "query": "Apakah saya bisa membayar denda agar tidak dituntut?",
+    "relevant_chunks_keywords": [
+      "maksimum pidana denda dibayar dengan sukarela",
+      "hanya diancam dengan pidana denda paling banyak kategori II",
+      "kategori IV dibayar dengan sukarela"
+    ],
+    "notes": "Pasal 132 ayat (1) huruf d dan e — pembayaran denda sukarela"
+  },
+  {
+    "query_id": "CQ05",
+    "query": "Kapan pengaduan bisa ditarik kembali sehingga kasus berhenti?",
+    "relevant_chunks_keywords": [
+      "ditariknya pengaduan",
+      "Tindak Pidana aduan",
+      "kewenangan penuntutan dinyatakan gugur"
+    ],
+    "notes": "Pasal 132 ayat (1) huruf f — penarikan pengaduan"
+  },
+  {
+    "query_id": "CQ06",
+    "query": "Apa itu amnesti dan bagaimana pengaruhnya terhadap kasus saya?",
+    "relevant_chunks_keywords": [
+      "diberikannya amnesti atau abolisi",
+      "kewenangan penuntutan dinyatakan gugur"
+    ],
+    "notes": "Pasal 132 ayat (1) huruf h — amnesti dan abolisi"
+  },
+  {
+    "query_id": "CQ07",
+    "query": "Jika saya sudah dihukum di luar negeri, apakah bisa dihukum lagi di Indonesia untuk kasus yang sama?",
+    "relevant_chunks_keywords": [
+      "putusan pengadilan luar negeri",
+      "putusan bebas dari tuduhan",
+      "lepas dari segala tuntutan hukum",
+      "pidananya telah dijalani seluruhnya"
+    ],
+    "notes": "Pasal 135 — pengakuan putusan pengadilan luar negeri"
+  },
+  {
+    "query_id": "CQ08",
+    "query": "Berapa lama batas waktu penuntutan untuk kejahatan ringan seperti pencurian kecil?",
+    "relevant_chunks_keywords": [
+      "pidana penjara paling lama 1 tahun",
+      "denda paling banyak kategori III",
+      "melampaui waktu 3 tahun"
+    ],
+    "notes": "Pasal 136 ayat (1) huruf a — kedaluwarsa 3 tahun untuk pidana ringan"
+  },
+  {
+    "query_id": "CQ09",
+    "query": "Berapa lama batas waktu penuntutan untuk kejahatan berat seperti pembunuhan?",
+    "relevant_chunks_keywords": [
+      "pidana penjara seumur hidup",
+      "pidana mati",
+      "melampaui waktu 20 tahun"
+    ],
+    "notes": "Pasal 136 ayat (1) huruf e — kedaluwarsa 20 tahun untuk pidana berat"
+  },
+  {
+    "query_id": "CQ10",
+    "query": "Apakah batas waktu penuntutan berbeda untuk anak di bawah umur?",
+    "relevant_chunks_keywords": [
+      "Tindak Pidana dilakukan oleh Anak",
+      "tenggang waktu dikurangi menjadi 1/3",
+      "satu per tiga"
+    ],
+    "notes": "Pasal 136 ayat (2) — pengurangan kedaluwarsa untuk Anak"
+  },
+  {
+    "query_id": "CQ11",
+    "query": "Kapan perhitungan batas waktu penuntutan dimulai?",
+    "relevant_chunks_keywords": [
+      "dihitung mulai keesokan hari setelah perbuatan dilakukan",
+      "Barang yang dipalsukan digunakan",
+      "Korban dilepaskan atau mati"
+    ],
+    "notes": "Pasal 137 — awal perhitungan kedaluwarsa"
+  },
+  {
+    "query_id": "CQ12",
+    "query": "Apa yang terjadi jika penyidik sudah mulai menuntut sebelum batas waktu habis?",
+    "relevant_chunks_keywords": [
+      "Tindakan penuntutan menghentikan tenggang waktu kedaluwarsa",
+      "mulai diberlakukan tenggang waktu kedaluwarsa baru"
+    ],
+    "notes": "Pasal 138 ayat (1) dan (3) — penghentian dan reset kedaluwarsa"
+  },
+  {
+    "query_id": "CQ13",
+    "query": "Apakah batas waktu bisa berhenti sementara jika ada sengketa hukum?",
+    "relevant_chunks_keywords": [
+      "penuntutan dihentikan untuk sementara waktu",
+      "sengketa hukum yang harus diputuskan lebih dahulu",
+      "tenggang waktu kedaluwarsa menjadi tertunda"
+    ],
+    "notes": "Pasal 139 — penundaan kedaluwarsa karena sengketa"
+  },
+  {
+    "query_id": "CQ14",
+    "query": "Kapan hukuman tidak bisa dilaksanakan lagi?",
+    "relevant_chunks_keywords": [
+      "terpidana meninggal dunia",
+      "kedaluwarsa",
+      "terpidana mendapat grasi atau amnesti",
+      "penyerahan untuk pelaksanaan pidana ke negara lain"
+    ],
+    "notes": "Pasal 140 — alasan gugurnya pelaksanaan pidana"
+  },
+  {
+    "query_id": "CQ15",
+    "query": "Apa yang terjadi pada harta sitaan jika terpidana meninggal?",
+    "relevant_chunks_keywords": [
+      "terpidana meninggal dunia",
+      "pidana perampasan Barang tertentu dan/atau tagihan",
+      "telah disita tetap dapat dilaksanakan"
+    ],
+    "notes": "Pasal 141 — kelanjutan perampasan barang setelah kematian"
+  },
+  {
+    "query_id": "CQ16",
+    "query": "Berapa lama batas waktu untuk melaksanakan hukuman setelah putusan?",
+    "relevant_chunks_keywords": [
+      "tenggang waktu kedaluwarsa kewenangan menuntut",
+      "ditambah 1/3",
+      "satu per tiga"
+    ],
+    "notes": "Pasal 142 ayat (1) — rumus kedaluwarsa pelaksanaan pidana"
+  },
+  {
+    "query_id": "CQ17",
+    "query": "Apakah hukuman mati punya batas waktu kedaluwarsa?",
+    "relevant_chunks_keywords": [
+      "Pelaksanaan pidana mati",
+      "tidak mempunyai tenggang waktu kedaluwarsa"
+    ],
+    "notes": "Pasal 142 ayat (3) — tidak ada kedaluwarsa untuk pidana mati"
+  },
+  {
+    "query_id": "CQ18",
+    "query": "Bagaimana jika terpidana melarikan diri saat menjalani hukuman?",
+    "relevant_chunks_keywords": [
+      "terpidana melarikan diri",
+      "dihitung keesokan harinya sejak tanggal terpidana tersebut melarikan diri",
+      "masa selama narapidana melarikan diri tidak diperhitungkan"
+    ],
+    "notes": "Pasal 143 ayat (2) dan Pasal 63 — pelarian dan perhitungan kedaluwarsa"
+  },
+  {
+    "query_id": "CQ19",
+    "query": "Kapan batas waktu pelaksanaan hukuman dihitung ulang?",
+    "relevant_chunks_keywords": [
+      "pembebasan bersyarat dicabut",
+      "dihitung keesokan harinya sejak tanggal pencabutan",
+      "putusan pengadilan dapat dilaksanakan"
+    ],
+    "notes": "Pasal 143 ayat (1) dan (3) — awal perhitungan pelaksanaan pidana"
+  },
+  {
+    "query_id": "CQ20",
+    "query": "Apakah ada pengecualian batas waktu untuk kejahatan tertentu?",
+    "relevant_chunks_keywords": [
+      "Tindak Pidana pemalsuan",
+      "perusakan mata uang",
+      "Barang yang dipalsukan atau mata uang yang dirusak digunakan"
+    ],
+    "notes": "Pasal 137 huruf a — pengecualian awal kedaluwarsa untuk pemalsuan"
+  },
+  {
+    "query_id": "CQ21",
+    "query": "Bagaimana cara mengetahui kapan saya tahu tentang penuntutan terhadap saya?",
+    "relevant_chunks_keywords": [
+      "tersangka atau terdakwa mengetahui atau diberitahukan",
+      "penuntutan terhadap dirinya",
+      "ketentuan peraturan perundang-undangan"
+    ],
+    "notes": "Pasal 138 ayat (2) — pengetahuan tentang penuntutan"
+  },
+  {
+    "query_id": "CQ22",
+    "query": "Apa yang terjadi jika saya bayar denda tapi kasusnya sudah mulai diproses?",
+    "relevant_chunks_keywords": [
+      "biaya yang telah dikeluarkan jika penuntutan telah dimulai",
+      "dibayarkan kepada Pejabat yang berwenang",
+      "jangka waktu yang telah ditetapkan"
+    ],
+    "notes": "Pasal 133 ayat (1) — pembayaran denda dan biaya penuntutan"
+  },
+  {
+    "query_id": "CQ23",
+    "query": "Bagaimana jika barang yang harus dirampas sudah tidak ada pada saya?",
+    "relevant_chunks_keywords": [
+      "Barang dan/atau tagihan tersebut sudah tidak berada dalam kekuasaan terpidana",
+      "harus diserahkan atau harus dibayar",
+      "menurut taksiran Pejabat"
+    ],
+    "notes": "Pasal 133 ayat (2) — pengganti perampasan barang"
+  },
+  {
+    "query_id": "CQ24",
+    "query": "Apakah riwayat kejahatan lama masih dihitung jika kasusnya sudah gugur?",
+    "relevant_chunks_keywords": [
+      "pidana diperberat karena pengulangan",
+      "pemberatan tersebut tetap berlaku",
+      "kewenangan menuntut gugur berdasarkan pembayaran denda"
+    ],
+    "notes": "Pasal 133 ayat (3) — pemberatan pengulangan tetap berlaku"
+  },
+  {
+    "query_id": "CQ25",
+    "query": "Kapan pelaksanaan hukuman dianggap sudah lewat batas waktu?",
+    "relevant_chunks_keywords": [
+      "tenggang waktu kedaluwarsa pelaksanaan pidana",
+      "harus melebihi lama pidana yang dijatuhkan",
+      "kecuali untuk pidana penjara seumur hidup"
+    ],
+    "notes": "Pasal 142 ayat (2) — syarat minimal kedaluwarsa pelaksanaan"
+  },
+  {
+    "query_id": "CQ26",
+    "query": "Bagaimana jika hukuman mati diubah jadi seumur hidup, apakah ada batas waktunya?",
+    "relevant_chunks_keywords": [
+      "pidana mati diubah menjadi pidana penjara seumur hidup",
+      "tenggang waktu kedaluwarsa kewenangan menuntut huruf e",
+      "ditambah 1/3 dari tenggang waktu kedaluwarsa tersebut"
+    ],
+    "notes": "Pasal 142 ayat (4) — kedaluwarsa setelah perubahan pidana mati"
+  },
+  {
+    "query_id": "CQ27",
+    "query": "Kapan batas waktu pelaksanaan hukuman bisa ditunda?",
+    "relevant_chunks_keywords": [
+      "pelaksanaan pidana tersebut ditunda berdasarkan peraturan perundang-undangan",
+      "terpidana dirampas kemerdekaannya",
+      "putusan pengadilan untuk Tindak Pidana lain"
+    ],
+    "notes": "Pasal 143 ayat (4) — penundaan kedaluwarsa pelaksanaan"
+  },
+  {
+    "query_id": "CQ28",
+    "query": "Apakah perusahaan juga bisa mendapat keringanan batas waktu penuntutan?",
+    "relevant_chunks_keywords": [
+      "gugurnya kewenangan penuntutan bagi Korporasi",
+      "memperhatikan ketentuan sebagaimana dimaksud dalam Pasal 121",
+      "pidana denda untuk Korporasi"
+    ],
+    "notes": "Pasal 132 ayat (2) — ketentuan khusus Korporasi"
+  },
+  {
+    "query_id": "CQ29",
+    "query": "Apa bedanya antara kasus yang selesai di luar pengadilan dengan yang ditarik pengaduannya?",
+    "relevant_chunks_keywords": [
+      "telah ada penyelesaian di luar proses peradilan",
+      "ditariknya pengaduan bagi Tindak Pidana aduan",
+      "diatur dalam Undang-Undang"
+    ],
+    "notes": "Pasal 132 ayat (1) huruf f dan g — penyelesaian non-litigasi vs penarikan aduan"
+  },
+  {
+    "query_id": "CQ30",
+    "query": "Kapan saya benar-benar bebas dari semua konsekuensi hukum suatu kejahatan?",
+    "relevant_chunks_keywords": [
+      "kewenangan penuntutan dinyatakan gugur",
+      "kewenangan pelaksanaan pidana dinyatakan gugur",
+      "kedaluwarsa",
+      "amnesti atau abolisi"
+    ],
+    "notes": "Pasal 132 dan 140 — kondisi bebas dari penuntutan dan pelaksanaan pidana"
+  }
+]

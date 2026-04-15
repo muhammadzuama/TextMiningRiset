@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Kalau saya menghina orang di media sosial, ancamannya berapa tahun penjara?",
+    "answer": "Penghinaan melalui media sosial dapat dipidana dengan pidana penjara paling lama 9 (sembilan) bulan atau denda kategori II untuk pencemaran lisan, atau paling lama 1 (satu) tahun 6 (enam) bulan atau denda kategori III jika dilakukan dengan tulisan/gambar yang disiarkan di tempat umum. Jika menggunakan sarana teknologi informasi, pidananya dapat ditambah 1/3. (Pasal 433 dan Pasal 441)",
+    "relevant_pasal": ["433", "441"],
+    "topic": "Penghinaan dan Pencemaran Nama Baik"
+  },
+  {
+    "question": "Berapa denda maksimal kalau ketahuan main judi online?",
+    "answer": "Orang yang menawarkan kesempatan main judi atau turut serta dalam perusahaan perjudian tanpa izin dapat dipidana dengan pidana penjara paling lama 9 (sembilan) tahun atau denda paling banyak kategori VI. Bagi yang hanya menggunakan kesempatan judi, ancamannya paling lama 3 (tiga) tahun atau denda kategori III. (Pasal 426 dan Pasal 427)",
+    "relevant_pasal": ["426", "427"],
+    "topic": "Perjudian"
+  },
+  {
+    "question": "Kalau menyebarkan konten porno di WhatsApp, hukumannya seberapa berat?",
+    "answer": "Memproduksi, menyebarluaskan, atau menyediakan pornografi dapat dipidana dengan pidana penjara paling singkat 6 (enam) bulan dan paling lama 10 (sepuluh) tahun, atau denda paling sedikit kategori IV dan paling banyak kategori VI. Namun, tidak dipidana jika merupakan karya seni, budaya, olahraga, kesehatan, atau ilmu pengetahuan. (Pasal 407)",
+    "relevant_pasal": ["407"],
+    "topic": "Pornografi"
+  },
+  {
+    "question": "Apa hukuman untuk orang yang melakukan persetubuhan dengan orang yang bukan suami/istrinya?",
+    "answer": "Perzinaan dipidana dengan pidana penjara paling lama 1 (satu) tahun atau denda paling banyak kategori II. Namun, penuntutan hanya dapat dilakukan atas pengaduan dari suami/istri (bagi yang terikat perkawinan) atau orang tua/anak (bagi yang tidak terikat perkawinan). (Pasal 411)",
+    "relevant_pasal": ["411"],
+    "topic": "Perzinaan"
+  },
+  {
+    "question": "Kalau memaksa seseorang melakukan perbuatan cabul dengan kekerasan, ancamannya berapa?",
+    "answer": "Melakukan perbuatan cabul secara paksa dengan kekerasan atau ancaman kekerasan dipidana dengan pidana penjara paling lama 9 (sembilan) tahun. Jika mengakibatkan Luka Berat, ancamannya paling lama 12 (dua belas) tahun, dan jika mengakibatkan kematian, paling lama 15 (lima belas) tahun. (Pasal 414 dan Pasal 416)",
+    "relevant_pasal": ["414", "416"],
+    "topic": "Perbuatan Cabul"
+  },
+  {
+    "question": "Berapa hukuman untuk orang tua yang menelantarkan anaknya?",
+    "answer": "Orang yang menempatkan atau membiarkan orang dalam keadaan terlantar padahal wajib memberi nafkah, dipidana dengan pidana penjara paling lama 2 (dua) tahun 6 (enam) bulan atau denda kategori III. Jika mengakibatkan Luka Berat, ancamannya paling lama 5 (lima) tahun, dan jika mengakibatkan kematian, paling lama 7 (tujuh) tahun. (Pasal 428)",
+    "relevant_pasal": ["428"],
+    "topic": "Penelantaran Orang"
+  },
+  {
+    "question": "Kalau memalsu surat keterangan dokter, ancamannya seberapa berat?",
+    "answer": "Dokter yang memberi surat keterangan tentang kesehatan atau kematian seseorang yang tidak sesuai keadaan sebenarnya dipidana dengan pidana penjara paling lama 4 (empat) tahun atau denda kategori IV. Jika tujuannya untuk memasukkan seseorang ke rumah sakit jiwa, ancamannya paling lama 8 (delapan) tahun atau denda kategori VI. (Pasal 395)",
+    "relevant_pasal": ["395"],
+    "topic": "Pemalsuan Surat Keterangan"
+  },
+  {
+    "question": "Apa hukuman untuk orang yang memalsu uang rupiah?",
+    "answer": "Memalsu mata uang atau uang kertas yang dikeluarkan negara dengan maksud mengedarkannya dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun atau denda paling banyak kategori VII. Jika mengedarkan uang palsu yang diketahuinya, ancamannya paling lama 15 (lima belas) tahun dan denda kategori VIII. (Pasal 374 dan Pasal 375)",
+    "relevant_pasal": ["374", "375"],
+    "topic": "Pemalsuan Mata Uang"
+  },
+  {
+    "question": "Kalau menghasut orang untuk membenci agama tertentu di media sosial, hukumannya apa?",
+    "answer": "Melakukan perbuatan yang bersifat permusuhan, menyatakan kebencian, atau menghasut untuk melakukan kekerasan/diskriminasi terhadap agama atau kepercayaan di Indonesia Di Muka Umum dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau denda kategori IV. Jika disiarkan melalui teknologi informasi, ancamannya paling lama 5 (lima) tahun atau denda kategori V. (Pasal 300 dan Pasal 301)",
+    "relevant_pasal": ["300", "301"],
+    "topic": "Penghinaan Terhadap Agama"
+  },
+  {
+    "question": "Berapa denda kalau mengganggu ibadah orang lain di tempat ibadah?",
+    "answer": "Membuat gaduh di dekat tempat ibadah saat ibadah berlangsung dipidana dengan denda paling banyak kategori I. Jika mengganggu dengan kekerasan atau ancaman kekerasan, ancamannya pidana penjara paling lama 2 (dua) tahun atau denda kategori III. Jika mengganggu orang yang sedang beribadah dengan kekerasan, ancamannya paling lama 5 (lima) tahun atau denda kategori IV. (Pasal 303)",
+    "relevant_pasal": ["303"],
+    "topic": "Gangguan Ibadah"
+  },
+  {
+    "question": "Kalau menganiaya hewan peliharaan orang, ancamannya berapa?",
+    "answer": "Melakukan penganiayaan hewan dengan menyakiti atau melukai hewan melampaui batas dipidana dengan pidana penjara paling lama 1 (satu) tahun atau denda kategori II. Jika mengakibatkan hewan sakit lebih dari 1 minggu, cacat, Luka Berat, atau mati, ancamannya paling lama 1 (satu) tahun 6 (enam) bulan atau denda kategori III. (Pasal 337)",
+    "relevant_pasal": ["337"],
+    "topic": "Penganiayaan Hewan"
+  },
+  {
+    "question": "Apa hukuman untuk orang yang menjual organ tubuh manusia?",
+    "answer": "Memperjualbelikan organ atau jaringan tubuh manusia dipidana dengan pidana penjara paling lama 7 (tujuh) tahun atau denda paling banyak kategori VI. Untuk darah manusia, ancamannya paling lama 3 (tiga) tahun atau denda kategori IV. (Pasal 345)",
+    "relevant_pasal": ["345"],
+    "topic": "Jual Beli Organ Tubuh"
+  },
+  {
+    "question": "Kalau tidak menolong orang yang sedang dalam bahaya maut, apakah bisa dipidana?",
+    "answer": "Ya. Orang yang menyaksikan ada orang menghadapi bahaya maut dan tidak memberi pertolongan yang dapat diberikan tanpa membahayakan dirinya atau orang lain, jika orang tersebut mati, dipidana dengan pidana penjara paling lama 6 (enam) bulan atau denda paling banyak kategori II. (Pasal 432)",
+    "relevant_pasal": ["432"],
+    "topic": "Tidak Memberi Pertolongan"
+  },
+  {
+    "question": "Berapa hukuman untuk fitnah yang dilakukan melalui media sosial?",
+    "answer": "Fitnah dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau denda kategori IV. Jika dilakukan dengan sarana teknologi informasi, pidananya dapat ditambah 1/3. Namun, pembuktian kebenaran tuduhan hanya dapat dilakukan dalam kondisi tertentu yang diatur undang-undang. (Pasal 434 dan Pasal 441)",
+    "relevant_pasal": ["434", "441"],
+    "topic": "Fitnah"
+  },
+  {
+    "question": "Kalau memaksa orang minum minuman keras sampai mabuk, ancamannya apa?",
+    "answer": "Memaksa seseorang meminum atau memakai bahan yang memabukkan dengan kekerasan atau ancaman kekerasan dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau denda kategori III. Jika mengakibatkan Luka Berat, ancamannya paling lama 5 (lima) tahun, dan jika mengakibatkan kematian, paling lama 7 (tujuh) tahun. (Pasal 424)",
+    "relevant_pasal": ["424"],
+    "topic": "Minuman Memabukkan"
+  },
+  {
+    "question": "Apa hukuman untuk orang yang memanfaatkan anak untuk mengemis?",
+    "answer": "Memberikan atau menyerahkan anak di bawah 12 tahun kepada orang lain untuk dimanfaatkan meminta-minta atau melakukan pekerjaan berbahaya dipidana dengan pidana penjara paling lama 4 (empat) tahun atau denda kategori IV. Orang yang menerima anak untuk dimanfaatkan juga dipidana dengan hukuman yang sama. (Pasal 425)",
+    "relevant_pasal": ["425"],
+    "topic": "Eksploitasi Anak"
+  },
+  {
+    "question": "Kalau merusak makam orang, ancamannya berapa?",
+    "answer": "Menodai atau secara melawan hukum merusak atau menghancurkan makam atau tanda-tanda di atas makam dipidana dengan pidana penjara paling lama 1 (satu) tahun atau denda paling banyak kategori II. (Pasal 269)",
+    "relevant_pasal": ["269"],
+    "topic": "Perusakan Makam"
+  },
+  {
+    "question": "Berapa denda kalau ketahuan menyebar berita bohong yang bikin rusuh?",
+    "answer": "Menyiarkan atau menyebarluaskan berita bohong yang diketahuinya dan mengakibatkan kerusuhan dalam masyarakat dipidana dengan pidana penjara paling lama 6 (enam) tahun atau denda kategori V. Jika patut diduga bohong dan dapat mengakibatkan kerusuhan, ancamannya paling lama 4 (empat) tahun atau denda kategori IV. (Pasal 263)",
+    "relevant_pasal": ["263"],
+    "topic": "Berita Bohong"
+  },
+  {
+    "question": "Apa hukuman untuk orang yang memaksa masuk ke rumah orang lain?",
+    "answer": "Memaksa masuk ke dalam rumah, ruangan tertutup, atau pekarangan tertutup orang lain secara melawan hukum dipidana dengan pidana penjara paling lama 1 (satu) tahun atau denda kategori II. Jika mengeluarkan ancaman atau menggunakan sarana menakutkan, ancamannya paling lama 2 (dua) tahun atau denda kategori III. (Pasal 257)",
+    "relevant_pasal": ["257"],
+    "topic": "Memaksa Masuk Rumah"
+  },
+  {
+    "question": "Kalau melakukan kekerasan bersama-sama di tempat umum, hukumannya seberapa berat?",
+    "answer": "Melakukan kekerasan terhadap orang atau Barang secara bersama-sama Di Muka Umum dipidana dengan pidana penjara paling lama 5 (lima) tahun atau denda kategori V. Jika mengakibatkan Luka Berat, ancamannya paling lama 9 (sembilan) tahun, dan jika mengakibatkan kematian, paling lama 12 (dua belas) tahun. (Pasal 262)",
+    "relevant_pasal": ["262"],
+    "topic": "Kekerasan Bersama di Umum"
+  },
+  {
+    "question": "Berapa hukuman untuk orang yang memalsu ijazah?",
+    "answer": "Memalsukan atau membuat palsu ijazah, sertifikat kompetensi, dan dokumen penyertainya dipidana dengan pidana penjara paling lama 6 (enam) tahun atau denda kategori V. Menggunakan ijazah palsu juga diancam hukuman yang sama. Yang menerbitkan ijazah palsu ancamannya paling lama 10 (sepuluh) tahun atau denda kategori VI. (Pasal 272)",
+    "relevant_pasal": ["272"],
+    "topic": "Pemalsuan Ijazah"
+  },
+  {
+    "question": "Apa ancaman hukuman untuk orang yang menyadap komunikasi elektronik orang lain?",
+    "answer": "Mendengarkan, merekam, atau mencatat transmisi Informasi Elektronik yang tidak bersifat publik secara melawan hukum dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun atau denda kategori V. Jika menyiarkan hasil sadapan, ancamannya sama. (Pasal 258)",
+    "relevant_pasal": ["258"],
+    "topic": "Penyadapan Elektronik"
+  },
+  {
+    "question": "Kalau menghina Presiden di media sosial, ancamannya berapa?",
+    "answer": "Menyerang kehormatan atau harkat dan martabat Presiden Di Muka Umum dipidana dengan pidana penjara paling lama 3 (tiga) tahun atau denda kategori IV. Jika disiarkan melalui teknologi informasi, ancamannya paling lama 4 (empat) tahun atau denda kategori IV. Namun, tidak dipidana jika dilakukan untuk kepentingan umum atau pembelaan diri. (Pasal 218 dan Pasal 219)",
+    "relevant_pasal": ["218", "219"],
+    "topic": "Penghinaan Terhadap Presiden"
+  },
+  {
+    "question": "Berapa denda maksimal untuk pelanggaran kesusilaan di tempat umum?",
+    "answer": "Melanggar kesusilaan Di Muka Umum atau di muka orang lain yang hadir tanpa kemauan orang tersebut dipidana dengan pidana penjara paling lama 1 (satu) tahun atau denda paling banyak kategori II. (Pasal 406)",
+    "relevant_pasal": ["406"],
+    "topic": "Pelanggaran Kesusilaan"
+  },
+  {
+    "question": "Apa hukuman untuk orang yang melakukan percabulan terhadap anak?",
+    "answer": "Melakukan percabulan dengan Anak kandung, Anak tiri, Anak angkat, atau Anak di bawah pengawasan dipidana dengan pidana penjara paling lama 12 (dua belas) tahun. Jika dilakukan oleh pejabat terhadap bawahan atau oleh dokter/guru terhadap orang dalam asuhannya, ancamannya sama. (Pasal 418)",
+    "relevant_pasal": ["418"],
+    "topic": "Percabulan Terhadap Anak"
+  }
+]

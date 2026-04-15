@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Kapan saya tidak bisa dituntut lagi untuk kasus yang sudah pernah diputuskan pengadilan?",
+    "answer": "Anda tidak bisa dituntut lagi jika sudah ada putusan pengadilan yang berkekuatan hukum tetap untuk perkara yang sama. Ini prinsip 'satu perkara, satu putusan' (Pasal 134 KUHP)."
+  },
+  {
+    "question": "Apa yang terjadi jika tersangka meninggal dunia saat proses hukum berjalan?",
+    "answer": "Jika tersangka atau terdakwa meninggal dunia, kewenangan untuk menuntutnya gugur otomatis. Proses hukum berhenti (Pasal 132 ayat (1) huruf b KUHP)."
+  },
+  {
+    "question": "Berapa lama waktu yang dimiliki penyidik untuk menuntut seseorang setelah kejahatan terjadi?",
+    "answer": "Tergantung berat ringannya ancaman hukuman. Untuk kejahatan ringan (ancaman penjara maksimal 1 tahun), batasnya 3 tahun. Untuk kejahatan berat seperti pembunuhan atau pidana mati, batasnya 20 tahun (Pasal 136 KUHP)."
+  },
+  {
+    "question": "Apakah saya bisa membayar denda agar tidak dituntut?",
+    "answer": "Bisa, tapi hanya untuk kejahatan ringan yang ancamannya hanya denda. Jika Anda bayar denda maksimal secara sukarela sebelum dituntut, kasus bisa gugur (Pasal 132 ayat (1) huruf d KUHP)."
+  },
+  {
+    "question": "Kapan pengaduan bisa ditarik kembali sehingga kasus berhenti?",
+    "answer": "Untuk kejahatan jenis 'aduan' (seperti pencemaran nama baik), jika pelapor menarik kembali pengaduannya, maka penuntutan gugur. Tapi ini hanya berlaku untuk kejahatan yang memang syaratnya harus ada pengaduan (Pasal 132 ayat (1) huruf f KUHP)."
+  },
+  {
+    "question": "Apa itu amnesti dan bagaimana pengaruhnya terhadap kasus saya?",
+    "answer": "Amnesti adalah pengampunan massal dari Presiden. Jika Anda mendapat amnesti, maka kewenangan penuntutan terhadap Anda gugur. Kasus Anda berhenti (Pasal 132 ayat (1) huruf h KUHP)."
+  },
+  {
+    "question": "Jika saya sudah dihukum di luar negeri, apakah bisa dihukum lagi di Indonesia untuk kasus yang sama?",
+    "answer": "Tidak bisa. Jika Anda sudah dihukum di luar negeri dan hukumannya sudah dijalani, atau Anda dibebaskan, maka Indonesia tidak boleh menuntut Anda lagi untuk perkara yang sama (Pasal 135 KUHP)."
+  },
+  {
+    "question": "Berapa lama batas waktu penuntutan untuk kejahatan ringan seperti pencurian kecil?",
+    "answer": "Untuk kejahatan dengan ancaman penjara maksimal 1 tahun atau hanya denda, batas waktu penuntutannya 3 tahun sejak kejahatan terjadi (Pasal 136 ayat (1) huruf a KUHP)."
+  },
+  {
+    "question": "Berapa lama batas waktu penuntutan untuk kejahatan berat seperti pembunuhan?",
+    "answer": "Untuk kejahatan dengan ancaman pidana mati atau penjara seumur hidup, batas waktu penuntutannya 20 tahun sejak kejahatan terjadi (Pasal 136 ayat (1) huruf e KUHP)."
+  },
+  {
+    "question": "Apakah batas waktu penuntutan berbeda untuk anak di bawah umur?",
+    "answer": "Ya. Untuk anak, batas waktu penuntutan lebih singkat, yaitu hanya sepertiga dari batas waktu orang dewasa. Misalnya, jika dewasa 3 tahun, untuk anak hanya 1 tahun (Pasal 136 ayat (2) KUHP)."
+  },
+  {
+    "question": "Kapan perhitungan batas waktu penuntutan dimulai?",
+    "answer": "Biasanya dihitung mulai hari setelah kejahatan dilakukan. Tapi untuk kejahatan tertentu seperti pemalsuan uang, dihitung sejak uang palsunya digunakan (Pasal 137 KUHP)."
+  },
+  {
+    "question": "Apa yang terjadi jika penyidik sudah mulai menuntut sebelum batas waktu habis?",
+    "answer": "Jika penuntutan sudah dimulai, maka batas waktu kedaluwarsa berhenti. Setelah itu, akan dihitung batas waktu baru (Pasal 138 KUHP)."
+  },
+  {
+    "question": "Apakah batas waktu bisa berhenti sementara jika ada sengketa hukum?",
+    "answer": "Ya. Jika penuntutan ditunda karena menunggu putusan sengketa hukum lain, maka batas waktu kedaluwarsa juga ikut tertunda sampai sengketa itu selesai (Pasal 139 KUHP)."
+  },
+  {
+    "question": "Kapan hukuman tidak bisa dilaksanakan lagi?",
+    "answer": "Pelaksanaan hukuman bisa gugur jika terpidana meninggal, sudah lewat batas waktu pelaksanaan, mendapat grasi/ampunan, atau diserahkan ke negara lain untuk menjalani hukuman (Pasal 140 KUHP)."
+  },
+  {
+    "question": "Apa yang terjadi pada harta sitaan jika terpidana meninggal?",
+    "answer": "Meskipun terpidana meninggal, harta yang sudah disita untuk dirampas tetap bisa diproses dan dirampas oleh negara (Pasal 141 KUHP)."
+  },
+  {
+    "question": "Berapa lama batas waktu untuk melaksanakan hukuman setelah putusan?",
+    "answer": "Batas waktu pelaksanaan hukuman sama dengan batas waktu penuntutan ditambah sepertiga. Misalnya, jika batas penuntutan 3 tahun, maka batas pelaksanaan 4 tahun (Pasal 142 ayat (1) KUHP)."
+  },
+  {
+    "question": "Apakah hukuman mati punya batas waktu kedaluwarsa?",
+    "answer": "Tidak. Hukuman mati tidak ada batas waktu kedaluwarsa. Kapan pun bisa dilaksanakan selama syarat hukumnya terpenuhi (Pasal 142 ayat (3) KUHP)."
+  },
+  {
+    "question": "Bagaimana jika terpidana melarikan diri saat menjalani hukuman?",
+    "answer": "Jika terpidana kabur, batas waktu kedaluwarsa pelaksanaan hukuman dihitung ulang mulai hari setelah dia kabur. Masa pelariannya tidak dihitung sebagai waktu menjalani hukuman (Pasal 143 ayat (2) dan Pasal 63 KUHP)."
+  },
+  {
+    "question": "Apakah grasi atau ampunan presiden mempengaruhi batas waktu penuntutan?",
+    "answer": "Grasi atau amnesti tidak mempengaruhi batas waktu penuntutan, tapi bisa menghentikan pelaksanaan hukuman jika sudah ada putusan. Amnesti bahkan bisa menggugurkan penuntutan sejak awal (Pasal 132 dan 140 KUHP)."
+  },
+  {
+    "question": "Kapan pembayaran denda sukarela bisa menghentikan proses hukum?",
+    "answer": "Pembayaran denda sukarela hanya bisa menghentikan proses untuk kejahatan ringan yang ancamannya hanya denda kategori II, atau kejahatan dengan ancaman penjara maksimal 1 tahun jika bayar denda kategori IV (Pasal 132 ayat (1) huruf d dan e KUHP)."
+  },
+  {
+    "question": "Apa bedanya antara gugurnya penuntutan dan gugurnya pelaksanaan hukuman?",
+    "answer": "Gugurnya penuntutan berarti kasus tidak bisa diproses ke pengadilan. Gugurnya pelaksanaan hukuman berarti sudah ada putusan, tapi hukumannya tidak bisa dijalankan. Keduanya punya alasan dan aturan berbeda (Pasal 132 dan 140 KUHP)."
+  },
+  {
+    "question": "Jika kasus diselesaikan di luar pengadilan, apakah masih bisa dituntut?",
+    "answer": "Tidak. Jika sudah ada penyelesaian di luar proses peradilan sesuai aturan undang-undang, maka kewenangan penuntutan gugur (Pasal 132 ayat (1) huruf g KUHP)."
+  },
+  {
+    "question": "Apakah ada perbedaan batas waktu untuk kejahatan yang dilakukan oleh perusahaan?",
+    "answer": "Untuk perusahaan (korporasi), aturan gugurnya penuntutan tetap sama, tapi dalam penerapannya memperhatikan ketentuan khusus tentang pidana denda untuk korporasi (Pasal 132 ayat (2) dan Pasal 121 KUHP)."
+  },
+  {
+    "question": "Kapan pengaduan dari korban menjadi syarat agar kasus bisa diproses?",
+    "answer": "Untuk kejahatan jenis 'aduan', kasus hanya bisa diproses jika ada pengaduan dari korban atau yang berhak mengadu. Jika pengaduan ditarik, kasus berhenti (Pasal 132 ayat (1) huruf f KUHP)."
+  },
+  {
+    "question": "Apa konsekuensi jika batas waktu penuntutan sudah lewat tapi kasus masih diproses?",
+    "answer": "Jika batas waktu sudah lewat, maka kewenangan penuntutan gugur. Kasus harus dihentikan. Jika dipaksakan, putusan bisa dibatalkan karena melanggar hukum (Pasal 136 KUHP)."
+  },
+  {
+    "question": "Bagaimana jika putusan pengadilan baru diketahui belakangan?",
+    "answer": "Batas waktu kedaluwarsa dihitung sejak kejahatan terjadi, bukan sejak diketahui. Jadi, meskipun baru ketahuan belakangan, jika sudah lewat batas waktu, penuntutan tidak bisa dilakukan (Pasal 137 KUHP)."
+  },
+  {
+    "question": "Apakah batas waktu penuntutan bisa diperpanjang dalam kondisi tertentu?",
+    "answer": "Tidak ada perpanjangan, tapi batas waktu bisa 'berhenti sementara' jika ada tindakan penuntutan atau sengketa hukum. Setelah itu, dihitung batas waktu baru (Pasal 138 dan 139 KUHP)."
+  },
+  {
+    "question": "Kapan seseorang dianggap sudah 'bebas' dari tuntutan hukum karena waktu?",
+    "answer": "Seseorang dianggap bebas dari tuntutan jika batas waktu kedaluwarsa sudah lewat dan tidak ada tindakan penuntutan yang menghentikan batas waktu tersebut (Pasal 136 KUHP)."
+  },
+  {
+    "question": "Apa yang terjadi jika terpidana mendapat pengampunan setelah batas waktu hampir habis?",
+    "answer": "Jika terpidana mendapat grasi atau amnesti, maka pelaksanaan hukuman bisa dihentikan atau dihapus, terlepas dari batas waktu kedaluwarsa (Pasal 140 KUHP)."
+  },
+  {
+    "question": "Apakah saya bisa dihukum dua kali untuk kejahatan yang sama?",
+    "answer": "Tidak. Hukum Indonesia menganut prinsip 'ne bis in idem', artinya satu orang tidak bisa dihukum dua kali untuk perbuatan yang sama yang sudah ada putusan tetapnya (Pasal 134 KUHP)."
+  }
+]
